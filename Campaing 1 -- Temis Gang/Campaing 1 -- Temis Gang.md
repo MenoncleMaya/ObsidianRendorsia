@@ -8,7 +8,8 @@ The royal guards still have some wizards but mostly human without any magical po
 
 Magic is no longer a common thing; most magic users are either enlisted in the human army or publicly executed.
 
-The party is given a quest to fetch back a relic (Sort of philosopher stone - sacrificial stone). The quest giver is shady but stays anonymous. The party will have to gather the information from an older [[Otter Folks]] named [[Lumara Streamwhisper]]. Once the party has gathered everything for the expedition they’ll have to pass through the forest where a workers camp heavily guarded by soldiers will make their travel more pearious. Then through the mountains where they’ll have two choices, 1 of bribing the dwarfs to let them travel by their tunnels or 2 travel across the mountains and risk their fate. No matter what the party will fall in an old goblin infested dwarfs mine. They’ll have to make camp and to find shelter in the mountains to avoid multiple creatures from attacking them. Once in [[Truvel]], they’ll have to gamble or gain the information of the exact location of Imbrel Skorri, he is an old frost giant defending a small village at the cost of lots of food from them. He will accept to help the party on the condition that the party take care of the 3 Buvlack wreaking havoc in the village. [[Imbrel Skorri]] will then tell the party where’s the relic they’re looking for and that they will need both a boat and a [[ShineHorn]] to pass through the heavy fog. The [[ShineHorn]] is a rare species native to the elvish forest, and every good boats are at Bay of no Tales. To get to the elvish forest they will have to go down stream, across the human barrage through the dark forest, the enchanted forest and finally fight the elfs to capture a [[ShineHorn]]. Once they’ve captured the goat they will have to get themselves a boat for that they'll either have to buy one, gain one or steal one. With the boat they will have a traveling session with multiple events. Once near the island that doesn't appear on the map, they will have to get the goat to clear the trail and get on the island. They will find a cave entrance and once they have made their foot in the cave the island will start sinking and some sort of force will keep the water out of the cave. Once at a gate in the cave they’ll have to solve a puzzle by sacrificing the goat which will open the gate. They will see the blood go in the gemstone which is pure black. On pick up of the stone, holes will puncture the cave to let some water in and a giant sea snake for the big fight. Once the fight is done the party will make its way back to [[Wezzihk]] where [[Emmyth Eildan]] will be waiting for them, to trap them and their family's kill them and take their blood. Opening for the next campaign.
+The party is given a quest to fetch back a relic (Sort of philosopher stone - sacrificial stone). The quest giver is shady but stays anonymous. The party will have to gather the information from an older [[Otter Folks]] named [[Lumara Streamwhisper]].
+Once the party has gathered everything for the expedition they’ll have to pass through the forest where a workers camp made from a village named [[WoodsCove]], heavily guarded by soldiers wich will make their travel more pearious. Then through [[The Mountains]] where they’ll have two choices, 1 of bribing the dwarfs to let them travel by their tunnels or 2 travel across [[The Mountains]] and risk their fate. No matter what the party will fall in an old [[Goblins]] infested dwarfs mine. They’ll have to make camp and to find shelter in [[The Mountains]] to avoid multiple creatures from attacking them. Once in [[Truvel]], they’ll have to gamble or gain the information of the exact location of [[Imbrel Skorri]], he is an old [[Frost Giant]] defending a small village at the cost of lots of food from them. He will accept to help the party on the condition that the party take care of the 3 [[Bulvack]] wreaking havoc in the village. [[Imbrel Skorri]] will then tell the party where’s the relic they’re looking for and that they will need both a boat and a [[ShineHorn]] to pass through the heavy fog. The [[ShineHorn]] is a rare species native to the [[Elvish Forest]], and every good boats are at [[Bay of no Tales]]. To get to the [[Elvish Forest]] they will have to go down stream, across the human barrage through the [[Dark Forest]], the enchanted forest and finally fight the elfs to capture a [[ShineHorn]]. Once they’ve captured the goat they will have to get themselves a boat for that they'll either have to buy one, gain one or steal one. With the boat they will have a traveling session with multiple events. Once near the [[Hidden Islands]], they will have to get the goat to clear the trail and get on the island. They will find a cave entrance and once they have made their foot in the cave the island will start sinking and some sort of force will keep the water out of the cave. Once at a gate in the cave they’ll have to solve a puzzle by sacrificing the goat which will open the gate. They will see the blood go in the gemstone which is pure black. On pick up of the stone, holes will puncture the cave to let some water in and a giant sea snake for the big fight. Once the fight is done the party will make its way back to [[Wezzihk]] where [[Emmyth Eildan]] will be waiting for them, to trap them and their family's kill them and take their blood. Opening for the next campaign.
 
 Breton - his family's being Cursed by [[Emmyth Eildan]] the main antagonist which his disguised 
 
@@ -21,7 +22,8 @@ Nous sommes 100 ans suivant la great human War. Dans la région de [[Rendorsia]]
 [[Jayson Dalton Smith]] 2S decides to go and find a cure for his mother’s disease after crossing the river he made his way in the city of [[Wezzihk]] where a strange tall man whose every other physical trait is hidden by a cloak. His face is covered by a dark veil keeping him anonymous. The man tells him that if he does a job for him he'll tell him where he could find a cure for his mother plus a lot of money.
 [[Jimmie Jay]] 2S dans une taverne non bien loin de là, un homme se fait sortir de la taverne de force - présentation player - lorsqu'il se retourne un même homme est au bout de la ruelle. Il l'approche tranquillement tout en lui expliquant sont plan il lui offre un travail afin de sauver le cirque il doit simplement récolter un artifact. lorsque Jimmy Jay se retourne après que l'homme soit passé près de lui il n'y avait plus personne. Jimmie Jay ressent quelque chose dans ses poches (sorte de carte d'affaires menant à une ancienne boucherie désinfecter) 
 [[Günter Fisher]] 6S, après une longue journée, Günter se rend chez son frère là ou sa fille se trouve. À sa surprise il n’y a personne à l'exception d’un étrange homme dans la salle principal  (His brother and daughter are at a friend's place). L’homme dit à Günter que pour assurer un meilleur futur pour sa fille il doit l’aider pour un travail. Avant que Günter ne puisse dire quoi que ce soit , l'homme le coupe et lui dit d’ouvrir la porte pour son collègue.
-[[Bibyrgimos]] est là, devant la porte, l'air inquiet. L’homme tente de convaincre Bibyr en lui donnant des images créées de toute pièce d’un monde où les hommes ne règne plus…(Sort of Heaven). Après plusieurs jours de recherche d’un groupe anti-gouvernemental, [[Cashmere]] se fait  accoster par un homme lui offrant exactement ce qu’il recherche, un groupe combattant contre les injustices généré par la monarchie de roi Baldwin.
+[[Bibyrgimos]] est là, devant la porte, l'air inquiet. L’homme tente de convaincre Bibyr en lui donnant des images créées de toute pièce d’un monde où les hommes ne règne plus…(Sort of Heaven). Après plusieurs jours de recherche d’un groupe anti-gouvernemental, 
+[[Cashmere]] se fait  accoster par un homme lui offrant exactement ce qu’il recherche, un groupe combattant contre les injustices généré par la monarchie de roi Baldwin.
 
 ## Actual Session
 
@@ -92,15 +94,15 @@ Time for the party to buy all they need for the campaign (rations, component, ba
 
 Les egouts
 
-Ils découvrent le black market
+Ils découvrent le [[Black Market of Wezzihk]]
 
-Ils ont acheter la tete de chat permettant De donner avantage sur un saving throw, la cape qui fais sometimes donne de quoi a un roll, Et un bag Of holding.
+Ils ont acheter la tete de chat permettant De donner avantage sur un saving throw, la cape qui fais sometimes donne de quoi a un roll, et un bag Of holding.
 
-Ils se font attaquer par des thiefs (6) 
+Ils se font attaquer par des [[Thiefs]] (6) 
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfQaW3fD64RrHjCdOEVlUrrSsj5S8JygUxnfE6tvpLrTRcDPxGz8nKGaEAeR9XjzX6iTW0ABl074MXpzK3pj89x3KezPxdBvi5LKnqHFF0JPTc35lHaz2VXLtUAWk1Z4vxHl80xOxQ717vNR3jkti8f7iM?key=2rvOLd9v_Sh3JbB5EyjUSw)Une fois hors de [[Wezzihk]] le groupe devra décider de comment ils se déplaceront 2.5gp can go down to 1.5gp to buy some ones cart with the horses. 
 
-Ils ont acheté un kart avec un abri afin de rester camouflé et de se déplacer plus rapidement. Non loin de l'entrée de La forest le party décide d'installer un campement pour la nuit. Pendant une ronde de nuit… Bibyr a aperçut un grand ours se rapprocher tranquillement du groupe. Ils ont combattu l'ours pour découvrir qu'il s'agissait d'une mère. Ils n'ont pas réussi à apprivoiser le bébé.
+Ils ont acheté un kart avec un abri afin de rester camouflé et de se déplacer plus rapidement. Non loin de l'entrée de la forest le party décide d'installer un campement pour la nuit. Pendant une ronde de nuit… Bibyr a aperçut un grand ours se rapprocher tranquillement du groupe. Ils ont combattu l'ours pour découvrir qu'il s'agissait d'une mère. Ils n'ont pas réussi à apprivoiser le bébé.
 
 Ils ont récupéré la peau et font fumer la viande.
 
@@ -115,14 +117,14 @@ Recap session 1 & 2 : chaque joueur rencontre avec Emmyth Eildan (garder nom sec
 
 Le party se dirige au travers de la forêt se rendant dans un petit village du nom de [[WoodsCove]]. L'affiche du village s'est mise à terre défoncer par de violents coups. De nombreuses empreintes de cheveux et de soldats à pieds. Le village est en phase de travail forcé par les nouvelles recrues militaires. Le corps est géré par le gouverneur [[Sir Darius Dunkeld]]. Lorsqu’ils arrivent dans le village, très peu de paysans sont dans les rues, seuls les propriétaires de commerces essentiels sont présents, le village semble désert. Ils interagissent avec le [[One Eye Compass]], un magasin général, l’un des seuls commerces toujours ouvert dans le village. Après quelques minutes d’intéraction avec le le gérant du magasin ([[Guideon Creek]])
 
-À 5h tapant l'horloge sonne laissant savoir tout le monde que les gardes reviennent, premièrement, les ouvriers reviennent avec leurs outils et des chariots remplie de bois certain même les sous espèces sont majoritairement enchaînées. Si le groupe est séparé, le groupe dehors se fait demander de suivre par un bataillon de soldats puis, interrogé par le Gouverneur Sir Darius Dunkeld. Le groupe à l'intérieur reçoit l'opportunité de se cacher dans la pièce de stockage du magasin. La fille de Guideon Creek, Elysia, ouvre la porte et leur fait signe de rester discret. Des gardes entrent dans le magasin et interrogent Guideon sur le passé d'etranger dans le village. Stealth check. Si oui Elysia sort avec le chat et mets la faute sur le chat. Si le groupe ne réussit pas un deuxième stealth check les soldats vont fouiller le magasin, possible fight. 1.75x le nombre de soldats à comparer le party. Si le groupe est attentif, ils remarquent que Guideon garde constamment une main protectrice sur un étrange livre. Une fois les gardes partis, Elysia rappellera à Guideon que de signer la commande des vracs. (Chance to talk about memory loss (hit his head while working in the woods and was found two days later)/ great war){Le père de Guideon a combattu dans la great war et son frère d’arme lui a fait promettre de remettre le livre à sa fille Rosaria, malheureusement il n’a jamais eu la chance donc maintenant Guideon attend le jours de trouver Rosaria ou sa descendance.}
+À 5h tapant l'horloge sonne laissant savoir tout le monde que les gardes reviennent, premièrement, les ouvriers reviennent avec leurs outils et des chariots remplie de bois certain même les sous espèces sont majoritairement enchaînées. Si le groupe est séparé, le groupe dehors se fait demander de suivre par un bataillon de soldats puis, interrogé par le Gouverneur [[Sir Darius Dunkeld]]. Le groupe à l'intérieur reçoit l'opportunité de se cacher dans la pièce de stockage du magasin. La fille de [[Guideon Creek]], [[Elysia]], ouvre la porte et leur fait signe de rester discret. Des gardes entrent dans le magasin et interrogent Guideon sur le passé d'etranger dans le village. Stealth check. Si oui Elysia sort avec le chat et mets la faute sur le chat. Si le groupe ne réussit pas un deuxième stealth check les soldats vont fouiller le magasin, possible fight. 1.75x le nombre de soldats à comparer le party. Si le groupe est attentif, ils remarquent que Guideon garde constamment une main protectrice sur un étrange livre. Une fois les gardes partis, Elysia rappellera à Guideon que de signer la commande des vracs. (Chance to talk about memory loss (hit his head while working in the woods and was found two days later)/ great war){Le père de Guideon a combattu dans la great war et son frère d’arme lui a fait promettre de remettre le livre à sa fille Rosaria, malheureusement il n’a jamais eu la chance donc maintenant Guideon attend le jours de trouver Rosaria ou sa descendance.}
  
 
-Si une partie du party reste hors du magasin, il se feront encercler par assez de soldats pour les forcer à se rendre, puis ils seront pris captifs. Si le parti est pris captif, ils se réveilleront dans une petite cabane à l'autre extrémité du village. Ils rencontreront Darius Dunkeld, ils seront informés qu’ils devront participer au camp de travail le lendemain.(“ d'où venez vous?” “Que faites vous ici” “Que cherchez-vous?” “Ou allez-vous?”) La nuit même, le groupe aura une chance de s'évader lorsque les gardes finiront de boire et tomberont endormis. La pièce où ils seront enfermés sera pratiquement vide, une fenêtre barricadée, une porte, un lit, un pot. Qu'il trouve un moyen de s'évader eux-même. Une fois évader, ils devront retrouver le reste du groupe. 
+Si une partie du party reste hors du magasin, il se feront encercler par assez de soldats pour les forcer à se rendre, puis ils seront pris captifs. Si le parti est pris captif, ils se réveilleront dans une petite cabane à l'autre extrémité du village. Ils rencontreront [[Sir Darius Dunkeld]], ils seront informés qu’ils devront participer au camp de travail le lendemain.(“ d'où venez vous?” “Que faites vous ici” “Que cherchez-vous?” “Ou allez-vous?”) La nuit même, le groupe aura une chance de s'évader lorsque les gardes finiront de boire et tomberont endormis. La pièce où ils seront enfermés sera pratiquement vide, une fenêtre barricadée, une porte, un lit, un pot. Qu'il trouve un moyen de s'évader eux-même. Une fois évader, ils devront retrouver le reste du groupe. 
 
   
 
-Du côté du groupe avec Guideon ils pourront passer la nuit dans le backstore du magasin. Si attentif, le groupe peut entendre Guideon se parler, si haute perception : peuvent comprendre sinon juste mufle et quels que sons. (“Ça fait des années que je … ce livre je … et puis ce groupe … Bang!! …     bruit de papier … quelque chose ne va pas … j'arrive toujours pas a comprendre ”) Le lendemain, Guideon demande de l’aide au parti afin de les aider à libérer le village de la présence militaire. Ils seront informés du fait qu’ils sont en désavantage numérique. Ils seront offert d’assassiner le Général Sir Darius Dunkeld
+Du côté du groupe avec Guideon ils pourront passer la nuit dans le backstore du magasin. Si attentif, le groupe peut entendre Guideon se parler, si haute perception : peuvent comprendre sinon juste mufle et quels que sons. (“Ça fait des années que je … ce livre je … et puis ce groupe … Bang!! …     bruit de papier … quelque chose ne va pas … j'arrive toujours pas a comprendre ”) Le lendemain, Guideon demande de l’aide au parti afin de les aider à libérer le village de la présence militaire. Ils seront informés du fait qu’ils sont en désavantage numérique. Ils seront offert d’assassiner le Général [[Sir Darius Dunkeld]]
  
 
 # Session 4 -- Manoir
@@ -143,7 +145,7 @@ Darius construit un manoir, la première livraison de la carrière et des outils
 
   
 
-Le party a suivi les gardes dans la forêt jusqu’au camp de construction du manoir de Darius Dunkheld. Ils ont combattu Darius dans la forêt en lui faisant une embuscade malgré la force de Darius le party a réussi à récupérer les plans de Darius. Le combat a fini avec un face à face où les deux côtés avaient des otages, ils ont fait un échange d'otages et le parti a fui dans la forêt.  
+Le party a suivi les gardes dans la forêt jusqu’au camp de construction du manoir de Darius Dunkheld. Ils ont combattu Darius dans la forêt en lui faisant une embuscade malgré la force de Darius le party a réussi à récupérer ***les plans*** de Darius. Le combat a fini avec un face à face où les deux côtés avaient des otages, ils ont fait un échange d'otages et le parti a fui dans la forêt.  
 
   
 
@@ -159,16 +161,16 @@ Le party a suivi les gardes dans la forêt jusqu’au camp de construction du ma
 
 #### Objectifs du Combat Final
 
-1. Sauver Elysia, la fille de Gideon Creek
+1. Sauver [[Elysia]], la fille de [[Gideon Creek]]
     
-2. Combattre et vaincre Sir Darius Dunkeld
+2. Combattre et vaincre [[Sir Darius Dunkeld]]
     
 3. Libérer le village des soldats oppresseurs
     
 
 #### Introduction au Combat
 
-- Contexte: Elysia est capturée par Sir Darius Dunkeld. Le groupe, accompagné de quelques paysans révoltés, doit infiltrer la zone de détention, libérer Elysia, et combattre Darius et ses soldats.
+- Contexte: [[Elysia]] est capturée par [[Sir Darius Dunkeld]]. Le groupe, accompagné de quelques paysans révoltés, doit infiltrer la zone de détention, libérer [[Elysia]], et combattre Darius et ses soldats.
     
 
 #### Scène de Préparation
@@ -220,13 +222,13 @@ Phase 1: Infiltration et Confrontation Initiale
 - Une fois à l'intérieur, ils se dirigent vers la salle principale.
     
 
-Phase 2: Libération d'Elysia
+Phase 2: Libération d'[[Elysia]]
 
-- Elysia est ligotée au centre de la salle principale.
+- [[Elysia]] est ligotée au centre de la salle principale.
     
 - Darius ordonne aux soldats élites d'attaquer le groupe dès qu'ils entrent.
     
-- Le groupe doit diviser ses efforts entre combattre les soldats et libérer Elysia (Skill Check: Sleight of Hand ou Strength pour défaire les liens).
+- Le groupe doit diviser ses efforts entre combattre les soldats et libérer [[Elysia]] (Skill Check: Sleight of Hand ou Strength pour défaire les liens).
     
 
 Phase 3: Combat Contre Darius
@@ -280,11 +282,11 @@ Ce plan pour le combat final devrait offrir une expérience épique et satisfais
 
 Session Notes:
 
-Did the spell to speak with employer 
+Did the spell to speak with employer to invoke [[Alfred]]
 
 Marked the spot of the the ritual and the fortress
 
-Statue of bibirgymos
+Statue of [[Bibyrgimos]]
 
   
 
@@ -324,7 +326,7 @@ Le groupe a sauvé le village avec succès et se dirige maintenant vers la ville
 
 #### Rencontres et Événements
 
-1. Embuscade de Bandits
+1. Embuscade de [[Thiefs]]
     
 
 - Lieu: Le long du chemin de la rivière.
@@ -338,7 +340,7 @@ Le groupe a sauvé le village avec succès et se dirige maintenant vers la ville
 - Résolution: Le groupe peut négocier, combattre, ou trouver un moyen astucieux d'éviter les bandits.
     
 
-3. Créature Mystique de la Rivière
+3. [[Creature Mystique]] de la Rivière
     
 
 - Lieu: Au milieu de la rivière.
@@ -350,76 +352,6 @@ Le groupe a sauvé le village avec succès et se dirige maintenant vers la ville
 - Objectif: Elle peut offrir des conseils ou une petite bénédiction si elle est traitée avec respect.
     
 - Résolution: Le groupe peut interagir pacifiquement ou se préparer à un éventuel combat.
-    
-
-  
-
-//////////////////////////////////////////////////////////////////////////////////////////////////////////////
-
-### Créature Mystique de la Rivière
-
-#### Apparence
-
-La créature mystique de la rivière est un élémentaire d'eau majestueux, ressemblant à une silhouette humanoïde faite d'eau pure et cristalline. Sa forme est changeante, parfois fluide comme une rivière en mouvement, et parfois prenant des contours plus définis. Elle mesure environ deux mètres de haut, avec des bras et des jambes élancés qui semblent se fondre et se reformer sans cesse. Ses yeux sont des tourbillons d'eau scintillante, émettant une lueur douce et apaisante. Autour de son corps, des éclats de lumière dansent comme des reflets du soleil sur une surface d'eau.
-
-#### Comportement
-
-La créature est généralement curieuse et bienveillante envers ceux qui respectent la nature et la rivière qu'elle protège. Elle observe les voyageurs de loin, s'assurant qu'ils ne nuisent pas à son domaine. En cas de danger ou de menace perçue, son comportement peut devenir protecteur et même agressif. Elle utilise la magie de l'eau pour se défendre, créant des vagues, des courants puissants ou des geysers pour repousser les intrus.
-
-#### Capacités
-
-1. Contrôle de l'Eau
-    
-
-- La créature peut manipuler l'eau à volonté, créant des courants, des tourbillons et des vagues pour défendre son territoire ou aider ceux en difficulté.
-    
-
-3. Invisibilité Aquatique
-    
-
-- En se fondant dans la rivière, elle peut devenir invisible, rendant sa détection très difficile.
-    
-
-5. Communication Aquatique
-    
-
-- Elle peut communiquer télépathiquement avec les êtres vivants touchant l'eau, partageant des pensées, des émotions ou des visions.
-    
-
-7. Purification
-    
-
-- Elle a la capacité de purifier l'eau contaminée, rendant les sources d'eau potable et saine pour les environs.
-    
-
-#### Interaction avec le Groupe
-
-- Amicale: Si le groupe montre du respect pour la nature et la rivière, la créature peut leur offrir des conseils, une bénédiction ou une aide pour traverser des obstacles aquatiques.
-    
-- Neutre: Si le groupe ne montre ni hostilité ni respect particulier, la créature peut simplement les observer et ne pas interagir directement.
-    
-- Hostile: Si le groupe menace la rivière ou la créature elle-même, elle utilisera ses pouvoirs pour les repousser et protéger son domaine.
-    
-
-#### Quête Possible
-
-- La Source des Lumières: Les villageois de pêcheurs ont mentionné des lumières étranges au-dessus du lac la nuit. La créature pourrait être liée à ce mystère, et interagir avec elle pourrait dévoiler des informations cruciales pour résoudre cette énigme.
-    
-
-### Description en Jeu
-
-- Première Rencontre: “Alors que vous suivez la rivière, une silhouette scintillante émerge des eaux. Une créature faite d'eau pure prend forme devant vous, ses yeux lumineux fixés sur vous avec une curiosité palpable.”
-    
-- Interactivité: “La créature s'approche doucement, ses mouvements fluides et gracieux. Vous ressentez une vague de tranquillité émanant d'elle, et une voix douce résonne dans votre esprit, vous demandant vos intentions.”
-    
-- En Combat: “L'élémentaire d'eau lève un bras, et la rivière répond à son appel. Des vagues puissantes se forment autour de vous, prêtes à balayer quiconque oserait menacer son domaine.”
-    
-
-//////////////////////////////////////////////////////////////////////////////////////////////////////////////
-
-  
-  
-  
 
 3. Village de Pêcheurs
     
@@ -450,7 +382,7 @@ La créature est généralement curieuse et bienveillante envers ceux qui respec
 7. Étranger Mystérieux
     
 
-- Lieu: Aux abords de Semper.
+- Lieu: Aux abords de [[Semper]].
     
 - Description: Une figure énigmatique offre des conseils cryptiques ou un avertissement à propos de Semper.
     
@@ -465,7 +397,7 @@ La créature est généralement curieuse et bienveillante envers ceux qui respec
     
 2. (3-4) Un marchand itinérant offre des biens rares et des informations sur Semper.
     
-3. (5-6) Un groupe de pèlerins se rendant à Semper partage des récits des merveilles de la ville.
+3. (5-6) Un groupe de pèlerins se rendant à [[Semper]] partage des récits des merveilles de la ville.
     
 4. (7-8) Un groupe de soldats patrouille sur le sentier sur lequel le party arrive.
     
@@ -474,9 +406,9 @@ La créature est généralement curieuse et bienveillante envers ceux qui respec
 
 - Le Chemin de la Rivière: “La rivière glisse à côté de vous, sa surface scintillant sous le soleil. Les oiseaux chantent dans la canopée de la forêt, et l'air est imprégné du parfum des pins.”
     
-- Le Lac: “Le lac s'étend devant vous, un vaste miroir reflétant le ciel. Les bateaux des pêcheurs parsèment la surface, et le village lointain bourdonne d'une activité tranquille.”
+- [[Le Lac de Semper]]: “Le lac s'étend devant vous, un vaste miroir reflétant le ciel. Les bateaux des pêcheurs parsèment la surface, et le village lointain bourdonne d'une activité tranquille.”
     
-- Environs de Semper: “Les champs de blé doré ondulent doucement dans la brise alors que le chemin s'élargit. La silhouette lointaine de Semper se profile, ses tours se dressant vers le ciel.”
+- Environs de [[Semper]]: “Les champs de blé doré ondulent doucement dans la brise alors que le chemin s'élargit. La silhouette lointaine de Semper se profile, ses tours se dressant vers le ciel.”
     
 
 ### Conclusion
@@ -490,94 +422,47 @@ Terminez la session alors que le groupe aperçoit les murs de Semper au loin, pr
 
 Potions
 
-1. Stealth pot
+1. Stealth pot -- 5min invisible
     
 2. Lesser heal
     
-3. Water breathing
+3. Water breathing -- 15min
     
-4. speed
+4. speed -- 7min
     
 
 Rencontre d’un fisherman qui a l'air perdu, puis d’un marchand lui aussi étant perdu.
 
 Embusquer par des voleurs
 
-Arriver à la ville de Semper
-
-  
-  
-  
-  
-  
-  
-  
-
-False Hydra – Semper
-
-  
-
-### Introduction de la Fausse Hydre à Semper
-
-#### Contexte Initial
-
-1. Ville de Semper : Une ville prospère avec une grande église au centre. Le prêtre, bien-aimé de la communauté, a récemment disparu.
-    
-2. Disparition du Prêtre : Le prêtre a été mangé par la fausse hydre, mais personne ne se souvient de lui en raison de l'effet hypnotique de la créature. Cependant, les effets secondaires du sortilège commencent à se manifester (incohérences dans les souvenirs, indices laissés derrière).
-    
-
-#### Points Clés de l'Intrigue
-
-1. Témoins Troublés : Quelques villageois commencent à se rappeler des bribes de souvenirs flous concernant le prêtre disparu. Ces souvenirs pourraient être déclenchés par des objets personnels du prêtre, des endroits où il se trouvait souvent, ou des interactions récentes avant sa disparition.
-    
-2. Indices Étranges : Les joueurs peuvent trouver des indices laissés par la fausse hydre, comme des tunnels cachés, des traces de boue dans l'église ou des notes cryptiques que le prêtre a laissées derrière lui.
-    
-3. Changements dans l'Église : L'église semble étrange, avec des modifications subtiles dans la disposition des lieux, comme si quelque chose avait été déplacé ou ajout récent.
-    
-
-  
-
-#### Éléments de Roleplay
-
-1. Villageois Amnésiques : Les interactions avec des villageois qui ont des trous de mémoire ou des comportements étranges peuvent ajouter du mystère.
-    
-2. Retour des Souvenirs : Au fur et à mesure que les joueurs s'approchent de la tanière de la fausse hydre, les souvenirs des villageois commencent à revenir, révélant des informations cruciales sur le prêtre et la créature.
-    
-3. Réactions Post-Combat : Après la défaite de la fausse hydre, les villageois récupèrent pleinement leurs souvenirs et réagissent au choc de la révélation de la créature et de la disparition du prêtre.
-    
-
-  
-  
+Arriver à la ville de [[Semper]]
 
 # Session 7 -- Murmure a [[Semper]]
 
-Arriver a semper 
-
-  
-
+Arriver a [[Semper]] 
 ### Mise en Place
 
-- Session 1 : Introduction de Semper et des villageois, découverte des premiers indices de la disparition du prêtre.
+- Session 1 : Introduction de [[Semper]] et des villageois, découverte des premiers indices de la disparition du [[Pretre de Semper]].
+    Disparition du [[Pretre de Semper]] : Le prêtre a été mangé par la [[False Hydra]], mais personne ne se souvient de lui en raison de l'effet hypnotique de la créature. Cependant, les effets secondaires du sortilège commencent à se manifester (incohérences dans les souvenirs, indices laissés derrière).
+- Session 2 : Enquête approfondie, découverte des [[Tunnel de Semper]] et des effets du chant hypnotique.
     
-- Session 2 : Enquête approfondie, découverte des tunnels et des effets du chant hypnotique.
-    
-- Session 3 : Exploration des tunnels, confrontation avec la fausse hydre et résolution de l'intrigue.
+- Session 3 : Exploration des [[Tunnel de Semper]], confrontation avec la [[False Hydra]] et résolution de l'intrigue.
     
 
 #### Missions et Quêtes
 
 1. Enquête sur la Disparition : Les joueurs sont engagés pour enquêter sur la disparition du prêtre. Ils peuvent interroger les villageois, chercher des indices dans l'église et explorer les environs de Semper.
     
-2. Découverte de la Fausse Hydre : En suivant les indices, les joueurs découvrent un réseau de tunnels sous la ville, menant à la tanière de la fausse hydre.
+2. Découverte de la [[False Hydra]] : En suivant les indices, les joueurs découvrent un réseau de tunnels sous la ville, menant à la tanière de la fausse hydre.
     
-3. Combat contre la Fausse Hydre : Une confrontation épique avec la fausse hydre dans sa tanière. Les joueurs devront trouver un moyen de résister à son chant hypnotique pour la vaincre.
+3. Combat contre la [[False Hydra]] : Une confrontation épique avec la fausse hydre dans sa tanière. Les joueurs devront trouver un moyen de résister à son chant hypnotique pour la vaincre.
     
 
-### Introduction de l'Aubergiste
+### Introduction de l'[[Aubergiste de Semper]]
 
 #### Première Rencontre
 
-1. Nouvel Arrivant : Les joueurs rencontrent l'aubergiste à leur arrivée à Semper. Il est amical, charismatique et semble bien informé sur la ville et ses secrets.
+1. Nouvel Arrivant : Les joueurs rencontrent l'[[Aubergiste de Semper]] à leur arrivée à [[Semper]]. Il est amical, charismatique et semble bien informé sur la ville et ses secrets.
     
 2. Conversations Significatives : L'aubergiste partage des histoires et des rumeurs locales avec les joueurs. Il pourrait même mentionner brièvement le prêtre disparu, donnant un premier indice.
     
@@ -625,11 +510,11 @@ Arriver a semper 
 3. Tension Croissante : Augmente progressivement la tension avec des indices de plus en plus clairs sur la présence de la fausse hydre et ses capacités.
     
 
-### 1. Disparition du Commerçant
+### 1. Disparition du [[Commerçant de Semper]]
 
 #### Première Rencontre
 
-1. Marchand Reconnu : Les joueurs rencontrent un commerçant populaire et respecté à Semper. Il vend des articles rares et précieux, et il est connu pour son honnêteté.
+1. Marchand Reconnu : Les joueurs rencontrent un commerçant populaire et respecté à [[Semper]]. Il vend des articles rares et précieux, et il est connu pour son honnêteté.
     
 2. Transactions et Discussions : Le commerçant échange des informations avec les joueurs, peut-être en échange d'une quête mineure ou d'un service.
     
@@ -645,31 +530,31 @@ Arriver a semper 
 3. Indices : Les joueurs trouvent des objets dans la boutique abandonnée, comme une lettre inachevée ou un journal personnel du commerçant mentionnant des événements étranges.
     
 
-### 2. Disparition des parent de l'Adolescent
+### 2. Disparition des parent de l'[[Orphelin de Semper]]
 
 #### Première Rencontre
 
-1. Adolescent Curieux : Les joueurs rencontrent un adolescent curieux et amical, peut-être alors qu'il les aide avec une tâche ou qu'il pose des questions sur leurs aventures.
+1. [[Orphelin de Semper]] Curieux : Les joueurs rencontrent un adolescent curieux et amical, peut-être alors qu'il les aide avec une tâche ou qu'il pose des questions sur leurs aventures.
     
-2. Interactions Significatives : L'adolescent partage des informations locales, mentionnant peut-être des légendes urbaines ou des histoires de disparition.
+2. Interactions Significatives : L'orphelin partage des informations locales, mentionnant peut-être des légendes urbaines ou des histoires de disparition.
     
 3. Conversations Amicales : Les joueurs peuvent passer du temps avec l'adolescent, découvrant ses rêves et ses ambitions.
     
 
 #### Disparition Surnaturelle
 
-1. Le Lendemain Matin : L'adolescent disparaît, et ses parents, ainsi que les villageois, ne se souviennent plus de lui.
+1. Le Lendemain Matin : L'orphelin disparaît, et ses parents, ainsi que les villageois, ne se souviennent plus de lui.
     
 2. Effets du Chant : Les joueurs ressentent les effets résiduels du chant hypnotique de la fausse hydre lorsqu'ils enquêtent sur la maison de l'adolescent.
     
 3. Souvenirs Oubliés : Les joueurs trouvent des indices, comme des dessins ou des notes de l'adolescent, qui évoquent sa curiosité pour des endroits interdits ou dangereux.
     
 
-### 3. Disparition du Professeur
+### 3. Disparition du [[Professeur de Semper]]
 
 #### Première Rencontre
 
-1. Professeur Respecté : Les joueurs rencontrent un professeur érudit à Semper, peut-être à l'école locale ou lors d'une conférence. Il est reconnu pour sa sagesse et ses connaissances approfondies.
+1. Professeur Respecté : Les joueurs rencontrent un professeur érudit à [[Semper]], peut-être à l'école locale ou lors d'une conférence. Il est reconnu pour sa sagesse et ses connaissances approfondies.
     
 2. Discussions Intellectuelles : Le professeur partage des connaissances et des théories avec les joueurs, les aidant peut-être dans leur quête.
     
@@ -691,14 +576,14 @@ Arriver a semper 
     
 2. Réactions des Joueurs : Encourage les joueurs à discuter de leurs théories et à explorer les indices pour comprendre ce qui se passe.
     
-3. Tension Croissante : Augmente progressivement la tension avec des indices de plus en plus clairs sur la présence de la fausse hydre et ses capacités.
+3. Tension Croissante : Augmente progressivement la tension avec des indices de plus en plus clairs sur la présence de la [[False Hydra]] et ses capacités.
     
 
-### Découverte des Tunnels
+### Découverte des [[Tunnel de Semper]]
 
 #### Investigation Initiale
 
-1. Indices à l'Église
+1. Indices à l'[[Eglise de Semper]]
     
 
 - Altar Abandonné : En explorant l'église, les joueurs trouvent des traces de boue et de griffures près de l'autel.
@@ -708,22 +593,22 @@ Arriver a semper 
 - Trappe Cachée : Les joueurs découvrent une trappe dissimulée sous un tapis ou derrière une statue qui mène aux tunnels.
     
 
-3. Indices dans les Égouts
+3. Indices dans les [[Egout de Semper]]
     
 
-- Accès à l'Égout : Les égouts sont accessibles par une grille près de la place centrale ou à l'arrière de la boutique du commerçant disparu.
+- Accès à l'Égout : Les [[Egout de Semper]] sont accessibles par une grille près de la place centrale ou à l'arrière de la boutique du commerçant disparu.
     
 - Étranges Résidus : Les joueurs trouvent des résidus inhabituels et des objets appartenant aux disparus, comme une chaussure de l'adolescent ou un livre du professeur.
     
 - Passage Secret : En explorant, ils découvrent un passage secret qui mène aux tunnels sous la ville.
     
 
-### Exploration des Tunnels
+### Exploration des [[Tunnel de Semper]]
 
 1. Ambiance et Atmosphère
     
 
-- Ténèbres Épaisses : Les tunnels sont sombres et sinistres, avec des échos étranges et des traces de griffures sur les murs.
+- Ténèbres Épaisses : Les [[Tunnel de Semper]] sont sombres et sinistres, avec des échos étranges et des traces de griffures sur les murs.
     
 - Chant Hypnotique : Les joueurs commencent à entendre un chant lointain et hypnotique, augmentant la tension et l'urgence de leur quête.
     
@@ -736,12 +621,12 @@ Arriver a semper 
 - Créatures Subalternes : Les joueurs rencontrent des créatures mineures ou des restes de victimes précédentes qui pourraient les attaquer ou fournir des indices.
     
 
-### Confrontation avec la Fausse Hydre
+### Confrontation avec la [[False Hydra]]
 
-1. Découverte de la Tanière
+1. Découverte de la [[Taniere de la False Hydra]]
     
 
-- Grande Cavité : Les tunnels mènent à une grande cavité souterraine où se cache la fausse hydre.
+- Grande Cavité : Les [[Tunnel de Semper]] mènent à une grande cavité souterraine où se cache la fausse hydre.
     
 - Vestiges des Victimes : Les joueurs trouvent des preuves des victimes disparues, comme des objets personnels, des vêtements, ou des restes squelettiques.
     
@@ -751,7 +636,7 @@ Arriver a semper 
 
 - Effet du Chant : Pendant le combat, la fausse hydre utilise son chant pour tenter de désorienter et de diviser les joueurs.
     
-- Stratégie de Combat : Les joueurs doivent trouver un moyen de résister au chant (peut-être par des sorts ou des objets magiques) et de détruire les têtes de la fausse hydre pour la vaincre.
+- Stratégie de Combat : Les joueurs doivent trouver un moyen de résister au chant (peut-être par des sorts ou des objets magiques) et de détruire les têtes de la [[False Hydra]] pour la vaincre.
     
 
 ### Résolution
