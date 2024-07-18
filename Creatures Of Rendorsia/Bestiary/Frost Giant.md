@@ -41,4 +41,4 @@ _**Rock.** Ranged Weapon Attack:_ +9 to hit, range 60/240 ft., one target. _
 
 Frost giants are creatures of ice and snow, with hair and beards of pale white or light blue, and flesh as blue as glacial ice. They respect only brute strength and skill in battle.
 
-Environment: [[Arctic]], [[The Mountains]]
+Environment: [[Arctic]], [[Mountains]]
