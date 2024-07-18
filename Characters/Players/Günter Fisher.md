@@ -1,4 +1,3 @@
-[[Rendorsia]]
 # Player - Thom
 
 ## Backstory

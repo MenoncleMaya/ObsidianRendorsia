@@ -1,4 +1,3 @@
-[[Rendorsia]]
 # Player - Jer
 ## Backstory
 Née dans la capital ([[Wezzihk]])dans une famille de solda mes parent Luc et Ashley sont placer super haut dans les rang de l'armer du roi baldwin. Mom pere maitre des armes ma tout enseigner l art sur les armes a une main. Ma mere la meilleur avec un arc ma aprit comment maitriser une arbaleth. Depuis lage 7-8 cetais a chaque jour que je mentrainnais pour m enroller dans larmée. La race humain etais toujours en controle du pays, javais jamais porter attantion a cela. Apres lage de 17 ans jai realiser la morale quon pratiquais etais vraiment deguelasse, voir tous les autres races se faire planter ma fais realiser que je devais changer les chose.

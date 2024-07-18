@@ -1,4 +1,4 @@
-# Players of [[Rendorsia]] Campaing 1 -- Temis Gang
+# Players of [[Campaing 1 -- Temis Gang]]
 
 1.  [[Jayson Dalton Smith]] - Breton
 2. [[Jimmie Jay]] - Mini
@@ -6,5 +6,5 @@
 4. [[Bibyrgimos]] - Kolas
 5. [[Cashmere]] - Jer
 
-# Players of [[Rendorsia]] Campaing Mtl
+# Players of Campaing Mtl
 

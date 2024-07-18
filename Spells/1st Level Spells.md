@@ -1,0 +1,1 @@
+List of [[Spells]] of first levels in [[Rendorsia]]

@@ -1,4 +1,4 @@
-Resident of [[WoodsCove]] 
+Resident of [[WoodsCove]] and owner of the [[One Eye Compass]]
 Father of [[Elysia]]
 **
 

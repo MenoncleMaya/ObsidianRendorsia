@@ -1,0 +1,1 @@
+King of [[Wezzihk]], Ruler of [[Rendorsia]]

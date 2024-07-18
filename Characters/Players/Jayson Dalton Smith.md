@@ -1,4 +1,3 @@
-[[Rendorsia]]
 # <font size = 10>Player - Breton </font>
 ## Backstory
 ### THE BEGINNING
