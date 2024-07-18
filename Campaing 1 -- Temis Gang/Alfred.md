@@ -1,0 +1,1 @@
+Alfred is Sort of ShapeShifter Created by [[Emmyth Eildan]]. Hes made to follow the party keep track of him and communicate between the party and [[Emmyth Eildan]].
