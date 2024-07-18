@@ -8,7 +8,7 @@ The royal guards still have some wizards but mostly human without any magical po
 
 Magic is no longer a common thing; most magic users are either enlisted in the human army or publicly executed.
 
-The party is given a quest to fetch back a relic (Sort of philosopher stone - sacrificial stone). The quest giver is shady but stays anonymous. The party will have to gather the information from an older [[Otter Folks]] named [[Lumara Streamwhisper]].
+The party is given a quest to fetch back a relic (Sort of philosopher stone - sacrificial stone). The quest giver is shady but stays anonymous. The party will have to gather the information from an older [[Otter Folks]] named [[Lumara StreamWisper]].
 Once the party has gathered everything for the expedition they’ll have to pass through the forest where a workers camp made from a village named [[WoodsCove]], heavily guarded by soldiers wich will make their travel more pearious. Then through [[Mountains]] where they’ll have two choices, 1 of bribing the dwarfs to let them travel by their tunnels or 2 travel across [[Mountains]] and risk their fate. No matter what the party will fall in an old [[Goblins]] infested dwarfs mine. They’ll have to make camp and to find shelter in [[Mountains]] to avoid multiple creatures from attacking them. Once in [[Truvel]], they’ll have to gamble or gain the information of the exact location of [[Imbrel Skorri]], he is an old [[Frost Giant]] defending a small village at the cost of lots of food from them. He will accept to help the party on the condition that the party take care of the 3 [[Bulvack]] wreaking havoc in the village. [[Imbrel Skorri]] will then tell the party where’s the relic they’re looking for and that they will need both a boat and a [[ShineHorn]] to pass through the heavy fog. The [[ShineHorn]] is a rare species native to the [[Elvish Forest]], and every good boats are at [[Bay of no Tales]]. To get to the [[Elvish Forest]] they will have to go down stream, across the human barrage through the [[Dark Forest]], the enchanted forest and finally fight the elfs to capture a [[ShineHorn]]. Once they’ve captured the goat they will have to get themselves a boat for that they'll either have to buy one, gain one or steal one. With the boat they will have a traveling session with multiple events. Once near the [[Hidden Islands]], they will have to get the goat to clear the trail and get on the island. They will find a cave entrance and once they have made their foot in the cave the island will start sinking and some sort of force will keep the water out of the cave. Once at a gate in the cave they’ll have to solve a puzzle by sacrificing the goat which will open the gate. They will see the blood go in the gemstone which is pure black. On pick up of the stone, holes will puncture the cave to let some water in and a giant sea snake for the big fight. Once the fight is done the party will make its way back to [[Wezzihk]] where [[Emmyth Eildan]] will be waiting for them, to trap them and their family's kill them and take their blood. Opening for the next campaign.
 
 Breton - his family's being Cursed by [[Emmyth Eildan]] the main antagonist which his disguised 
@@ -161,7 +161,7 @@ Le party a suivi les gardes dans la forêt jusqu’au camp de construction du ma
 
 #### Objectifs du Combat Final
 
-1. Sauver [[Elysia]], la fille de [[Gideon Creek]]
+1. Sauver [[Elysia]], la fille de [[Guideon Creek]]
     
 2. Combattre et vaincre [[Sir Darius Dunkeld]]
     
