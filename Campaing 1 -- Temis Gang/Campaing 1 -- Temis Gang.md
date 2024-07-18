@@ -38,7 +38,7 @@ Expliquation de la relique que l’homme donne au party: une pierre pouvant à u
 
 He's a old Otter folks who's know not to be cooperative
 
-He's quite heavily guarded by 8 Otter folks armed with spears and javelins each placed strategically in a city center tavern
+He's quite heavily guarded by 8 [[Otter Folks]] armed with spears and javelins each placed strategically in a city center tavern
 
  There's to many guards of the city before closing roaming near the tavern
 
@@ -52,7 +52,7 @@ Bar keep is a changeling, change to be the same species of his client when there
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcKZ1WDeM51mD_gdzFowqIJqFDrv0Np6LKMVNQH7ATtCzZAa6t574eBNj0g_FVP3cu6u3UdBMCBoh0rNyDKre6yVpFnJnvbdW5ncxC6i64TPco2_zzOIfv1RDnMntT0K3iglCGmzcbf7wcW_n1F5jwG5oE1?key=2rvOLd9v_Sh3JbB5EyjUSw)
 
-3 in front of Lumara Streamwhisper rooms 
+3 in front of [[Lumara StreamWisper]] rooms 
 
 4 in front of the stairs
 
@@ -69,14 +69,14 @@ If they make to much noise upstairs Lumara Streamwhisper wakes up and fight (sam
 Strong will : Lumara Streamwhisper needs to be either convinced with a 18 intimidation roll.
      
 
-## INFORMATION GIVEN BY LUMARA STREAMWHISPER
+## INFORMATION GIVEN BY [[Lumara StreamWisper]]
 
-- Information sur la prochaine queu Imbrel Skorri
+- Information sur la prochaine queu [[Imbrel Skorri]]
     
 
-Imbrel Skorri is a frost giant
+[[Imbrel Skorri]] is a frost giant
 
-Le party reçoit comme information qu’il collection qu’un homme appeler Imbrel Skorri, aucune information physique, il est un collectionneur
+Le party reçoit comme information qu’il collection qu’un homme appeler [[Imbrel Skorri]], aucune information physique, il est un collectionneur
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeTtsT2hA18ddCofPt-eNLjK3JpePu9mXdQF461TehDkyL77EyUNPCJad8Xus7waLfmhct3WDwOb9d6EDsw2CYTb5OfRhYX8aKOoPAUYpPFxvLnMr4GAn7k8GQLOjflqnDAXUJ2A2IPpnOS-Hzc7CmjVDk?key=2rvOLd9v_Sh3JbB5EyjUSw)
 
@@ -96,7 +96,7 @@ Les egouts
 
 Ils découvrent le [[Black Market of Wezzihk]]
 
-Ils ont acheter la tete de chat permettant De donner avantage sur un saving throw, la cape qui fais sometimes donne de quoi a un roll, et un bag Of holding.
+Ils ont acheter la [[Cat head]] permettant De donner avantage sur un saving throw, la [[Weird Cape]] qui fais sometimes donne de quoi a un roll, et un [[Bag of Holding]].
 
 Ils se font attaquer par des [[Thiefs]] (6) 
 
