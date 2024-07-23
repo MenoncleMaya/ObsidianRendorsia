@@ -1,1 +1,0 @@
-A resident of [[Semper]]

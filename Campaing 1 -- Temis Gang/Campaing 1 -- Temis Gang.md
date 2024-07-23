@@ -442,8 +442,8 @@ Arriver à la ville de [[Semper]]
 Arriver a [[Semper]] 
 ### Mise en Place
 
-- Session 1 : Introduction de [[Semper]] et des villageois, découverte des premiers indices de la disparition du [[Pretre de Semper]].
-    Disparition du [[Pretre de Semper]] : Le prêtre a été mangé par la [[False Hydra]], mais personne ne se souvient de lui en raison de l'effet hypnotique de la créature. Cependant, les effets secondaires du sortilège commencent à se manifester (incohérences dans les souvenirs, indices laissés derrière).
+- Session 1 : Introduction de [[Semper]] et des villageois, découverte des premiers indices de la disparition du [[Père Agatère]].
+    Disparition du [[Père Agatère]] : Le prêtre a été mangé par la [[False Hydra]], mais personne ne se souvient de lui en raison de l'effet hypnotique de la créature. Cependant, les effets secondaires du sortilège commencent à se manifester (incohérences dans les souvenirs, indices laissés derrière).
 - Session 2 : Enquête approfondie, découverte des [[Tunnel de Semper]] et des effets du chant hypnotique.
     
 - Session 3 : Exploration des [[Tunnel de Semper]], confrontation avec la [[False Hydra]] et résolution de l'intrigue.

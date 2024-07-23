@@ -1,4 +1,4 @@
-Like the [[MonsterManuel]] But only for beast and some enemies
+Like the [[MonsterManuel]] But only for beast and some enemies of [[Rendorsia]]
 	
 	[[Bulvack]]
 	[[Frost Giant]]
