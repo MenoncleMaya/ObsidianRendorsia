@@ -406,7 +406,7 @@ Le groupe a sauvé le village avec succès et se dirige maintenant vers la ville
 
 - Le Chemin de la Rivière: “La rivière glisse à côté de vous, sa surface scintillant sous le soleil. Les oiseaux chantent dans la canopée de la forêt, et l'air est imprégné du parfum des pins.”
     
-- [[Le Lac de Semper]]: “Le lac s'étend devant vous, un vaste miroir reflétant le ciel. Les bateaux des pêcheurs parsèment la surface, et le village lointain bourdonne d'une activité tranquille.”
+- [[Lac de Semper]]: “Le lac s'étend devant vous, un vaste miroir reflétant le ciel. Les bateaux des pêcheurs parsèment la surface, et le village lointain bourdonne d'une activité tranquille.”
     
 - Environs de [[Semper]]: “Les champs de blé doré ondulent doucement dans la brise alors que le chemin s'élargit. La silhouette lointaine de Semper se profile, ses tours se dressant vers le ciel.”
     
@@ -489,7 +489,7 @@ Arriver a [[Semper]] 
 
 #### Exploration de l'Auberge
 
-1. Découvertes Troublantes : En fouillant l'auberge [[Le porc dansant]], les joueurs peuvent découvrir des passages secrets, des traces de lutte ou des objets personnels de l'aubergiste.
+1. Découvertes Troublantes : En fouillant l'auberge [[Porc dansant]], les joueurs peuvent découvrir des passages secrets, des traces de lutte ou des objets personnels de l'aubergiste.
     
 2. Vestiges du Chant : Les joueurs peuvent ressentir les effets résiduels du chant hypnotique de la fausse hydre, les plongeant dans une confusion temporaire.
     
@@ -583,7 +583,7 @@ Arriver a [[Semper]] 
 
 #### Investigation Initiale
 
-1. Indices à l'[[Eglise de Semper]]
+1. Indices à l'[[Église de Semper]]
     
 
 - Altar Abandonné : En explorant l'église, les joueurs trouvent des traces de boue et de griffures près de l'autel.
@@ -593,10 +593,10 @@ Arriver a [[Semper]] 
 - Trappe Cachée : Les joueurs découvrent une trappe dissimulée sous un tapis ou derrière une statue qui mène aux tunnels.
     
 
-3. Indices dans les [[Egout de Semper]]
+3. Indices dans les [[Égout de Semper]]
     
 
-- Accès à l'Égout : Les [[Egout de Semper]] sont accessibles par une grille près de la place centrale ou à l'arrière de la boutique du commerçant disparu.
+- Accès à l'Égout : Les [[Égout de Semper]] sont accessibles par une grille près de la place centrale ou à l'arrière de la boutique du commerçant disparu.
     
 - Étranges Résidus : Les joueurs trouvent des résidus inhabituels et des objets appartenant aux disparus, comme une chaussure de l'adolescent ou un livre du professeur.
     

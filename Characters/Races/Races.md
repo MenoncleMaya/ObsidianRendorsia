@@ -1,2 +1,3 @@
-List of Races of [[Rendorsia]]
-	[[Otter Folks]]
+List of Races in [[Rendorsia]]
+- [[Hommes]]
+- [[Otter Folks]]
