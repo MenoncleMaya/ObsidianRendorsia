@@ -4,4 +4,5 @@ Like the [[Bestiary]] But only for the monsters of [[Rendorsia]]
 - [[False Hydra]]
 - [[Goblins]]
 - [[Sirenne|Mermaid]]
+- [[Carrow]]
 - 
