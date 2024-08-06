@@ -2,11 +2,14 @@
 
 Fausse Hydre de Semper
 
+La false hydra de [[Semper]]
+	La false hydra de Semper est grande, elle est un gros amas de chair blanchâtre pratiquement translucide mais toute fois très épaisse, avec de multiples têtes serpentant la pièce. Ces têtes ont l'apparences de leurs victimes. Un visage apeuré, les yeux vide de vie. Elles peuvent cependant avoir ce sourire aux lèvres ayant la capacité de glacer le sang des aventuriers les plus courageux.
+
 #### Contexte Initial
 
-1. Ville de Semper : Une ville prospère avec une grande église au centre. Le prêtre, bien-aimé de la communauté, a récemment disparu.
+1. Ville de [[Semper]] : Une ville prospère avec une grande église au centre. Le prêtre, bien-aimé de la communauté, a récemment disparu.
     
-2. Disparition du Prêtre : Le prêtre a été mangé par la fausse hydre, mais personne ne se souvient de lui en raison de l'effet hypnotique de la créature. Cependant, les effets secondaires du sortilège commencent à se manifester (incohérences dans les souvenirs, indices laissés derrière).
+2. Disparition du Prêtre : Le [[Père Agatère|Prêtre de Semper]] a été mangé par la fausse hydre, mais personne ne se souvient de lui en raison de l'effet hypnotique de la créature. Cependant, les effets secondaires du sortilège commencent à se manifester (incohérences dans les souvenirs, indices laissés derrière).
     
 
 #### Points Clés de l'Intrigue
@@ -15,7 +18,7 @@ Fausse Hydre de Semper
     
 2. Indices Étranges : Les joueurs peuvent trouver des indices laissés par la fausse hydre, comme des tunnels cachés, des traces de boue dans l'église ou des notes cryptiques que le prêtre a laissées derrière lui.
     
-3. Changements dans l'Église : L'église semble étrange, avec des modifications subtiles dans la disposition des lieux, comme si quelque chose avait été déplacé ou ajout récent.
+3. Changements dans l'Église : L'[[Église de Semper]] semble étrange, avec des modifications subtiles dans la disposition des lieux, comme si quelque chose avait été déplacé ou ajout récent.
     
 
   

@@ -1,1 +1,1 @@
-Après avoir relus mes notes, je crois avoir développé une sorte de folie ou d'amnésie. Je parle d'un certain religieu ([[Père Agatère]]), mais je n'ai aucun souvenir de religion ici à [[Semper]].
+Après avoir relus mes notes, je crois avoir développé une sorte de folie ou d'amnésie. Je parle d'un certain religieux ([[Père Agatère]]), mais je n'ai aucun souvenir de religion ici à [[Semper]].

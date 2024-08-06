@@ -623,7 +623,7 @@ Arriver a [[Semper]] 
 
 ### Confrontation avec la [[False Hydra]]
 
-1. Découverte de la [[Taniere de la False Hydra]]
+1. Découverte de la [[Tanière de la False Hydra]]
     
 
 - Grande Cavité : Les [[Tunnel de Semper]] mènent à une grande cavité souterraine où se cache la fausse hydre.

@@ -1,0 +1,4 @@
+---
+aliases:
+  - Residents of Semper
+---
