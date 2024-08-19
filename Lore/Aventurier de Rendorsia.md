@@ -1,1 +1,1 @@
-Les aventuriers de Rendorsia étaient de puissants explorateurs prêt pour défendre ceux n'en étant pas capable. Ils exploraient les donjons les plus profonds et dangereux, ils vainquirent maintes  créatures les plus féroces les une que les autres.  
+Les aventuriers de [[Rendorsia]] étaient de puissants explorateurs prêt pour défendre ceux n'en étant pas capable. Ils exploraient les donjons les plus profonds et dangereux, ils vainquirent maintes  créatures les plus féroces les une que les autres.  

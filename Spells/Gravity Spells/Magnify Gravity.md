@@ -10,4 +10,4 @@ Until the start of your next turn, any object that isn't being worn or carried i
 
 **_At Higher Levels._** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st.
 
-**_Spell Lists._** [Wizard (Dunamancy)](http://dnd5e.wikidot.com/spells:wizard)
+**_Spell Lists._** [Wizard (Dunamancy)](http://dnd5e.wikidot.com/[[spells]]:wizard)

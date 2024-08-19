@@ -1,9 +1,17 @@
-![[Pasted image 20240717232440.png]]
+ ![[Pasted image 20240717232440.png]]
 
-Fausse Hydre de Semper
+66hp
+1 - dead
+2 - dead
+3 - dead
+4 - dead
+5 - dead
+6 - dead
+
+Fausse Hydre de [[Semper]]
 
 La false hydra de [[Semper]]
-	La false hydra de Semper est grande, elle est un gros amas de chair blanchâtre pratiquement translucide mais toute fois très épaisse, avec de multiples têtes serpentant la pièce. Ces têtes ont l'apparences de leurs victimes. Un visage apeuré, les yeux vide de vie. Elles peuvent cependant avoir ce sourire aux lèvres ayant la capacité de glacer le sang des aventuriers les plus courageux.
+	La false hydra de [[Semper]] est grande, elle est un gros amas de chair blanchâtre pratiquement translucide mais toute fois très épaisse, avec de multiples têtes serpentant la pièce. Ces têtes ont l'apparences de leurs victimes. Un visage apeuré, les yeux vide de vie. Elles peuvent cependant avoir ce sourire aux lèvres ayant la capacité de glacer le sang des aventuriers les plus courageux.
 
 #### Contexte Initial
 

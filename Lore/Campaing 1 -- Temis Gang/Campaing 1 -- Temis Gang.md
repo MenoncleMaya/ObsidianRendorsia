@@ -9,7 +9,7 @@ The royal guards still have some wizards but mostly human without any magical po
 Magic is no longer a common thing; most magic users are either enlisted in the human army or publicly executed.
 
 The party is given a quest to fetch back a relic (Sort of philosopher stone - sacrificial stone). The quest giver is shady but stays anonymous. The party will have to gather the information from an older [[Otter Folks]] named [[Lumara StreamWisper]].
-Once the party has gathered everything for the expedition they’ll have to pass through the forest where a workers camp made from a village named [[WoodsCove]], heavily guarded by soldiers wich will make their travel more pearious. Then through [[Mountains]] where they’ll have two choices, 1 of bribing the dwarfs to let them travel by their tunnels or 2 travel across [[Mountains]] and risk their fate. No matter what the party will fall in an old [[Goblins]] infested dwarfs mine. They’ll have to make camp and to find shelter in [[Mountains]] to avoid multiple creatures from attacking them. Once in [[Truvel]], they’ll have to gamble or gain the information of the exact location of [[Imbrel Skorri]], he is an old [[Frost Giant]] defending a small village at the cost of lots of food from them. He will accept to help the party on the condition that the party take care of the 3 [[Bulvack]] wreaking havoc in the village. [[Imbrel Skorri]] will then tell the party where’s the relic they’re looking for and that they will need both a boat and a [[ShineHorn]] to pass through the heavy fog. The [[ShineHorn]] is a rare species native to the [[Elvish Forest]], and every good boats are at [[Bay of no Tales]]. To get to the [[Elvish Forest]] they will have to go down stream, across the human barrage through the [[Dark Forest]], the enchanted forest and finally fight the elfs to capture a [[ShineHorn]]. Once they’ve captured the goat they will have to get themselves a boat for that they'll either have to buy one, gain one or steal one. With the boat they will have a traveling session with multiple events. Once near the [[Hidden Islands]], they will have to get the goat to clear the trail and get on the island. They will find a cave entrance and once they have made their foot in the cave the island will start sinking and some sort of force will keep the water out of the cave. Once at a gate in the cave they’ll have to solve a puzzle by sacrificing the goat which will open the gate. They will see the blood go in the gemstone which is pure black. On pick up of the stone, holes will puncture the cave to let some water in and a giant sea snake for the big fight. Once the fight is done the party will make its way back to [[Wezzihk]] where [[Emmyth Eildan]] will be waiting for them, to trap them and their family's kill them and take their blood. Opening for the next campaign.
+Once the party has gathered everything for the expedition they’ll have to pass through the forest where a workers camp made from a village named [[WoodsCove]], heavily guarded by soldiers wich will make their travel more pearious. Then through [[Mountains]] where they’ll have two choices, 1 of bribing the dwarfs to let them travel by their tunnels or 2 travel across [[Mountains]] and risk their fate. No matter what the party will fall in an old [[Goblins]] infested dwarfs mine. They’ll have to make camp and to find shelter in [[Mountains]] to avoid multiple creatures from attacking them. Once in [[Truvel]], they’ll have to gamble or gain the information of the exact location of [[Imbrel Skorri]], he is an old [[Frost Giant]] defending a small village at the cost of lots of food from them. He will accept to help the party on the condition that the party take care of the 3 [[Bulvack]] wreaking havoc in the village. [[Imbrel Skorri]] will then tell the party where’s the relic they’re looking for and that they will need both a boat and a [[ShineHorn]] to pass through the heavy fog. The [[ShineHorn]] is a rare species native to the [[Elvish Forest]], and every good boats are at [[Bay of no Tales]]. To get to the [[Elvish Forest]] they will have to go down stream, across the human barrage through the [[Dark Forest]], the [[enchanted forest]] and finally fight the elfs to capture a [[ShineHorn]]. Once they’ve captured the goat they will have to get themselves a boat for that they'll either have to buy one, gain one or steal one. With the boat they will have a traveling session with multiple events. Once near the [[Hidden Islands]], they will have to get the goat to clear the trail and get on the island. They will find a cave entrance and once they have made their foot in the cave the island will start sinking and some sort of force will keep the water out of the cave. Once at a gate in the cave they’ll have to solve a puzzle by sacrificing the goat which will open the gate. They will see the blood go in the gemstone which is pure black. On pick up of the stone, holes will puncture the cave to let some water in and a giant sea snake for the big fight. Once the fight is done the party will make its way back to [[Wezzihk]] where [[Emmyth Eildan]] will be waiting for them, to trap them and their family's kill them and take their blood. Opening for the next campaign.
 
 Breton - his family's being Cursed by [[Emmyth Eildan]] the main antagonist which his disguised 
 
@@ -17,12 +17,12 @@ has their quest giver
 
 # Session 1 -- Kidnapping
 ## World Explain / Start
-Nous sommes 100 ans suivant la [[Grande guerre de Rendorsia]] Dans la région de [[Rendorsia]] ou les hommes gouvernent. Bien que la magie reste dans l'esprit des gens elle n'est plus que chez certaine grand famille enrichissant la garde royal. Le régime royal de [[Baldwin Thiry]] a fait sombrer la vie de tous ceux qui ne sont pas humains. Malgré certains groupes rebelles, personne ne vit en tête au royaume. Les rues de [[Wezzihk]] sont rongées par le crime. Et c'est dans c'est rue brièvement éclairé par les lanternes des maisons avoisinantes que l'on peut apercevoir arriver un jeune homme du nom de [[Jayson Dalton Smith]] – player present
+Nous sommes 100 ans suivant la [[Grande guerre de Rendorsia]] Dans la région de [[Rendorsia]] ou les [[hommes]] gouvernent. Bien que la magie reste dans l'esprit des gens elle n'est plus que chez certaine grand famille enrichissant la garde royal. Le régime royal de [[Baldwin Thirry]] a fait sombrer la vie de tous ceux qui ne sont pas humains. Malgré certains groupes rebelles, personne ne vit en tête au royaume. Les rues de [[Wezzihk]] sont rongées par le crime. Et c'est dans c'est rue brièvement éclairé par les lanternes des maisons avoisinantes que l'on peut apercevoir arriver un jeune homme du nom de [[Jayson Dalton Smith]] – player present
 ## Setup
 [[Jayson Dalton Smith]] 2S decides to go and find a cure for his mother’s disease after crossing the river he made his way in the city of [[Wezzihk]] where a strange tall man whose every other physical trait is hidden by a cloak. His face is covered by a dark veil keeping him anonymous. The man tells him that if he does a job for him he'll tell him where he could find a cure for his mother plus a lot of money.
-[[Jimmie Jay]] 2S dans une taverne non bien loin de là, un homme se fait sortir de la taverne de force - présentation player - lorsqu'il se retourne un même homme est au bout de la ruelle. Il l'approche tranquillement tout en lui expliquant sont plan il lui offre un travail afin de sauver le cirque il doit simplement récolter un artifact. lorsque Jimmy Jay se retourne après que l'homme soit passé près de lui il n'y avait plus personne. Jimmie Jay ressent quelque chose dans ses poches (sorte de carte d'affaires menant à une ancienne boucherie désinfecter) 
+[[Jimmie Jay]] 2S dans une taverne non bien loin de là, un homme se fait sortir de la taverne de force - présentation player - lorsqu'il se retourne un même homme est au bout de la ruelle. Il l'approche tranquillement tout en lui expliquant sont plan il lui offre un travail afin de sauver le cirque il doit simplement récolter un artifact. lorsque Jimmy Jay se retourne après que l'homme soit passé près de lui il n'y avait plus personne. [[Jimmie Jay]] ressent quelque chose dans ses poches (sorte de carte d'affaires menant à une ancienne boucherie désinfecter) 
 [[Günter Fisher]] 6S, après une longue journée, Günter se rend chez son frère là ou sa fille se trouve. À sa surprise il n’y a personne à l'exception d’un étrange homme dans la salle principal  (His brother and daughter are at a friend's place). L’homme dit à Günter que pour assurer un meilleur futur pour sa fille il doit l’aider pour un travail. Avant que Günter ne puisse dire quoi que ce soit , l'homme le coupe et lui dit d’ouvrir la porte pour son collègue.
-[[Bibyrgimos]] est là, devant la porte, l'air inquiet. L’homme tente de convaincre Bibyr en lui donnant des images créées de toute pièce d’un monde où les hommes ne règne plus…(Sort of Heaven). Après plusieurs jours de recherche d’un groupe anti-gouvernemental, 
+[[Bibyrgimos]] est là, devant la porte, l'air inquiet. L’homme tente de convaincre Bibyr en lui donnant des images créées de toute pièce d’un monde où les [[hommes]] ne règne plus…(Sort of Heaven). Après plusieurs jours de recherche d’un groupe anti-gouvernemental, 
 [[Cashmere]] se fait  accoster par un homme lui offrant exactement ce qu’il recherche, un groupe combattant contre les injustices généré par la monarchie de roi Baldwin.
 
 ## Actual Session
@@ -36,7 +36,7 @@ Expliquation de la relique que l’homme donne au party: une pierre pouvant à u
   
  This person is planning on leaving the city the next morning so the party has one night to talk to him or kidnap him
 
-He's a old Otter folks who's know not to be cooperative
+He's a old [[Otter folks]] who's know not to be cooperative
 
 He's quite heavily guarded by 8 [[Otter Folks]] armed with spears and javelins each placed strategically in a city center tavern
 
@@ -74,7 +74,7 @@ Strong will : Lumara Streamwhisper needs to be either convinced with a 18 intimi
 - Information sur la prochaine queu [[Imbrel Skorri]]
     
 
-[[Imbrel Skorri]] is a frost giant
+[[Imbrel Skorri]] is a [[frost giant]]
 
 Le party reçoit comme information qu’il collection qu’un homme appeler [[Imbrel Skorri]], aucune information physique, il est un collectionneur
 
@@ -107,17 +107,17 @@ Ils ont acheté un kart avec un abri afin de rester camouflé et de se déplacer
 Ils ont récupéré la peau et font fumer la viande.
 
 # Session 3 -- Arriver a [[WoodsCove]]
-Recap session 1 & 2 : chaque joueur rencontre avec Emmyth Eildan (garder nom secret) - puis interaction avec Lumara Streamwhisper pour finir le market les thief et l'ours.
+Recap session 1 & 2 : chaque joueur rencontre avec [[Emmyth Eildan]] (garder nom secret) - puis interaction avec Lumara Streamwhisper pour finir le market les thief et l'ours.
 
   
 
- Réveil : un énorme Corbeau picore les yeux de l'ours. Celui-ci a un parchemin attaché à sa pâte. Le parchment peut être lu par [[Jayson Dalton Smith]], il sagi d’une rune magique permettant Emmyth Eildan (garder nom secret) de traquer le party peut importe leur position et le corbeau change ainsi de forme pour se transformer en écureuil transmet par télépathie l’information à tout le party. [[Alfred]] (Le corbeau) est un recurring character afin de transmettre de l’information des famille / amis / connaissance afin de les faire continuer.
+ Réveil : un énorme Corbeau picore les yeux de l'ours. Celui-ci a un parchemin attaché à sa pâte. Le parchment peut être lu par [[Jayson Dalton Smith]], il sagi d’une rune magique permettant [[Emmyth Eildan]] (garder nom secret) de traquer le party peut importe leur position et le corbeau change ainsi de forme pour se transformer en écureuil transmet par télépathie l’information à tout le party. [[Alfred]] (Le corbeau) est un recurring character afin de transmettre de l’information des famille / amis / connaissance afin de les faire continuer.
 
   
 
 Le party se dirige au travers de la forêt se rendant dans un petit village du nom de [[WoodsCove]]. L'affiche du village s'est mise à terre défoncer par de violents coups. De nombreuses empreintes de cheveux et de soldats à pieds. Le village est en phase de travail forcé par les nouvelles recrues militaires. Le corps est géré par le gouverneur [[Sir Darius Dunkeld]]. Lorsqu’ils arrivent dans le village, très peu de paysans sont dans les rues, seuls les propriétaires de commerces essentiels sont présents, le village semble désert. Ils interagissent avec le [[One Eye Compass]], un magasin général, l’un des seuls commerces toujours ouvert dans le village. Après quelques minutes d’intéraction avec le le gérant du magasin ([[Guideon Creek]])
 
-À 5h tapant l'horloge sonne laissant savoir tout le monde que les gardes reviennent, premièrement, les ouvriers reviennent avec leurs outils et des chariots remplie de bois certain même les sous espèces sont majoritairement enchaînées. Si le groupe est séparé, le groupe dehors se fait demander de suivre par un bataillon de soldats puis, interrogé par le Gouverneur [[Sir Darius Dunkeld]]. Le groupe à l'intérieur reçoit l'opportunité de se cacher dans la pièce de stockage du magasin. La fille de [[Guideon Creek]], [[Elysia]], ouvre la porte et leur fait signe de rester discret. Des gardes entrent dans le magasin et interrogent Guideon sur le passé d'etranger dans le village. Stealth check. Si oui Elysia sort avec le chat et mets la faute sur le chat. Si le groupe ne réussit pas un deuxième stealth check les soldats vont fouiller le magasin, possible fight. 1.75x le nombre de soldats à comparer le party. Si le groupe est attentif, ils remarquent que Guideon garde constamment une main protectrice sur un étrange livre. Une fois les gardes partis, Elysia rappellera à Guideon que de signer la commande des vracs. (Chance to talk about memory loss (hit his head while working in the woods and was found two days later)/ [[Grande guerre de Rendorsia|Great war of Rendorsia]]){Le père de Guideon a combattu dans la [[Grande guerre de Rendorsia|Great war of Rendorsia]] et son frère d’arme lui a fait promettre de remettre le livre à sa fille Rosaria, malheureusement il n’a jamais eu la chance donc maintenant Guideon attend le jours de trouver Rosaria ou sa descendance.}
+À 5h tapant l'horloge sonne laissant savoir tout le monde que les gardes reviennent, premièrement, les ouvriers reviennent avec leurs outils et des chariots remplie de bois certain même les sous espèces sont majoritairement enchaînées. Si le groupe est séparé, le groupe dehors se fait demander de suivre par un bataillon de soldats puis, interrogé par le Gouverneur [[Sir Darius Dunkeld]]. Le groupe à l'intérieur reçoit l'opportunité de se cacher dans la pièce de stockage du magasin. La fille de [[Guideon Creek]], [[Elysia]], ouvre la porte et leur fait signe de rester discret. Des gardes entrent dans le magasin et interrogent Guideon sur le passé d'etranger dans le village. Stealth check. Si oui [[Elysia]] sort avec le chat et mets la faute sur le chat. Si le groupe ne réussit pas un deuxième stealth check les soldats vont fouiller le magasin, possible fight. 1.75x le nombre de soldats à comparer le party. Si le groupe est attentif, ils remarquent que Guideon garde constamment une main protectrice sur un étrange livre. Une fois les gardes partis, [[Elysia]] rappellera à Guideon que de signer la commande des vracs. (Chance to talk about memory loss (hit his head while working in the woods and was found two days later)/ [[Grande guerre de Rendorsia|Great war of Rendorsia]]){Le père de Guideon a combattu dans la [[Grande guerre de Rendorsia|Great war of Rendorsia]] et son frère d’arme lui a fait promettre de remettre le livre à sa fille Rosaria, malheureusement il n’a jamais eu la chance donc maintenant Guideon attend le jours de trouver Rosaria ou sa descendance.}
  
 
 Si une partie du party reste hors du magasin, il se feront encercler par assez de soldats pour les forcer à se rendre, puis ils seront pris captifs. Si le parti est pris captif, ils se réveilleront dans une petite cabane à l'autre extrémité du village. Ils rencontreront [[Sir Darius Dunkeld]], ils seront informés qu’ils devront participer au camp de travail le lendemain.(“ d'où venez vous?” “Que faites vous ici” “Que cherchez-vous?” “Ou allez-vous?”) La nuit même, le groupe aura une chance de s'évader lorsque les gardes finiront de boire et tomberont endormis. La pièce où ils seront enfermés sera pratiquement vide, une fenêtre barricadée, une porte, un lit, un pot. Qu'il trouve un moyen de s'évader eux-même. Une fois évader, ils devront retrouver le reste du groupe. 
@@ -198,7 +198,7 @@ Le party a suivi les gardes dans la forêt jusqu’au camp de construction du ma
 
 - Entrée: Une porte principale gardée par deux soldats.
     
-- Salle principale: Contient Darius, deux soldats élites, et Elysia, ligotée à un poteau au centre.
+- Salle principale: Contient Darius, deux soldats élites, et [[Elysia]], ligotée à un poteau au centre.
     
 - Couloirs latéraux: Patrouillés par des soldats réguliers.
     
@@ -206,7 +206,7 @@ Le party a suivi les gardes dans la forêt jusqu’au camp de construction du ma
 3. Déploiement Initial
     
 
-- Darius: Au centre de la salle principale, surveillant Elysia.
+- Darius: Au centre de la salle principale, surveillant [[Elysia]].
     
 - Soldats élites: Près de Darius, prêts à défendre.
     
@@ -256,7 +256,7 @@ Phase 5: Conclusion
 
 - Une fois Darius vaincu, les soldats restants se rendent ou fuient.
     
-- Elysia est libérée, et les villageois célèbrent leur libération.
+- [[Elysia]] est libérée, et les villageois célèbrent leur libération.
     
 
 #### Points Clés pour le DM
@@ -292,11 +292,11 @@ Statue of [[Bibyrgimos]]
 
 # Session 6 -- Voyage vers [[Semper]]
 
-Travel to Semper
+Travel to [[Semper]]
 
 #### Vue d'ensemble
 
-Le groupe a sauvé le village avec succès et se dirige maintenant vers la ville de Semper. Ils voyageront le long d'un chemin qui suit une rivière menant à un lac. Cette session se concentrera sur leurs rencontres et expériences pendant ce voyage.
+Le groupe a sauvé le village avec succès et se dirige maintenant vers la ville de [[Semper]]. Ils voyageront le long d'un chemin qui suit une rivière menant à un lac. Cette session se concentrera sur leurs rencontres et expériences pendant ce voyage.
 
 #### Lieux Clés
 
@@ -316,10 +316,10 @@ Le groupe a sauvé le village avec succès et se dirige maintenant vers la ville
 - Un petit village de pêcheurs sur la rive nord.
     
 
-5. Les Environs de Semper
+5. Les Environs de [[Semper]]
     
 
-- Le chemin s'élargit et devient plus fréquenté à l'approche de Semper.
+- Le chemin s'élargit et devient plus fréquenté à l'approche de [[Semper]].
     
 - Des fermes et des petites maisons parsèment le paysage.
     
@@ -384,7 +384,7 @@ Le groupe a sauvé le village avec succès et se dirige maintenant vers la ville
 
 - Lieu: Aux abords de [[Semper]].
     
-- Description: Une figure énigmatique offre des conseils cryptiques ou un avertissement à propos de Semper.
+- Description: Une figure énigmatique offre des conseils cryptiques ou un avertissement à propos de [[Semper]].
     
 - But de l'Étranger: Aider le groupe ou les tromper pour des raisons inconnues.
     
@@ -395,7 +395,7 @@ Le groupe a sauvé le village avec succès et se dirige maintenant vers la ville
 
 1. (1-2) Un troupeau de cerfs traverse le chemin, pouvant effrayer les montures du groupe.
     
-2. (3-4) Un marchand itinérant offre des biens rares et des informations sur Semper.
+2. (3-4) Un marchand itinérant offre des biens rares et des informations sur [[Semper]].
     
 3. (5-6) Un groupe de pèlerins se rendant à [[Semper]] partage des récits des merveilles de la ville.
     
@@ -408,12 +408,12 @@ Le groupe a sauvé le village avec succès et se dirige maintenant vers la ville
     
 - [[Lac de Semper]]: “Le lac s'étend devant vous, un vaste miroir reflétant le ciel. Les bateaux des pêcheurs parsèment la surface, et le village lointain bourdonne d'une activité tranquille.”
     
-- Environs de [[Semper]]: “Les champs de blé doré ondulent doucement dans la brise alors que le chemin s'élargit. La silhouette lointaine de Semper se profile, ses tours se dressant vers le ciel.”
+- Environs de [[Semper]]: “Les champs de blé doré ondulent doucement dans la brise alors que le chemin s'élargit. La silhouette lointaine de [[Semper]] se profile, ses tours se dressant vers le ciel.”
     
 
 ### Conclusion
 
-Terminez la session alors que le groupe aperçoit les murs de Semper au loin, préparant ainsi la prochaine aventure dans la ville.
+Terminez la session alors que le groupe aperçoit les murs de [[Semper]] au loin, préparant ainsi la prochaine aventure dans la ville.
 
   
   
@@ -451,7 +451,7 @@ Arriver a [[Semper]] 
 
 #### Missions et Quêtes
 
-1. Enquête sur la Disparition : Les joueurs sont engagés pour enquêter sur la disparition du prêtre. Ils peuvent interroger les villageois, chercher des indices dans l'église et explorer les environs de Semper.
+1. Enquête sur la Disparition : Les joueurs sont engagés pour enquêter sur la disparition du prêtre. Ils peuvent interroger les villageois, chercher des indices dans l'église et explorer les environs de [[Semper]].
     
 2. Découverte de la [[False Hydra]] : En suivant les indices, les joueurs découvrent un réseau de tunnels sous la ville, menant à la tanière de la fausse hydre.
     
@@ -558,7 +558,7 @@ Arriver a [[Semper]] 
     
 2. Discussions Intellectuelles : Le professeur partage des connaissances et des théories avec les joueurs, les aidant peut-être dans leur quête.
     
-3. Échanges Érudits : Les joueurs passent du temps avec le professeur, discutant de sujets variés et peut-être même de phénomènes étranges à Semper.
+3. Échanges Érudits : Les joueurs passent du temps avec le professeur, discutant de sujets variés et peut-être même de phénomènes étranges à [[Semper]].
     
 
 #### Disparition Surnaturelle
@@ -652,7 +652,7 @@ Arriver a [[Semper]] 
 3. Conséquences et Récompenses
     
 
-- Reconnaissance : Les joueurs sont reconnus comme des héros pour avoir sauvé Semper de la fausse hydre.
+- Reconnaissance : Les joueurs sont reconnus comme des héros pour avoir sauvé [[Semper]] de la fausse hydre.
     
 - Récompenses : Ils reçoivent des récompenses matérielles et peut-être des informations cruciales pour leurs futures quêtes.
     
@@ -663,7 +663,7 @@ Objet Physique à faire
 
 Charbon sur papier rugueux
 
-1. Dessin d’une tête de false hydra
+1. Dessin d’une tête de [[false hydra]]
     
 2. Dessin des entrées ou notes des entrées du réseaux de tunnels
     
