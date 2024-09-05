@@ -1,1 +1,1 @@
-The Golden Walley is a strong beer from [[Semper]], [[Rendorsia]]. It was first introduce in the [[Campaing 1 -- Temis Gang]] when the party entered the [[Porc dansant|Dancing Pig]]. The Golden Walley is brewed from barley in the [[Pats|Brewery of Semper]], called [[Pats]].
+The Golden Walley is a strong beer from [[Semper]], [[Rendorsia]]. It was first introduce in the [[Campaign 1 -- Temis Gang]] when the party entered the [[Porc dansant|Dancing Pig]]. The Golden Walley is brewed from barley in the [[Pats|Brewery of Semper]], called [[Pats]].

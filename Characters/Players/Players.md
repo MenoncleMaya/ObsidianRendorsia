@@ -1,4 +1,4 @@
-# Players of [[Campaing 1 -- Temis Gang]]
+# Players of [[Campaign 1 -- Temis Gang]]
 
 1.  [[Jayson Dalton Smith]] - Breton
 2. [[Jimmie Jay]] - Mini
