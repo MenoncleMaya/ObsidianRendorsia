@@ -67,7 +67,8 @@ The party returns to [[Semper]] to gather their belongings from the **[[Porc dan
 
 - The [[players]] can ask around in the **[[Porc dansant|Dancing Pork]]** or among city contacts to learn more about why the **[[Thirry]] family** soldiers are targeting adventurers. Several theories circulate:
     - Some believe it’s because adventurers have gained too much power and influence.
-    - Others think it’s tied to political maneuvering within **[[Rendorsia]]**—the **[[Thirry]] family** fears that adventurers will rally to another noble house.
+    - Others think it’s tied to political maneuvering within **[[Rendorsia]]**
+    - The **[[Thirry]] family** fears that adventurers will rally to another noble house.
 
 **Scene 2: A Secret Message**
 

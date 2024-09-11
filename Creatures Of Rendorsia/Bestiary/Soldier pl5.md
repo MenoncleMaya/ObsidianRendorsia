@@ -16,7 +16,7 @@
 - **Jets de sauvegarde** : Force +5, Constitution +4
 - **Compétences** : Perception +2, Intimidation +2
 - **Résistances aux dégâts** : Non-magique, contondant/perforant/tranchant (grâce à l'armure)
-- **Sens** : Vision dans le noir 60 pieds, Perception passive 12
+- **Sens** : Perception passive 12
 - **Langues** : Commun
 - **Niveau de défi (ND)** : 2 (450 XP)
 
