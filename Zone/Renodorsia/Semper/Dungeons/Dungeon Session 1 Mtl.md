@@ -1,10 +1,13 @@
-This dungeon is a simple dungeon of [[Rendorsia]] somewhere near [[Semper]] discovered and doned before the [[Grande guerre de Rendorsia|Great war of Rendorsia]]  
+^à
+è5à
+
+is dungeon is a simple dungeon of [[Rendorsia]] somewhere near [[Semper]] discovered and donned before the [[Grande guerre de Rendorsia|Great war of Rendorsia]]  
 
 Theme : Intoxication
 
-# Entrance
+# Entrance  
 Locked door
-	Dex DD 18 - Thiefs Tools
+	Dex DD 18 - [[Thiefs]] Tools
 	Int   DD 16 - History or Arcana
 
 # Room 1
@@ -16,7 +19,7 @@ If fails halucination, 1d4 poison damage per fails
 The second room is a circular room with a glowing well in the center. The well is filled with a green  Theire is some geyser in some places around the room. 
 Dex DD 15 or 2d6
 
-4 steam mephite will fly out the well
+4 [[steam mephite]] will fly out the well
 ![[Pasted image 20240904221232.png]]
 
 # Room 3 
@@ -25,7 +28,7 @@ There will be illusion of each player with half their hp and does 1d6 psy damage
 Wis Save DD 15 
 Investigation or perception DD 16 to find the right mirror
 
-# Room 4
+# Room 4 
 The fourth room is a lab filled with traps when they interact with items
 Investigation DD 16
 Perception DD 15 for traps   -- disarm DD 18
@@ -34,7 +37,7 @@ Loot 4 bottle
 	Poison resistance 5min   -- Very light green  see trough / written in ancient language
 	Venom potion   4d6poison damage decrementing -- Dark and opaque / no label
 	Lesser heal potion 2d4 + 2 / labeled
-	Laughing Gas / labeled
+	Laughing Gas / labeled   Con Save DD18 or knocked prone 
 
 Will also find an [[Alchemy Jug]]
 # Room 5

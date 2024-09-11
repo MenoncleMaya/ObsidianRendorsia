@@ -1,6 +1,8 @@
 Ac 16
-97hp
+97hp +20
 40ft
+
+1
 
 Str 8(-1)         Int 12(+1)
 Dex 18(+4)    Wis 14(+2)
@@ -38,7 +40,7 @@ Multi hit with claws  +8 2d6 + 4 piercing, 2 poison
 
 Toxic Clouds Charge 3 15ft cone DD15 con 4d6 or half
 
-Life drain Charge 1 DD 15 Con Save 4d6 or half (max health)
+Life drain Charge 1 DD 15 Con Save 4d6 or half (max health) fait
 
 # Reaction
 Evasion can turn invisible == disadvantage for hit
