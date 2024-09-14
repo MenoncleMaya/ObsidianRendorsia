@@ -1,4 +1,4 @@
-# Set up
+ # Set up
 La monde de [[Rendorsia]] prospère, les nombreuses ressources trouvées dans les donjon ont permis à de nombreux groupes de voir le jour. La région étant compliquer à voyager fait des deux villes principales des sanctuaires énormes. Malgré la prospérité, de nombreux voleurs et pilleurs rôdent les villes et villages à la quêtes de nouvelles victimes. Un conflit entre les [[hommes]] et les autres espèces de [[Rendorsia]] se développe au sein de la région. Les expéditions dans les nombreux donjons deviennent de moins en moins sécuritaire et les butins devant moins rentables, de nombreux groupes d'aventurier rangent leurs armures et accroches leurs épées. Votre groupe arrives à l'entrée d'un donjon récemment découvert dans la forêt près des [[Mountains|montagnes]] au nord de [[Semper]].
 
 # Session 1
@@ -100,3 +100,16 @@ The party returns to [[Semper]] to gather their belongings from the **[[Porc dan
 
 - The session ends with the party at a crossroads: either escaping [[Semper]] entirely or preparing for a larger conflict with the **[[Thirry]] family** soldiers.
 - Regardless of their choice, they will know that [[Semper]] is no longer a safe place for adventurers, and the situation in **[[Rendorsia]]** is becoming more dangerous by the day.
+
+### **6. Note de session**
+
+- Shrieker reconnais le symbole des [[The Black Serpents|Black Serpents]] leur permettant d'entrer dans [[Semper]] en sécurité loin des soldats, loin des [[habitants de semper]], loin du danger.
+-  Fhinn Toothpick, fait un speech motivant les multiples party d'aventuriers présent dans la taverne. 
+- [[Aubergiste de Semper|Arth Stanan]] et [[Zedani Sanctiny]] montrer et guide le party au travers d'un passage secret en direction du [[Lair of the Adventurers|Sanctuaire des Aventurier]] ou ils retrouve l'ensemble des factions.
+- Lyriel se present a [[Golden Tide's Leader|Dorius Goldvein]] le chef des [[The Golden Tide|Golden Tide]] gagnant ainsi l'information qu'ils ne se bâteront pas au près des autres factions, mais qu'ils seront ouvert a commercer a prix réduit.
+- Urilenoir de son passer de noble à acheter des tenus formelles et des masques pour lui et Lyriel afin de pouvoir entrer dans la soirée du ball masqué. 
+- Shrieker  passe par les [[The Black Serpents|Black Serpents]] pour but de gagner de l'informtion et trouver une façon d'entrer au ball qui aurra lieu dans deux jours.
+- Shrieker passe par les [[The Silver Chain|Silver Chain]] cherchant des objects pouvant les aiders a s'infiltrer.
+- Shrieker reste semi conscient tout au long de la nuit lui permettant de suivre les chef de factions et savoir qu'un meeting a eu lieu lors de la nuit.
+
+List d'objet pouvant être vendu

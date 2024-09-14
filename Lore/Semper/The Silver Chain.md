@@ -1,3 +1,7 @@
+---
+aliases:
+  - Silver Chain
+---
 
 ### **The Silver Chain (Criminal Syndicate & Merchant Guild)**
 

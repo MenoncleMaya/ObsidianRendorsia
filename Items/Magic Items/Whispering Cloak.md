@@ -1,0 +1,2 @@
+- **Description**: A shimmering cloak that muffles sound around the wearer, granting advantage on Charisma (Deception) checks and allowing whispered communication to be heard clearly by a specific person within 30 feet.
+- **Use**: Useful for clandestine conversations without others overhearing or for convincing guards or other guests of your false identity.

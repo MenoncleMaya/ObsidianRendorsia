@@ -1,3 +1,7 @@
+---
+aliases:
+  - Black Serpents
+---
 ### **The Black Serpents (Criminal Syndicate)**
 
 - **Mood**: Cunning, ruthless, and secretive.

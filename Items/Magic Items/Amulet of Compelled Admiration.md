@@ -1,0 +1,2 @@
+- **Description**: A finely crafted amulet that once per long rest allows the wearer to cast _Charm Person_ on up to 3 targets within 30 feet.
+- **Use**: Perfect for swaying key figures or guards to your side, ensuring a smooth infiltration.

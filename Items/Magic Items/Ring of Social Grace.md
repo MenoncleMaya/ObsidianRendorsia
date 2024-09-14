@@ -1,0 +1,2 @@
+- **Description**: This gold ring subtly enhances the wearer's social skills, granting a +2 bonus to Charisma (Persuasion) and (Deception) checks.
+- **Use**: Essential for charming or deceiving high-ranking nobles or guards at the ball.

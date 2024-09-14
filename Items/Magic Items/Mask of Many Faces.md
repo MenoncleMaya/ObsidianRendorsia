@@ -1,0 +1,2 @@
+- **Description**: A sleek, silver mask that, when worn, allows the wearer to cast _Disguise Self_ at will, without expending spell slots.
+- **Use**: Perfect for blending in with the crowd by changing your appearance to match the attire or identity of another guest.

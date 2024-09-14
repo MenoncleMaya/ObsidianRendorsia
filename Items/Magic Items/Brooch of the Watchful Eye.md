@@ -1,0 +1,2 @@
+- **Description**: A small gem-encrusted brooch that grants the wearer _See Invisibility_ for up to 10 minutes, once per day.
+- **Use**: Helps detect hidden or invisible threats, such as magical spies or wards set up around the ballroom.

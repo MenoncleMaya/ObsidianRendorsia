@@ -1,0 +1,2 @@
+- **Description**: This luxurious cape allows the wearer to briefly blend into their surroundings, casting _Invisibility_ for up to 1 minute once per day.
+- **Use**: Excellent for making a quick escape or hiding in plain sight while navigating the ball.

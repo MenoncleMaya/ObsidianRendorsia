@@ -1,0 +1,2 @@
+- **Description**: A silver chain with a dark crystal pendant that allows the wearer to cast _Nondetection_ once per day.
+- **Use**: Makes you immune to magical detection, divination spells, or being scryed upon, useful in a highly magical event.

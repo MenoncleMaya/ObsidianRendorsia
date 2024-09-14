@@ -1,3 +1,7 @@
+---
+aliases:
+  - Golden Tide
+---
 ### **The Golden Tide (Merchant Guild)**
 
 - **Mood**: Opportunistic, shrewd, but outwardly friendly.
