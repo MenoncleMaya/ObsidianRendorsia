@@ -113,3 +113,4 @@ The party returns to [[Semper]] to gather their belongings from the **[[Porc dan
 - Shrieker reste semi conscient tout au long de la nuit lui permettant de suivre les chef de factions et savoir qu'un meeting a eu lieu lors de la nuit.
 
 List d'objet pouvant être vendu
+# Session 3

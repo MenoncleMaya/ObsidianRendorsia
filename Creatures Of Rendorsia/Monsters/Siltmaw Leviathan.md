@@ -1,0 +1,5 @@
+![[Siltmaw Leviathan Sheet.png]]**Name:** Siltmaw Leviathan
+**Location:** Muddy Area
+**Hazard Level:** Village Destruction / Kill on Sight
+**Traits:** The Siltmaw Leviathan is a huge beast able to easily take a village down. Its jaw has the power to shred a tree in pieces. Its thick skin and heavy layer of fat makes it harder to take down with simples weapons. Its ability to dig down and navigate in the mud makes it harder to catch . The Siltmaw Leviathan's ability to procreate is remarkably fast since it doesn't need a companion and can lay over two hundred eggs per moon. Although barely any makes it out the nest, a Siltmaw with plenty of food could grow an army in only two moons.
+**Lair:** The Siltmaw's nest is a massive muddy area heated up by its secretion. Each step in the lair is a risk to wake up the beast or hatch an egg resulting into a small swarm.![[SiltmawLeviathanArt.jpg]]

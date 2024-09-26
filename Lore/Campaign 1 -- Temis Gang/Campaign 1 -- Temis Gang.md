@@ -1,5 +1,6 @@
- # Very Very Large over view
+# Very Very Large over view
 
+![](MapDND-Copy)
 [[Emmyth Eildan]] is a 637year old veteran elf who has fought the [[Grande guerre de Rendorsia|Great war of Rendorsia]]. Emmyth has grown hatred towards everyone living among the humans, he has learned magic but is also a master of the blade. This is more for campaign II. 
 
 Year 456 about 100 years earlier the [[Grande guerre de Rendorsia|Great war of Rendorsia]] happened which is also the last time any one in the region has seen an elf.
@@ -676,3 +677,9 @@ Charbon sur papier rugueux
 
 **
 # Sesssion 8 - Memoir de [[Semper]]
+## In the Lair
+After a long and intense fight between the party and the [[False hydra]] in its lair ([[Tanière de la False Hydra|False Hydra's lair]]), the party will take the time to rest and gather their thoughts. Those who had to find another entrance to the lair finally reach the rest of the party. Those who had fallen during the fight will gain back their consciousness. The party will be able to find  a [[Ring of Precision]], about 60 gold coins, they could also grab the [[false hydra's vocal chords]]. If the party decides to loot the room they could find a [[Tie it Self Rope]] and a [[brooch of the watchful eye]]. The party will simply figure that the [[Tanière de la False Hydra|False hydra's lair]] is the ancient [[lair of the adventurers]]. After describing the sides of the lair there's one more painting on the wall, the figure of a tall elf, a kenku a species now extremally rare, a half orc, a rat folk and a halfling. Let the party explore the lair. 
+## Once Outside
+Once outside, the party can quickly realize the sadness and the chaos that the [[False Hydra]] has brought to the part of the city. They can see city folks on their knees crying remembering their lost one, some petrified even traumatized by what they've seen. The strongest one would be cleaning the streets of the blood, guts and remains that the [[False Hydra]] didn't bothered with when hunting its prey. Some of the last [[Rebels of Semper]] will take back over the [[Porc dansant|Dancing Pork]] recreating the safe heaven it once where. Those lucides enough will thank the party, they will get a room big enough for the party in the tavern for free and will always be welcomed. The party will be let free to roam the city, the next day rumors of a boat with soldiers and wanted sign of the party will be traveling trough the city.
+# Continuation
+The party will be brought to the choice of continuing their story in [[Semper]] or start thinking about making their way to the [[Mountain's of the Dwarfs]] and think about their plan to traverse the [[Mountains]]. They will have the choice to either try and make as much travel has possible in the [[mines of the dwarfs]] or multiples hike through the [[Mountains]]. On the other side if the party decides to stay they will be free to decide what they wanna do, and what will happen under the nose of [[Lothaire Thirry]].
