@@ -1,3 +1,3 @@
 _Ring (Uncommon)_
 
-This thin silver band is engraved with delicate patterns that shimmer faintly when worn. The ring enhances the focus and accuracy of the wearer, allowing their strikes to land with greater precision. While wearing this ring, the monk gains a +1 bonus to attack rolls with unarmed strikes. Additionally, once per short rest, the wearer can reroll one missed unarmed strike, taking the second result.
+This thin silver band is engraved with delicate patterns that shimmer faintly when worn. The ring enhances the focus and accuracy of the wearer, allowing their strikes to land with greater precision. While wearing this ring, the monk gains a +1 bonus to attack rolls with unarmed strikes. Additionally, once per short rest, the wearer can reroll one missed unarmed strike, taking the second result. 
