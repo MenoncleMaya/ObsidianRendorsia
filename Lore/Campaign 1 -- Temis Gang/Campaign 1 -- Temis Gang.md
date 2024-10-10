@@ -642,7 +642,7 @@ Arriver a [[Semper]] 
 
 - Effet du Chant : Pendant le combat, la fausse hydre utilise son chant pour tenter de désorienter et de diviser les joueurs.
     
-- Stratégie de Combat : Les joueurs doivent trouver un moyen de résister au chant (peut-être par des sorts ou des objets magiques) et de détruire les têtes de la [[False Hydra]] pour la vaincre.
+- Stratégie de Combat : Les joueurs doivent trouver un moyen de résister au chant (peut-être par des [[Spells|sorts]] ou des objets magiques) et de détruire les têtes de la [[False Hydra]] pour la vaincre.
     
 
 ### Résolution
@@ -681,7 +681,7 @@ Charbon sur papier rugueux
     
 
 **
-# Sesssion 8 - Memoir de [[Semper]]
+# Session 8 -- Memoir de [[Semper]]
 ## In the Lair
 After a long and intense fight between the party and the [[False hydra]] in its lair ([[Tanière de la False Hydra|False Hydra's lair]]), the party will take the time to rest and gather their thoughts. Those who had to find another entrance to the lair finally reach the rest of the party. Those who had fallen during the fight will gain back their consciousness. The party will be able to find  a [[Ring of Precision]], about 60 gold coins, they could also grab the [[false hydra's vocal chords]]. If the party decides to loot the room they could find a [[Tie it Self Rope]] and a [[brooch of the watchful eye]]. The party will simply figure that the [[Tanière de la False Hydra|False hydra's lair]] is the ancient [[lair of the adventurers]]. After describing the sides of the lair there's one more painting on the wall, the figure of a tall elf, a kenku a species now extremally rare, a half orc, a rat folk and a halfling. Let the party explore the lair. 
 ## Once Outside
@@ -690,6 +690,15 @@ Once outside, the party can quickly realize the sadness and the chaos that the [
 The party will be brought to the choice of continuing their story in [[Semper]] or start thinking about making their way to the [[Mountain's of the Dwarfs]] and think about their plan to traverse the [[Mountains]]. They will have the choice to either try and make as much travel has possible in the [[mines of the dwarfs]] or multiples hike through the [[Mountains]]. On the other side if the party decides to stay they will be free to decide what they wanna do, and what will happen under the nose of [[Lothaire Thirry]].
 
 ## While exploring the city:
-The party could encounter a **group of lurking spies** working for Lothaire Thirry. They are in the city gathering information on the resistance and may try to ambush the party to capture them or at least gain intelligence on their actions. This could give the party a chance to gather important intel themselves or eliminate a potential threat.
+The party could encounter a **group of lurking spies** working for [[Lothaire Thirry]]. They are in the city gathering information on the resistance and may try to ambush the party to capture them or at least gain intelligence on their actions. This could give the party a chance to gather important intel themselves or eliminate a potential threat.
 
 
+
+# Session 9 -- Last days in the Human Region
+
+## Before Last Sessions Long Rest (No Risk)
+Pour -- [[Jayson Dalton Smith]] : '' Jayson dû aux multiples évènements, au stress et l'action constante des derniers jours, tu n'avais pas remarqué les nouveaux ''marking'' présent sur le grimoire de ton grand père que tu as reçu à Woods Cove  de la part de [[Guideon Creek]]. De nombreuses pages vides sont désormais remplis d'information et de potentiel nouveau [[Spells|Sorts]]''
+If (Jayson.Inspect == Grimoire)
+{
+	Une vision lui vient. '' D'un coup tout deviens noir, tu es agenouiller, un liquide chaud te monte au dessus des genoux, réussi finalement a ouvrir les yeux pour apercevoir se rouge foncé sur tes mains, tout autour de toi, à perte de vue... puis... tu ouvres les yeux de retour au campement le grimoire ouvert sur les genoux.
+}

@@ -1,3 +1,7 @@
+---
+aliases:
+  - Iron Seekers
+---
 ### **The Iron Seekers (Adventurer Faction)**
 
 - **Mood**: Stoic, disciplined, and fiercely independent.

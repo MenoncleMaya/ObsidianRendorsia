@@ -103,14 +103,150 @@ The party returns to [[Semper]] to gather their belongings from the **[[Porc dan
 
 ### **6. Note de session**
 
-- Shrieker reconnais le symbole des [[The Black Serpents|Black Serpents]] leur permettant d'entrer dans [[Semper]] en sécurité loin des soldats, loin des [[habitants de semper]], loin du danger.
--  Fhinn Toothpick, fait un speech motivant les multiples party d'aventuriers présent dans la taverne. 
+- [[Shrieker]] reconnais le symbole des [[The Black Serpents|Black Serpents]] leur permettant d'entrer dans [[Semper]] en sécurité loin des soldats, loin des [[habitants de semper]], loin du danger.
+-  [[Fhinn Toothpick|Fhinn]] Toothpick, fait un speech motivant les multiples party d'aventuriers présent dans la taverne. 
 - [[Aubergiste de Semper|Arth Stanan]] et [[Zedani Sanctiny]] montrer et guide le party au travers d'un passage secret en direction du [[Lair of the Adventurers|Sanctuaire des Aventurier]] ou ils retrouve l'ensemble des factions.
-- Lyriel se present a [[Golden Tide's Leader|Dorius Goldvein]] le chef des [[The Golden Tide|Golden Tide]] gagnant ainsi l'information qu'ils ne se bâteront pas au près des autres factions, mais qu'ils seront ouvert a commercer a prix réduit.
-- Urilenoir de son passer de noble à acheter des tenus formelles et des masques pour lui et Lyriel afin de pouvoir entrer dans la soirée du ball masqué. 
-- Shrieker  passe par les [[The Black Serpents|Black Serpents]] pour but de gagner de l'informtion et trouver une façon d'entrer au ball qui aurra lieu dans deux jours.
-- Shrieker passe par les [[The Silver Chain|Silver Chain]] cherchant des objects pouvant les aiders a s'infiltrer.
-- Shrieker reste semi conscient tout au long de la nuit lui permettant de suivre les chef de factions et savoir qu'un meeting a eu lieu lors de la nuit.
+- [[Lyriel Moostride|Lyriel]] se present a [[Golden Tide's Leader|Dorius Goldvein]] le chef des [[The Golden Tide|Golden Tide]] gagnant ainsi l'information qu'ils ne se bâteront pas au près des autres factions, mais qu'ils seront ouvert a commercer a prix réduit.
+- [[Urilenoir]] de son passer de noble à acheter des tenus formelles et des masques pour lui et [[Lyriel Moostride|Lyriel]] afin de pouvoir entrer dans la soirée du ball masqué. 
+- [[Shrieker]]  passe par les [[The Black Serpents|Black Serpents]] pour but de gagner de l'informtion et trouver une façon d'entrer au ball qui aura lieu dans deux jours.
+- [[Shrieker]] passe par les [[The Silver Chain|Silver Chain]] cherchant des objects pouvant les aiders a s'infiltrer.
+- [[Shrieker]] reste semi conscient tout au long de la nuit lui permettant de suivre les chef de factions et savoir qu'un meeting a eu lieu lors de la nuit.
 
 List d'objet pouvant être vendu
 # Session 3
+
+## Recap per Player + what they're doing
+### [[Gadmus]]
+La session commence avec **[[Gadmus]]**, positionné dans une ruelle sombre adossé à un bâtiment voisin, observant le périmètre du **Théâtre de [[Semper]]**. La lumière du soleil s'estompe, et un chariot s'approche lentement des grandes portes en fer forgé à 13h. Il peut voir des employés et des invités se préparer à entrer pour l'événement de la soirée.
+
+**Options pour [[Gadmus]] :**
+
+- **Investigation** : [[Gadmus]] peut examiner discrètement le chariot et ses passagers. Avec une perception élevée, il peut remarquer que certains employés transportent des objets inhabituels, possiblement des armes ou des artefacts.
+- **Stealth** : [[Gadmus]] pourrait suivre de loin le chariot pour découvrir où les invités sont déposés, repérer les gardes et identifier des points faibles dans la sécurité.
+### [[Lyriel Moostride|Lyriel]] et [[Urilenoir]]
+Pendant ce temps, **[[Lyriel Moostride|Lyriel]]** et **[[Urilenoir]]** sont dans l'attente, ayant reçu des instructions précises de **[[Zedani Sanctiny]]**. Le moment clé est d'arriver juste avant la tombée de la nuit, dans un chariot discret organisé par leurs contacts.
+
+**Arrivée au Théâtre** :  
+Le chariot arrive, passant à travers les grilles surveillées. En tant qu'invités avec des invitations formelles, **[[Lyriel Moostride|Lyriel]]** et **[[Urilenoir]]** sont conduits directement à l'entrée, accueillis par des majordomes en uniforme. Ils pénètrent dans l'élégant hall d'entrée du théâtre, où la musique douce et les conversations nobles emplissent l'air.
+
+**Interaction Sociale** :  
+[[Lyriel Moostride|Lyriel]] et [[Urilenoir]] doivent naviguer parmi l'élite de [[Semper]], cherchant à recueillir des informations tout en dissimulant leurs véritables intentions.
+
+- **Persuasion** ou **Insight** : Ils peuvent engager des conversations avec des nobles influents pour obtenir des informations sur la situation politique ou militaire. Des rumeurs circulent sur la présence d'un commandant militaire important – **[[Anselmet, le Chaotique|Anselmet]]**, qui pourrait être leur plus grand obstacle.
+### [[Shrieker]] 
+Pendant ce temps, **[[Shrieker]]** rencontre un agent de la **[[The Silver Chain|Silver Chain]]**, qui lui présente une sélection d'objets magiques pour améliorer ses chances d'infiltration.
+
+- **Choix des objets magiques** : Selon ses préférences, il peut choisir des équipements qui améliorent ses compétences de furtivité, de déguisement ou de persuasion.
+    - Par exemple, le **Masque aux mille visages** lui permet de se déguiser en noble invité, ou bien les **Gants de mouvement silencieux** faciliteraient l'infiltration par des chemins discrets.
+
+**Options d'infiltration** :  
+Son contact des **[[The Black Serpents|Black Serpents]]** lui offre trois moyens d'entrer :
+
+1. **Garde du corps d’un noble allié** – Cela lui permet de se déplacer dans la salle principale et les ailes en toute légitimité.
+2. **Employé du bal** – Un serveur ou cuisinier, lui permettant de se fondre dans le personnel et accéder aux zones privées.
+3. **Infiltration par le toit** – Risquée mais potentiellement très avantageuse, cette option le place dans une position stratégique, bien que la sécurité soit plus élevée.
+
+[[Shrieker]] peut choisir selon son style de jeu, influençant la façon dont il interagira avec les autres personnages.
+ 1. [[Amulet of Compelled Admiration]]
+ 2. [[Boots of the Silver Step]]
+ 3. [[Cape of Shifting Shadows]]
+ 4. [[Fan of Illusory Glamour]]
+ 5. [[Gloves of Silent Movement]]
+ 6. [[Mask of Many Faces]]
+ 7. [[Necklace of Truth's Veil]]
+ 8. [[Ring of Social Grace]]
+ 9. [[Whispering Cloak]]
+### [[Fhinn Toothpick|Fhinn]]
+**[[Fhinn Toothpick|Fhinn]]**, toujours camouflé derrière sa pinte gigantesque à la taverne, discute avec les **[[The Iron Seekers|Iron Seekers]]**. Ces derniers sont en colère et prêts à prêter main-forte aux autres factions.
+
+**Discussion** : [[Fhinn Toothpick|Fhinn]] a l'opportunité de rallier les Seekers à la cause du groupe pour les aider au cas où la situation au bal dégénérerait en conflit. Cela nécessite une persuasion habile, mettant en avant les bénéfices d'une alliance temporaire contre les [[Thirry]].
+## Plan de session
+L'arrivée au bal au **Théâtre de [[Semper]]** marque un tournant crucial dans l'intrigue. Les joueurs devront allier finesse et discrétion pour recueillir des informations, tout en évitant d'attirer l'attention indésirable des gardes et du **Général [[Anselmet, le Chaotique|Anselmet]], le Chaotique**, dont la présence impose une menace constante. L'ambiance du bal est à la fois envoûtante et oppressante, avec la promesse d'une élégance raffinée teintée de dangers politiques et militaires.
+
+---
+
+### **Le Théâtre de [[Semper]] : L'intérieur du bal**
+
+La salle principale du théâtre est somptueusement décorée avec des lustres en cristal illuminant la scène, créant une atmosphère lumineuse et riche. Le bal se déroule dans une grande salle ovale, bordée de colonnes en marbre blanc et agrémentée de statues d'anciens héros de **[[Rendorsia]]**. Un orchestre joue des mélodies classiques depuis une estrade surélevée, rythmant la soirée et ajoutant à l'ambiance raffinée.
+
+Les murs sont ornés de riches tentures pourpres, et de grands miroirs magnifient la taille de la salle, rendant chaque mouvement plus visible. Au centre de la pièce, une piste de danse est dégagée, entourée de nobles en conversation ou se déplaçant gracieusement d’un groupe à l’autre.
+
+---
+
+### **Infiltration des joueurs**
+
+**Méthode d'infiltration des personnages :**
+
+- **[[Lyriel Moostride|Lyriel]] Moostride** et **[[Urilenoir]]** : En tant qu'invités avec de vraies invitations, ils sont conduits directement à la salle principale. Ils peuvent discuter avec les autres invités et se mêler à la noblesse pour obtenir des informations, observant les interactions entre les personnalités présentes.
+    
+- **[[Shrieker]]** : Selon l’option choisie (garde du corps, membre du personnel ou infiltré par le toit), [[Shrieker]] pourra se déplacer plus discrètement à l’arrière-plan. Il peut utiliser ses talents pour espionner des conversations privées dans les ailes du théâtre ou accéder à des zones plus restreintes, comme les salons réservés aux nobles influents.
+    
+- **[[Fhinn Toothpick|Fhinn]] Toothpick** : [[Fhinn Toothpick|Fhinn]] pourrait également se mêler aux invités en tant que serviteur ou garde du corps, prenant note des gardes et des allées et venues. Sa petite taille et sa ruse lui permettent de se faufiler dans les zones plus étroites ou peu surveillées.
+    
+
+---
+
+### **La Tension Monte : La Présence du Général [[Anselmet, le Chaotique|Anselmet]]**
+
+La présence du **Général [[Anselmet, le Chaotique|Anselmet]], le Chaotique**, est introduite subtilement. La première mention de son nom dans les conversations provoque un frisson dans l’air, et lorsqu’il fait son entrée dans la salle principale, tout le monde s’arrête brièvement pour observer l'imposante figure. [[Anselmet, le Chaotique|Anselmet]] est vêtu d’une armure polie sous son habit militaire, rendant sa présence encore plus intimidante, malgré l’élégance du bal. Il parle de manière hautaine avec des nobles influents et observe la foule avec un regard vigilant, cherchant possiblement des signes de trouble.
+
+**Interactions avec [[Anselmet, le Chaotique|Anselmet]] :**
+
+- Si les joueurs sont repérés par [[Anselmet, le Chaotique|Anselmet]] ou l’un de ses subordonnés, ils devront faire preuve de ruse pour éviter une confrontation immédiate. Des tests de **Persuasion**, **Intimidation** ou **Duperie** pourraient être nécessaires pour détourner son attention ou calmer ses soupçons.
+    
+- **Rencontre tendue** : Si [[Lyriel Moostride|Lyriel]] ou [[Urilenoir]] attirent l'attention du général par leurs interactions avec les nobles, celui-ci pourrait les approcher pour une confrontation verbale. Une scène où [[Anselmet, le Chaotique|Anselmet]] les teste subtilement, cherchant à savoir s'ils sont des aventuriers, pourrait ajouter une grande tension.
+    
+
+---
+
+### **La Danse : Un Moment de Diplomatie Masquée**
+
+Pendant le bal, une danse traditionnelle de **[[Rendorsia]]** est annoncée. C'est un moment clé de la soirée où les joueurs peuvent tenter de se rapprocher des nobles ou même de **Général [[Anselmet, le Chaotique|Anselmet]]** lui-même pour recueillir des informations cruciales.
+
+**La danse comme opportunité :**
+
+- **[[Lyriel Moostride|Lyriel]] Moostride** pourrait être invitée à participer à la danse, offrant une occasion unique d’interagir de près avec des figures influentes sans attirer l’attention. Un noble pourrait, par exemple, lui murmurer des informations secrètes sur les agissements récents de la **famille [[Thirry]]** ou sur un complot en préparation contre les aventuriers.
+    
+- Si **[[Urilenoir]]** se joint à la danse, il pourrait observer les réactions des invités ou tenter de charmer l'une des nobles pour obtenir des informations utiles.
+    
+
+**Interaction avec [[Anselmet, le Chaotique|Anselmet]] :**
+
+- Dans un moment de grande tension, **Général [[Anselmet, le Chaotique|Anselmet]]** pourrait lui-même inviter **[[Lyriel Moostride|Lyriel]]** (ou un autre personnage) à danser. Ce serait une danse empreinte de suspicion, où chaque mot échangé cache des intentions plus profondes. [[Anselmet, le Chaotique|Anselmet]] pourrait poser des questions insidieuses, testant la véritable nature des aventuriers.
+    
+    **Tests possibles** :
+    
+    - **Persuasion ou Duperie** pour détourner les questions du général.
+    - **Insight** pour tenter de lire les intentions d'[[Anselmet, le Chaotique|Anselmet]], voire découvrir des failles dans son discours.
+
+---
+
+### **Conflit ou Confrontation Évitée : Une Fin Tendue**
+
+Alors que la danse touche à sa fin, un des membres de la garde remarque un comportement suspect chez l'un des personnages infiltrés (par exemple, [[Shrieker]] s'approchant trop près d'une zone réservée aux nobles). Cela crée une scène où les gardes commencent à les cerner, et l'atmosphère devient de plus en plus oppressante.
+
+**Options pour les joueurs :**
+
+1. **Fuite discrète** :
+    - Si les joueurs sont subtils, ils peuvent se retirer discrètement de la scène en se fondant dans la foule ou en utilisant des objets magiques comme le **Masque aux mille visages** ou la **Cape des ombres mouvantes**. Cela nécessitera des jets de **Furtivité** ou de **Duperie** pour passer inaperçus.
+2. **Négociation** :
+    - Les personnages peuvent tenter de calmer les gardes en utilisant leurs compétences de **Persuasion**. Si l'un des joueurs possède le **Fan d'Illusions Glamoureuses**, ils peuvent créer une diversion en envoûtant un groupe de nobles ou de gardes.
+3. **Combat** :
+    - Si la situation dégénère, un combat peut éclater. Il pourrait s’agir d’un affrontement rapide, avec un petit groupe de gardes intervenant pour arrêter les aventuriers. L’objectif sera d’éviter que le combat attire trop l’attention ou qu’[[Anselmet, le Chaotique|Anselmet]] lui-même ne se mêle à la mêlée.
+
+**Conséquences du combat** :
+
+- Si les joueurs parviennent à neutraliser les gardes discrètement, ils peuvent s'échapper sans trop de bruit.
+- Si le combat devient trop bruyant, cela peut entraîner une poursuite, forçant le groupe à se réfugier dans les corridors sombres du théâtre ou à se fondre dans la foule des invités paniqués.
+
+---
+
+## Conclusion de l'Étape 5 : Sortie du Bal
+
+La session peut se conclure avec le groupe ayant :
+
+- Récupéré des informations importantes lors du bal, comme des indices sur les prochains mouvements de la **famille [[Thirry]]** ou sur la chasse aux aventuriers à **[[Rendorsia]]**.
+- Survécu à une rencontre tendue avec **Général [[Anselmet, le Chaotique|Anselmet]]**, tout en évitant une confrontation directe (ou en échappant de justesse à un combat).
+- Éventuellement semé le chaos dans le bal, forçant une évasion rapide et chaotique hors du théâtre.
+
+Les joueurs pourront se retrouver dans un lieu sûr, loin des regards, pour discuter de leurs découvertes et planifier leur prochain coup contre la famille [[Thirry]] et la menace grandissante dans la ville de **[[Semper]]**.
