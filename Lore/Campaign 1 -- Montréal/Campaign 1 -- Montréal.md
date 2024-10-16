@@ -250,3 +250,68 @@ La session peut se conclure avec le groupe ayant :
 - Éventuellement semé le chaos dans le bal, forçant une évasion rapide et chaotique hors du théâtre.
 
 Les joueurs pourront se retrouver dans un lieu sûr, loin des regards, pour discuter de leurs découvertes et planifier leur prochain coup contre la famille [[Thirry]] et la menace grandissante dans la ville de **[[Semper]]**.
+
+## Information
+### Conversations Overheard at the Ball:
+
+- **Military Strategists Discussing a Secret Weapon**: The party might overhear two high-ranking military officials from the **Thirry family** discussing the Leviathan in hushed tones. They could mention the **Siltmaw breeding program**, confirming the government’s plan to use it as a weapon against rebellious factions or in future wars. The officials may argue about the risks involved, noting that controlling a beast like this is a dangerous game.
+    
+    > **Military Official 1**: "If the beast lays those eggs uncontrollably... we could be facing a threat greater than any rebellion."
+    > 
+    > **Military Official 2**: "That's why we’ve got it underground, constantly monitored. Besides, with enough food, it’ll produce what we need—an army, unstoppable on the battlefield."
+    
+- **Political Figures Debating Ethical Concerns**: A conversation between political advisors or nobles could revolve around the moral implications of weaponizing the Leviathan. Some may express doubt about the safety of raising such creatures, while others argue that the **Siltmaw Leviathan** is key to maintaining the current regime's power. They might mention failed attempts to control similar beasts in the past, hinting at possible disaster.
+    
+    > **Noble 1**: "Are we really to rely on a monster to maintain order? This feels like a mistake. Our ancestors knew better."
+    > 
+    > **Noble 2**: "Mistake or not, do you think we have any other choice? The rebels gather strength daily. Without this... we're vulnerable."
+    
+- **Whispers of a Power Struggle**: One of the **Thirry family members** could be overheard planning to use the **Leviathan** as a bargaining chip in a political power play. They might plan to threaten their rivals by unleashing the Leviathan if necessary, or use the program to gain leverage in the ongoing political conflict.
+    
+    > **Thirry Family Member**: "If the council dares defy me, they'll face more than political consequences. A fully grown Leviathan under my command… that will be their reckoning."
+    
+
+#### Pieces of Intelligence Gleaned from Nobles:
+
+- **Noble’s Gloating**: A particularly arrogant noble might brag to a fellow guest about the **secret facility** where the Leviathan is kept, unaware that the party is listening in. This could provide a **specific location** for the party to explore later, possibly describing a heavily guarded underground lair.
+    
+    > "Oh, it’s deep under the old ruins on the edge of the marshlands. No one would suspect something so dangerous lies there—except us, of course."
+    
+- **Military Orders**: A noble general might drop a reference to **orders** being given to a battalion tasked with securing the facility where the Leviathan is housed. This could lead the party to a **schedule of troop movements** or other key information, such as vulnerabilities in the facility's defenses or shifts in the guard. The general might comment on how crucial the Leviathan is for their war preparations.
+    
+    > "The next shipment of supplies is headed to the containment site. We can't afford any disruptions, not with what's at stake."
+    
+
+#### Dance with an Informant:
+
+- **Spy or Rebel in Disguise**: During a dance with a noble or someone sympathetic to the rebellion, one of the party members could learn more about the **Leviathan’s weaknesses**. The informant could be a spy working for a rebel faction, offering insights on how to sabotage the government’s plans or stop the Leviathan from being used as a weapon. This person might suggest targeting the **facility’s supply lines** or provide information on the creature’s **known vulnerabilities**, such as needing certain environmental conditions to thrive.
+    
+    > "You’ll need more than brute strength to stop that beast. Fire. It hates fire. But you didn’t hear that from me."
+    
+
+#### Interception of Secret Correspondence:
+
+- **A Hidden Note**: The party could intercept a **letter** or hear a noble mention a sealed message being passed between key military figures about an upcoming **test of the Leviathan**. The note might detail a timeline for when the creature will be **unleashed**, giving the party a chance to act before it's too late. Alternatively, the note could reveal that a **major military campaign** is planned around the Leviathan's use, making it critical to stop the creature before the plan is set in motion.
+    
+    > "The beast will be ready by next moon. The generals will see firsthand what it can do to those who defy the crown."
+    
+
+### Conversations with Locals or Scholars:
+
+- **Village Survivors**: In a village ravaged by a Siltmaw Leviathan, survivors might speak of a "mud demon" that swallowed entire homes whole, leaving the village in ruins. They’ll describe its **unstoppable jaws** and how nothing short of magic could penetrate its thick, slimy hide. They may mention rumors of a government conspiracy using these creatures, but their stories are filled with fear and desperation.
+    
+- **Scholars or Loremasters**: Scholars could provide details on the Leviathan’s **biological traits**, explaining that its **rapid procreation** is one of the most dangerous aspects. They may mention the government’s attempts to **weaponize** the creature by keeping one alive for breeding purposes. One scholar might reference old documents about an ancient kingdom that tried to control the Leviathan but was ultimately destroyed by the very beasts they sought to command.
+    
+
+#### Documents or Records:
+
+- **Government Files**: If the party manages to find classified documents (perhaps in an underground facility or through connections with a rebellious faction), they’ll discover detailed notes on the government’s **breeding project**. The files will contain descriptions of how the creature is kept deep underground, carefully monitored and fed to produce offspring that could one day serve as living weapons. However, there may also be warnings that controlling the Leviathan is risky and could backfire.
+    
+- **Bestiary or Hunter's Guide**: In a hunter's lodge or from an old adventurer, the party might find a tattered bestiary that describes how best to fight a Siltmaw Leviathan. The book will suggest avoiding close combat due to its **massive jaw strength**, instead recommending ranged weapons enchanted with magic, as normal arrows would bounce off its thick skin. It may also mention that **fire-based spells** can disrupt its mud-based defenses.
+    
+
+##### Rumors and Speculation:
+
+- **Rebel Factions**: Certain rebel factions in the campaign, perhaps the **Iron Seekers** or **The Black Serpents**, might discuss a growing rumor that the **Thirry family** plans to unleash a Siltmaw Leviathan as a weapon of war. This could provide motivation for the party to seek out the government’s secret lair where the creature is held captive, or they might even be hired to stop the government from raising an army of Leviathans.
+    
+- **Whispers from the Underground**: In shady bars or among criminal networks, the party could overhear rumors that eggs have been **smuggled out of the nest**, with some being sold on the black market. These whispers could suggest that even small Leviathans are highly prized as living weapons, but keeping one is a death sentence if it ever matures.
