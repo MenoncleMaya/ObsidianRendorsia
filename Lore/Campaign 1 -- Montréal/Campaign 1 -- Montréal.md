@@ -254,21 +254,21 @@ Les joueurs pourront se retrouver dans un lieu sûr, loin des regards, pour disc
 ## Information
 ### Conversations Overheard at the Ball:
 
-- **Military Strategists Discussing a Secret Weapon**: The party might overhear two high-ranking military officials from the **Thirry family** discussing the Leviathan in hushed tones. They could mention the **Siltmaw breeding program**, confirming the government’s plan to use it as a weapon against rebellious factions or in future wars. The officials may argue about the risks involved, noting that controlling a beast like this is a dangerous game.
+- **Military Strategists Discussing a Secret Weapon**: The party might overhear two high-ranking military officials from the **[[Thirry]] family** discussing the Leviathan in hushed tones. They could mention the **Siltmaw breeding program**, confirming the government’s plan to use it as a weapon against rebellious factions or in future wars. The officials may argue about the risks involved, noting that controlling a beast like this is a dangerous game.
     
     > **Military Official 1**: "If the beast lays those eggs uncontrollably... we could be facing a threat greater than any rebellion."
     > 
     > **Military Official 2**: "That's why we’ve got it underground, constantly monitored. Besides, with enough food, it’ll produce what we need—an army, unstoppable on the battlefield."
     
-- **Political Figures Debating Ethical Concerns**: A conversation between political advisors or nobles could revolve around the moral implications of weaponizing the Leviathan. Some may express doubt about the safety of raising such creatures, while others argue that the **Siltmaw Leviathan** is key to maintaining the current regime's power. They might mention failed attempts to control similar beasts in the past, hinting at possible disaster.
+- **Political Figures Debating Ethical Concerns**: A conversation between political advisors or nobles could revolve around the moral implications of weaponizing the Leviathan. Some may express doubt about the safety of raising such creatures, while others argue that the **[[Siltmaw Leviathan]]** is key to maintaining the current regime's power. They might mention failed attempts to control similar beasts in the past, hinting at possible disaster.
     
     > **Noble 1**: "Are we really to rely on a monster to maintain order? This feels like a mistake. Our ancestors knew better."
     > 
     > **Noble 2**: "Mistake or not, do you think we have any other choice? The rebels gather strength daily. Without this... we're vulnerable."
     
-- **Whispers of a Power Struggle**: One of the **Thirry family members** could be overheard planning to use the **Leviathan** as a bargaining chip in a political power play. They might plan to threaten their rivals by unleashing the Leviathan if necessary, or use the program to gain leverage in the ongoing political conflict.
+- **Whispers of a Power Struggle**: One of the **[[Thirry]] family members** could be overheard planning to use the **Leviathan** as a bargaining chip in a political power play. They might plan to threaten their rivals by unleashing the Leviathan if necessary, or use the program to gain leverage in the ongoing political conflict.
     
-    > **Thirry Family Member**: "If the council dares defy me, they'll face more than political consequences. A fully grown Leviathan under my command… that will be their reckoning."
+    > **[[Thirry]] Family Member**: "If the council dares defy me, they'll face more than political consequences. A fully grown Leviathan under my command… that will be their reckoning."
     
 
 #### Pieces of Intelligence Gleaned from Nobles:
@@ -298,7 +298,7 @@ Les joueurs pourront se retrouver dans un lieu sûr, loin des regards, pour disc
 
 ### Conversations with Locals or Scholars:
 
-- **Village Survivors**: In a village ravaged by a Siltmaw Leviathan, survivors might speak of a "mud demon" that swallowed entire homes whole, leaving the village in ruins. They’ll describe its **unstoppable jaws** and how nothing short of magic could penetrate its thick, slimy hide. They may mention rumors of a government conspiracy using these creatures, but their stories are filled with fear and desperation.
+- **Village Survivors**: In a village ravaged by a [[Siltmaw Leviathan]], survivors might speak of a "mud demon" that swallowed entire homes whole, leaving the village in ruins. They’ll describe its **unstoppable jaws** and how nothing short of magic could penetrate its thick, slimy hide. They may mention rumors of a government conspiracy using these creatures, but their stories are filled with fear and desperation.
     
 - **Scholars or Loremasters**: Scholars could provide details on the Leviathan’s **biological traits**, explaining that its **rapid procreation** is one of the most dangerous aspects. They may mention the government’s attempts to **weaponize** the creature by keeping one alive for breeding purposes. One scholar might reference old documents about an ancient kingdom that tried to control the Leviathan but was ultimately destroyed by the very beasts they sought to command.
     
@@ -307,11 +307,11 @@ Les joueurs pourront se retrouver dans un lieu sûr, loin des regards, pour disc
 
 - **Government Files**: If the party manages to find classified documents (perhaps in an underground facility or through connections with a rebellious faction), they’ll discover detailed notes on the government’s **breeding project**. The files will contain descriptions of how the creature is kept deep underground, carefully monitored and fed to produce offspring that could one day serve as living weapons. However, there may also be warnings that controlling the Leviathan is risky and could backfire.
     
-- **Bestiary or Hunter's Guide**: In a hunter's lodge or from an old adventurer, the party might find a tattered bestiary that describes how best to fight a Siltmaw Leviathan. The book will suggest avoiding close combat due to its **massive jaw strength**, instead recommending ranged weapons enchanted with magic, as normal arrows would bounce off its thick skin. It may also mention that **fire-based spells** can disrupt its mud-based defenses.
+- **[[Bestiary]] or Hunter's Guide**: In a hunter's lodge or from an old adventurer, the party might find a tattered [[bestiary]] that describes how best to fight a [[Siltmaw Leviathan]]. The book will suggest avoiding close combat due to its **massive jaw strength**, instead recommending ranged weapons enchanted with magic, as normal arrows would bounce off its thick skin. It may also mention that **fire-based [[spells]]** can disrupt its mud-based defenses.
     
 
 ##### Rumors and Speculation:
 
-- **Rebel Factions**: Certain rebel factions in the campaign, perhaps the **Iron Seekers** or **The Black Serpents**, might discuss a growing rumor that the **Thirry family** plans to unleash a Siltmaw Leviathan as a weapon of war. This could provide motivation for the party to seek out the government’s secret lair where the creature is held captive, or they might even be hired to stop the government from raising an army of Leviathans.
+- **Rebel Factions**: Certain rebel factions in the campaign, perhaps the **[[The Iron Seekers|Iron Seekers]]** or **[[The Black Serpents]]**, might discuss a growing rumor that the **[[Thirry]] family** plans to unleash a [[Siltmaw Leviathan]] as a weapon of war. This could provide motivation for the party to seek out the government’s secret lair where the creature is held captive, or they might even be hired to stop the government from raising an army of Leviathans.
     
 - **Whispers from the Underground**: In shady bars or among criminal networks, the party could overhear rumors that eggs have been **smuggled out of the nest**, with some being sold on the black market. These whispers could suggest that even small Leviathans are highly prized as living weapons, but keeping one is a death sentence if it ever matures.
