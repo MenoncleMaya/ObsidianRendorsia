@@ -1,0 +1,1 @@
+Lorthtrull the god of Darkness twin brother [[Aragthmere]], both part of the 5 gods that once ruled [[Rendorsia]].

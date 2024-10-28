@@ -315,3 +315,13 @@ Les joueurs pourront se retrouver dans un lieu sûr, loin des regards, pour disc
 - **Rebel Factions**: Certain rebel factions in the campaign, perhaps the **[[The Iron Seekers|Iron Seekers]]** or **[[The Black Serpents]]**, might discuss a growing rumor that the **[[Thirry]] family** plans to unleash a [[Siltmaw Leviathan]] as a weapon of war. This could provide motivation for the party to seek out the government’s secret lair where the creature is held captive, or they might even be hired to stop the government from raising an army of Leviathans.
     
 - **Whispers from the Underground**: In shady bars or among criminal networks, the party could overhear rumors that eggs have been **smuggled out of the nest**, with some being sold on the black market. These whispers could suggest that even small Leviathans are highly prized as living weapons, but keeping one is a death sentence if it ever matures.
+
+
+# Session 4
+
+## Recap of Session
+
+## Immediate Action
+When [[Shrieker]] jumps the fence a guard pops his head from the window where [[Shrieker]] left from. The guard will ring the alarm and send troops his way. [[Shrieker]] will manage to get to the rest of the party and that's when two squads of soldiers will box the party in the allay triggering a fight.
+
+once the fighting done the party will make his way back to the [[Lair of the Adventurers]] where the [[The Silver Chain|Silver Chain]] will collect the its due. (oportunity of information about the great relic of [[Aragthmere]]) 
