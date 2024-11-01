@@ -324,4 +324,4 @@ Les joueurs pourront se retrouver dans un lieu sûr, loin des regards, pour disc
 ## Immediate Action
 When [[Shrieker]] jumps the fence a guard pops his head from the window where [[Shrieker]] left from. The guard will ring the alarm and send troops his way. [[Shrieker]] will manage to get to the rest of the party and that's when two squads of soldiers will box the party in the allay triggering a fight.
 
-once the fighting done the party will make his way back to the [[Lair of the Adventurers]] where the [[The Silver Chain|Silver Chain]] will collect the its due. (oportunity of information about the great relic of [[Aragthmere]]) 
+once the fighting done the party will make his way back to the [[Lair of the Adventurers]] where the [[The Silver Chain|Silver Chain]] will collect its due. (opportunity of information about the great relic of [[Aragthmere]]) 
