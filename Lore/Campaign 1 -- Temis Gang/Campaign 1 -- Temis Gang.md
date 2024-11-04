@@ -702,3 +702,117 @@ If (Jayson.Inspect == Grimoire)
 {
 	Une vision lui vient. '' D'un coup tout deviens noir, tu es agenouiller, un liquide chaud te monte au dessus des genoux, réussi finalement a ouvrir les yeux pour apercevoir se rouge foncé sur tes mains, tout autour de toi, à perte de vue... puis... tu ouvres les yeux de retour au campement le grimoire ouvert sur les genoux.
 }
+## Trapping
+### Objective:
+
+[[Players]] set traps in the wilderness to catch animals. The goal is to gather high-quality furs while avoiding mishaps or unwanted encounters.
+
+### Setup:
+
+1. **Traps & Tools**: Each player has basic traps (e.g., snares) and can spend resources or gold to improve them (e.g., bait, reinforced wires).
+2. **Environment**: Roll a d6 or d8 to determine the type of terrain (forest, snowy woods, etc.), which affects the animals available and the difficulty.
+3. **Timeframe**: [[Players]] have a set number of hours or days to set traps (e.g., 3 days).
+
+### Rules:
+
+1. **Trap Placement**: [[Players]] roll a Wisdom (Survival) or Intelligence (Nature) check for each trap they set. The DM sets a DC based on the terrain and type of animal targeted (e.g., rabbits, foxes, wolves).
+    
+2. **Modifiers**:
+    
+    - Using perfect bait grants a +4 bonus.
+    - Using bait grants a +2 bonus.
+    - Special tools (e.g., scent maskers) add +1.
+    - If [[players]] lack proficiency, they roll with disadvantage.
+3. **Outcome**:
+    
+    - Success by 0-4 over the DC: Captured animal of average quality.
+    - Success by 5+: Captured animal of high quality.
+    - Failure by 0-4: Trap is triggered but empty.
+    - Failure by 5+: Trap breaks or a mishap occurs (e.g., wild animal attack, broken tools).
+
+### Mishaps Table (Roll d6):
+
+1. **Wild Encounter**: A small predator (e.g., a wolf) is attracted by the scent.
+2. **Trap Broken**: The trap is damaged beyond repair.
+3. **Escaped Animal**: An animal escapes, making the area more cautious.
+4. **Rare Find**: The failure attracts a unique animal, presenting risk and reward.
+5. **Complication**: The character accidentally steps into their own trap, taking 1d4 damage.
+6. **Bounty**: Another trapper’s mark is found, hinting at competition.
+
+### Rewards:
+
+- Animal furs can be sold or crafted into items.
+- High-quality furs may yield rare crafting materials or be valuable in social interactions.
+
+| Creature         | DC  | Description                                         | Fur Quality                     |
+| ---------------- | --- | --------------------------------------------------- | ------------------------------- |
+| Rabbit           | 10  | Common, easy to catch, found in most terrains.      | Basic                           |
+| Squirrel         | 11  | Quick but no too hard to trap.                      | Basic                           |
+| Fox              | 13  | Crafty and agile, requires bait for better odds     | Medium                          |
+| Marten           | 15  | Elusive, found in wooded areas, prized for fur.     | Medium to High                  |
+| Beaver           | 14  | Prefers areas near water, valuable pelt.            | Medium                          |
+| Otter            | 16  | Fast Swimmer, require traps near rivers/lakes.      | Medium to High                  |
+| Mink             | 17  | Rare and cautious, high-value fur                   | High                            |
+| Wolf             | 18  | Dangerous and intelligent, risk of retaliation.     | High, risk of combat            |
+| Snow Hare        | 13  | Blends into snowy environments, tricky to spot.     | Medium                          |
+| Wild Boar        | 15  | Strong, can damage traps; pelt is thick but rough.  | Medium, risk of damage          |
+| Silver Fox       | 20  | Extremely rare, known for its unique fur.           | Very High                       |
+| Cougar           | 21  | Top-level predator, dangerous to trap.              | Very High, combat possible      |
+| Bear             | 23  | Strong and powerful, only for the brave.            | Exceptional, combat likely      |
+| Shadow Lynx      | 22  | A mystical feline that blends into darkness.        | High, magical shadow-infused    |
+| Frost Stalker    | 24  | An icy beast found in cold climates, emits a chill. | Very High, resistant to cold    |
+| Thunder Hare     | 19  | A rare hare that crackles with static energy.       | Medium to High, shock-infused   |
+| Phase Fox        | 25  | A fox capable of short-distance teleportation.      | Exceptional, phase-resistant    |
+| Ember Wolf       | 26  | A wolf with ember-like fur, warm to the touch.      | Very High, slight fire-resist   |
+| Dreamweaver Mink | 27  | A mystical mink that appears in moonlit woods.      | Legendary, dream-infused fur    |
+| Ironhide Boar    | 28  | A boar with metallic-tinted fur, tough to subdue.   | High, valuable for armor-making |
+| Celestial Otter  | 30  | Rare and radiant, appears in enchanted waterways.   | Legendary, luminescent quality  |
+## Possible event of [[Coldfair]]
+#### **1. Arrival and First Impressions**
+
+- **Description**: The party arrives at [[Coldfair]], a modest village nestled between dense pine forests and sparkling waterways. The smell of fresh-cut timber and the distant sound of axes echo through the air. Snow-laden rooftops and smoke rising from chimneys give the village a serene yet watchful atmosphere.
+- **Details**: Villagers are wary of outsiders, casting glances at the party while tending to their duties. The main street features a small marketplace, a blacksmith’s forge, and the local tavern, _The Frosted Horn_.
+
+#### **2. Tavern Encounter**
+
+- **Tavern Name**: _The Frosted Horn_
+- **Key NPCs**:
+    - **Hilda Stonehand**: Gruff, middle-aged barkeep who knows village rumors.
+    - **Bran, the Trapper**: A local hunter skilled in tracking elusive prey.
+    - **[[Thirry]] Soldiers**: A few soldiers relaxing but alert, recognizable by their uniforms.
+- **Event**: The party enters the tavern for rest or to gather information. The mood is tense as the soldiers keep a watchful eye. Depending on how the party interacts, this could lead to casual conversation, intimidation, or a potential confrontation if tensions escalate.
+
+#### **3. Rumors and Leads**
+
+- **Gossip**:
+    - Strange tracks have been spotted near the woods, hinting at creatures like the **Shadow Lynx** or **Phase Fox**.
+    - Some villagers claim soldiers have been asking about adventurers, hinting at the [[Thirry]] family’s search for resistance members.
+- **Optional Quest Hook**: Bran mentions that traps he set for valuable creatures near the river have been broken, possibly by a fantastical beast or rival trappers.
+
+#### **4. Investigation or Exploration**
+
+- **Objectives**:
+    - **Investigate the Tracks**: A Survival check can help identify the unusual tracks leading deeper into the forest or towards the river.
+    - **Scout the Soldiers’ Plans**: A stealthy character might overhear the soldiers talking about patrol routes or an incoming inspection by a higher officer.
+- **Encounters**:
+    - **Animal Ambush**: If they investigate the tracks, they could encounter a **Frost Stalker** or **Ember Wolf**.
+    - **Trap Sabotage**: While setting or checking traps, they find signs that someone else (potentially a [[Thirry]] scout or rebel) has tampered with them.
+
+#### **5. Confrontation or Diplomacy**
+
+- **Choices**:
+    - **Confront the Soldiers**: Engage in a dialogue to uncover why they’re stationed in [[Coldfair]]. Intimidation or Persuasion checks could sway the outcome.
+    - **Avoid Notice**: The party may choose to blend in and wait for the soldiers to leave, collecting information indirectly.
+- **Outcome Possibilities**:
+    - **Positive**: The party gains intel on a [[Thirry]] patrol, giving them an edge in future encounters.
+    - **Negative**: The soldiers grow suspicious, leading to a skirmish or future complications.
+
+#### **6. Trapping Mini-Game**
+
+- **Setting**: The party sets traps by the river or in the forest, rolling to capture animals such as **Silver Foxes** or even fantastical creatures like the **Shadow Lynx**.
+- **Outcome**: Successful trapping yields valuable furs, potential crafting materials, or magical components. Failure could result in a mishap (wild animal attack or damaged traps).
+
+#### **7. Session Conclusion**
+
+- The party returns to the village with their findings. If they’ve caught a rare creature, they gain favor with Bran and earn useful supplies or information.
+- Depending on interactions, the [[Thirry]] soldiers may confront them or leave with a warning, hinting at future challenges related to the [[Thirry]] family.
