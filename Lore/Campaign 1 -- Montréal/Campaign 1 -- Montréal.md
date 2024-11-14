@@ -325,3 +325,23 @@ Les joueurs pourront se retrouver dans un lieu sûr, loin des regards, pour disc
 When [[Shrieker]] jumps the fence a guard pops his head from the window where [[Shrieker]] left from. The guard will ring the alarm and send troops his way. [[Shrieker]] will manage to get to the rest of the party and that's when two squads of soldiers will box the party in the allay triggering a fight.
 
 once the fighting done the party will make his way back to the [[Lair of the Adventurers]] where the [[The Silver Chain|Silver Chain]] will collect its due. (opportunity of information about the great relic of [[Aragthmere]]) 
+**Déroulement de la Session :**
+
+1. **Approche du Port :**  
+    En avançant discrètement dans les ruelles du port de [[Semper]], les joueurs remarquent un renforcement des patrouilles de soldats. Un silence lourd règne dans les alentours, et le port semble presque désert, comme si une force invisible y tenait tout le monde à l’écart.
+    
+2. **La Confrontation avec les Soldats :**  
+    Alors qu’ils approchent de l’endroit supposé de la prison de la créature, un groupe de soldats leur tombe dessus, armés et bien organisés. Au milieu d’eux se trouve le Général [[Anselmet, le Chaotique|Anselmet]], le visage sévère et confiant. Il prononce quelques paroles provocatrices, se moquant de leur audace de revenir dans [[Semper]] malgré la traque dont ils sont l’objet. Le général les accuse d'insolence et menace de les capturer, mais surtout de les soumettre aux pires des punitions s'ils ne se rendent pas immédiatement.
+    
+3. **Un Combat Désespéré :**  
+    La tension monte alors qu'un combat intense éclate dans les ruelles étroites. Malgré leurs talents, les joueurs sont dépassés par le nombre de soldats et la force brute du général. Les soldats les repoussent progressivement, les forçant à se replier dans un bâtiment délabré, sans issue apparente.
+    
+4. **Le Piège se Referme :**  
+    Alors que les aventuriers semblent acculés, prêts à faire face à leur fin imminente, le Général [[Anselmet, le Chaotique|Anselmet]], un sourire cruel aux lèvres, frappe le sol d’un geste de la main. Soudain, une trappe s’ouvre sous leurs pieds, les aspirant dans un tunnel sombre et glissant. Les joueurs tombent dans un abîme, glissant le long de passages étroits et humides, sans pouvoir s’arrêter, jusqu’à être précipités dans l’obscurité profonde.
+    
+5. **Cliffhanger :**  
+    Ils atterrissent enfin dans un environnement souterrain inquiétant. Dans le noir, des grondements et des bruits lourds résonnent autour d’eux, rappelant à chacun que ce lieu est loin d’être inoffensif. La session se termine alors que le groupe commence à explorer cet endroit sinistre, avec l'intuition que la créature qu'ils ont entendu mentionner n’est pas loin…
+    
+
+**Notes pour la prochaine session :**  
+Dans cette suite, les joueurs rencontreront pour la première fois des signes directs de la présence de la créature, qui se révèlera être une menace insoupçonnée. Le repère de la bête offrira une atmosphère oppressante, avec des ossements, des chaînes, et une humidité oppressante, renforçant la sensation de danger imminent.

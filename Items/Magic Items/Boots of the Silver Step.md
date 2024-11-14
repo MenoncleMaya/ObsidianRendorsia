@@ -1,2 +1,2 @@
-- **Description**: These stylish ballroom shoes allow the wearer to cast _Pass Without Trace_ once per day.
+- **Description**: These stylish ballroom shoes allow the wearer to cast _[[Pass Without a trace]]_ once per day.
 - **Use**: Essential for moving undetected through crowded areas or slipping past guards.
