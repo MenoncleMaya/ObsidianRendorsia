@@ -5,6 +5,7 @@
  - Urg Powerhammer (party member) Orc male Barbarian and Brawn of the Shipyard Crooks
  - Limp-Leg (party member) Goblin male rogue and Sly of the Shipyard
  - Yannma Oriya (Favored Client and friend) Elf Young Woman, hires Torann often to seperate herself from her rich family and gather herbs for her shop
+ - Alvric DeChantier (Antagonist) rich folk thriving with
 
 Lair = boat a grand a papa 
 
@@ -23,3 +24,4 @@ In the rough-and-tumble fishing city of Devil's Retreat, where the salt-worn doc
 Torann’s staunch principles often clash with _Alvric DeChantier_, a wealthy, cunning merchant who exerts near-total control over Devil’s Retreat. Alvric’s “Devoted Society” functions as a front for his cult, where followers become loyal in exchange for dubious promises of fortune. Seeing Torann’s influence among the people, Alvric repeatedly offers him a position in his inner circle, sensing that a partnership could sway public opinion and strengthen his rule. But Torann’s core values put him in direct opposition to everything DeChantier represents, and he categorically refuses to compromise.
 
 One cold, windswept night, Torann returns to find a city official—a tax collector, notorious for squeezing the impoverished—standing on the threshold of his family’s modest home. The payment demanded is far beyond their means. Torn between his values and his family’s well-being, Torann faces a choice: accept help from DeChantier, or risk losing everything. For an activist who’s spent his life fighting for others, the stakes have never been more personal.
+

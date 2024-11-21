@@ -324,6 +324,43 @@ Les joueurs pourront se retrouver dans un lieu sûr, loin des regards, pour disc
 ## Immediate Action
 When [[Shrieker]] jumps the fence a guard pops his head from the window where [[Shrieker]] left from. The guard will ring the alarm and send troops his way. [[Shrieker]] will manage to get to the rest of the party and that's when two squads of soldiers will box the party in the allay triggering a fight.
 
+### Encounter Idea: **[[Thirry]] Patrol Ambush**
+
+In this encounter, the party is ambushed by a well-trained patrol of [[Thirry]] family soldiers. They are out to capture or eliminate "suspicious adventurers" and are well-prepared for a skirmish.
+
+---
+
+### Enemy Composition
+
+1. **[[Thirry Sergeant]] (CR 3) x 1**
+    
+    - **Role**: Commander
+    - **Abilities**: Has a "Rally" or "Inspire" ability that grants temporary HP to nearby soldiers, increasing their morale and making them harder to take down.
+    - **Strategy**: The Sergeant directs the soldiers, hanging back initially, but will enter combat if the party is weakened.
+2. **[[Thirry Soldiers]] (CR 1/2) x 4-6**
+    
+    - **Role**: Frontline Fighters
+    - **Abilities**: Well-armored and equipped with halberds or long swords; they can fight in a formation, giving them defensive bonuses when close to each other.
+    - **Strategy**: The soldiers focus on flanking or blocking the party's exits, aiming to overwhelm [[players]] with their numbers and coordinated attacks.
+3. **[[Thirry Marksman]] (CR 1) x 1-2**
+    
+    - **Role**: Ranged Support
+    - **Abilities**: Positioned in an elevated spot with crossbows or longbows, giving them advantage on attacks. They also have a "Pinning Shot" ability that reduces movement speed for [[players]] they hit.
+    - **Strategy**: Target the party's backline (casters or ranged [[players]]), aiming to suppress movement and put pressure on the party’s positioning.
+4. **[[Elite Thirry Enforcer]] (CR 2) x 1**
+    
+    - **Role**: Heavy-Hitter
+    - **Abilities**: High AC and HP, capable of multi-attacks with a heavy two-handed weapon. The Enforcer has an "Overpowering Strike" that can knock a player prone if they fail a Strength save.
+    - **Strategy**: The Enforcer focuses on melee characters, using brute force to disrupt the frontline and take out the party’s tank.
+
+---
+
+### Suggested Tactics
+
+- **Ambush Setup**: Place the soldiers in a way that the marksmen can take high ground, and the Sergeant is well-defended by a formation of soldiers. Let the party be caught unaware to let the [[Thirry]] forces get the first round of attacks.
+- **Engage and Separate**: The Sergeant attempts to split the party’s frontline and backline by directing soldiers to block pathways, while the Enforcer attempts to engage and draw fire from the party’s tank or melee characters.
+- **Target Priority**: The Marksmen should focus on healers or spellcasters to limit support, while the frontline soldiers keep the party fighters occupied.
+
 once the fighting done the party will make his way back to the [[Lair of the Adventurers]] where the [[The Silver Chain|Silver Chain]] will collect its due. (opportunity of information about the great relic of [[Aragthmere]]) 
 **Déroulement de la Session :**
 
