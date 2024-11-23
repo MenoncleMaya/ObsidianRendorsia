@@ -816,3 +816,7 @@ If (Jayson.Inspect == Grimoire)
 
 - The party returns to the village with their findings. If they’ve caught a rare creature, they gain favor with Bran and earn useful supplies or information.
 - Depending on interactions, the [[Thirry]] soldiers may confront them or leave with a warning, hinting at future challenges related to the [[Thirry]] family.
+
+# Session 10 -- La bête avant la Montagne
+
+ 
