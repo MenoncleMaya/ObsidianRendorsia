@@ -816,7 +816,77 @@ If (Jayson.Inspect == Grimoire)
 
 - The party returns to the village with their findings. If they’ve caught a rare creature, they gain favor with Bran and earn useful supplies or information.
 - Depending on interactions, the [[Thirry]] soldiers may confront them or leave with a warning, hinting at future challenges related to the [[Thirry]] family.
-
 # Session 10 -- La bête avant la Montagne
 
- 
+ ### Forest Encounter: [[Enhanced Owlbear]] and Normal Owlbear
+
+**Setting:** A dense, eerie forest filled with twisted trees, thick fog, and the distant hoots of unseen creatures. The area has a faintly magical aura, with patches of glowing moss and vibrant mushrooms scattered throughout.
+
+**Enemies:**
+
+- **[[Enhanced Owlbear]]**
+- **Normal Owlbear** _(AC 13, HP 59, as per the MM)_
+
+**Encounter Description:**  
+As the party ventures deeper into the forest, they come across a partially devoured stag carcass surrounded by claw marks. A successful DC 14 Wisdom (Survival) check reveals multiple large tracks, indicating the presence of owlbears.
+
+Shortly after, the [[Enhanced Owlbear]] ambushes the party, roaring to intimidate its prey. A normal owlbear lumbers out of the shadows moments later, responding to the [[Enhanced Owlbear]]'s Howling Screech. The owlbears fight savagely and use pack tactics to target the most vulnerable-looking adventurers.
+
+---
+
+### Tactical Considerations:
+
+1. **Ambush Mechanics:** If the party fails a DC 15 Wisdom (Perception) check, the [[Enhanced Owlbear]] gets a surprise round.
+2. **Screech Synergy:** The [[Enhanced Owlbear]] should open with _Howling Screech_ to disrupt the party's spellcasters and ranged attackers.
+3. **Terrain Advantage:** The dense forest provides plenty of half-cover and opportunities for difficult terrain, making movement and ranged attacks challenging.
+
+---
+
+**Treasure:**  
+The [[enhanced owlbear]] wears a crude leather harness with a pouch containing a **Lesser Amulet of Fury** (gives +1 to melee weapon damage rolls when worn). Near their den is a small hoard, including a **potion of healing**, 35 gp, and a **broken ivory statuette** (worth 25 gp).
+
+### **Option 1: Passing Through the Dwarven Mines**
+
+**Path Description:**  
+The mines offer a labyrinthine, underground route that could shorten travel time but at the cost of danger and risk. The entrance is guarded by suspicious dwarves who are wary of outsiders, especially adventurers. Inside, the mines are dark, filled with echoes, and rich with veins of precious metals.
+
+**Challenges and Features:**
+
+- **Guarded Entrance:** Convincing the dwarves to allow passage may require negotiation, bribery, or completing a task for them (e.g., helping with an infestation of cave-dwelling monsters or finding a lost miner).
+- **Hazards:**
+    - Crumbling tunnels and unstable areas risk collapse.
+    - Aggressive subterranean creatures, such as cave spiders, [[goblins]], or umber hulks, lurk in the darkness.
+    - Toxic gas pockets or natural hazards like underground rivers may impede progress.
+- **Possible Encounters:**
+    - Dwarven miners who could serve as allies, offering supplies or guidance if treated well.
+    - A hidden section of the mine with ancient dwarven artifacts, guarded by traps and curses.
+
+**Reward Potential:**
+
+- Rare minerals and treasure hidden in the mine.
+- A faster route through the mountain range, assuming the party can overcome the challenges.
+
+---
+
+### **Option 2: Hiking the Northern [[Mountains]]**
+
+**Path Description:**  
+This path takes the party over the rugged peaks of the northern [[mountains]]. It’s a longer and more physically demanding journey but avoids the complexities of dealing with the dwarves and their guarded territory. The peaks are beautiful but treacherous, with sheer cliffs and snowy passes.
+
+**Challenges and Features:**
+
+- **Severe Weather:** Intense cold, snowstorms, and avalanches threaten progress.
+- **Natural Obstacles:**
+    - Steep climbs and narrow ledges that require skillful navigation.
+    - Wild animals like dire wolves or mountain eagles may attack.
+    - Ice-covered paths increase the risk of falls.
+- **Encounters:**
+    - A nomadic mountain tribe that might offer aid—or hostility, depending on the party’s approach.
+    - A ruined mountaintop shrine with clues to a forgotten deity, possibly containing useful magic or cursed relics.
+    - The sound of distant drums at night, hinting at a hidden giant's encampment.
+
+**Reward Potential:**
+
+- Stunning vistas and a chance to discover hidden secrets in the [[mountains]].
+- Improved morale and experience for surviving a physically taxing journey.
+- Avoiding political entanglements with the dwarves.
