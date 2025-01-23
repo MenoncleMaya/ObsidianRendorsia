@@ -437,4 +437,62 @@ Party Member List
 
 # Session 6
 
+### **Session Outline**
+
+#### **1. Morning in the Sanctuary**
+
+The day begins with the factions learning about the [[Siltmaw Leviathan]]'s defeat. The sanctuary becomes a hub of activity as rumors spread, and the party notices tension brewing among the factions.
+
+- **[[The Golden Tide]]**: Sends a representative to praise the party, offering gifts of trade goods and proposing an alliance to use this victory for economic advantage.
+- **[[The Black Serpents]]**: Operate in the shadows, spreading whispers of potential retaliation from the ruler. They subtly try to bribe the party to withhold key details about the lair's spoils, fearing [[the Iron Seekers]] will seize them.
+- **[[The Iron Seekers]]**: Gather their warriors, ready to strike at any sign of the ruler’s forces. They urge the party to focus on fortifying the sanctuary and preparing for battle.
+- **[[The Ravenborn Company]]**: Propose a more aggressive approach, suggesting the party lead a raid on the ruler’s stronghold while the city is destabilized.
+- **[[The Silver Chain]]**: Attempt to gain exclusive access to the Leviathan’s remains, offering the party a lucrative deal for any artifacts or resources they retrieved.
+
+#### **2. The Public Declaration**
+
+One of the leaders (possibly a charismatic figure from [[the Golden Tide]] or [[The Iron Seekers|Iron Seekers]]) organizes a public speech to rally the factions. The party is invited to attend as honored guests.
+
+- The factions gather, and the leader speaks passionately about unity and the need to strike against the ruler.
+- Midway through the speech, **an assassin strikes**—a Black Serpent infiltrator or a disguised mercenary from [[the Ravenborn Company]], depending on the intrigue level you want.
+- Chaos erupts as the factions accuse one another of orchestrating the assassination. The party is thrust into the middle of the conflict and must act quickly to:
+    - Investigate the assassin’s origins.
+    - Prevent the factions from breaking into violence.
+    - Escape if they’re framed or caught in the crossfire.
+
+#### **3. Fallout from the Assassination**
+
+The assassination fractures the already fragile alliance. Each faction reacts based on their personality and goals:
+
+- **[[The Golden Tide]]**: Try to maintain peace but secretly start hoarding resources, preparing for a power struggle.
+- **[[The Black Serpents]]**: Deny involvement but work in the shadows to exploit the chaos, possibly framing another faction.
+- **[[The Iron Seekers]]**: Push for immediate action against the ruler, using the assassination as proof of external threats.
+- **[[The Ravenborn Company]]**: Call for the dissolution of the alliance, insisting that the factions cannot work together.
+- **[[The Silver Chain]]**: Position themselves as peacemakers, offering to mediate between the factions while pursuing their own agenda.
+
+#### **4. Leads from the [[Siltmaw Leviathan]]**
+
+Among the spoils retrieved from the Leviathan’s lair, the party finds:
+
+- **A Map Fragment**: It points to an old stronghold or hidden area tied to the ruler’s operations, offering the party a lead on how to weaken them further.
+- **Magical Energy Residue**: The Leviathan’s remains radiate forbidden magic, raising questions about the ruler’s plans and their source of power.
+- **A Strange Ally**: A mysterious NPC (e.g., a survivor from the lair or a creature tied to the Leviathan) offers aid but insists on accompanying the party for their own motives.
+
+#### **5. Downtime and Decisions**
+
+As the factions regroup, the party has time to:
+
+- Reflect on their role in the sanctuary’s politics.
+- Investigate the assassination to uncover the true mastermind.
+- Decide which faction to support—or whether to stay neutral.
+- Plan their next move based on the map fragment or the magical energy they discovered.
+
+---
+
+### **Optional Twists**
+
+- **Betrayal**: A member of one faction tries to assassinate the party during the chaos, revealing a personal vendetta or secret allegiance.
+- **Elite Unit**: News arrives that the ruler has sent an elite unit to reclaim the Leviathan’s remains or punish the sanctuary.
+- **Internal Struggles**: The party must deal with personal tensions, such as disputes over what to do next or the consequences of siding with a particular faction.
+
   
