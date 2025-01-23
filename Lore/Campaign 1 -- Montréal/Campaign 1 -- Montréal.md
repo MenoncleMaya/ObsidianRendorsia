@@ -382,3 +382,59 @@ once the fighting done the party will make his way back to the [[Lair of the Adv
 
 **Notes pour la prochaine session :**  
 Dans cette suite, les joueurs rencontreront pour la première fois des signes directs de la présence de la créature, qui se révèlera être une menace insoupçonnée. Le repère de la bête offrira une atmosphère oppressante, avec des ossements, des chaînes, et une humidité oppressante, renforçant la sensation de danger imminent.
+
+# Session 5
+
+## [[Siltmaw Leviathan]] Fight
+
+The party is in the lair of the [[Siltmaw Leviathan]] where they have disturbed the beast. Has long as they have fire the beast will refrain to charge at them and the eggs that will hatch wont be much of a problem for the player. If the fire would die, add 4 small target deals 1d4 and has a +1 to hit
+
+### **Aftermath of the [[Siltmaw Leviathan]] Fight**
+
+1. **Lair Discovery**:  
+    As the Leviathan falls, the party has the opportunity to explore its lair. They might find:
+    
+    - **Survivors**: Captives or other faction members trapped in the lair. These survivors can reveal critical information or become allies.
+    - **Clues to the Ruler's Plans**: Documents or magical artifacts suggesting why the new ruler sought to control such a creature. Perhaps it ties into a larger plan for conquest or defense.
+    - **Unstable Environment**: The fight destabilized the lair. As it begins to collapse, the party must escape while dealing with environmental hazards like rising water, falling debris, or eggs hatching into smaller creatures.
+2. **Faction Reactions**:  
+    Upon returning to the factions in the underground refuge, the party finds:
+    
+    - Celebration: The factions praise them for eliminating a threat.
+    - Division: Some factions may argue about the next steps or the spoils from the lair.
+    - Betrayal: A faction or infiltrated spy reports the party's success to the ruler, leading to new dangers.
+3. **A Twist in the Political Landscape**:  
+    The death of the [[Siltmaw Leviathan]] reveals a power vacuum. Perhaps the creature was a keystone of the ruler’s plans, and now their forces will scramble to recover. Alternatively, it may provoke the ruler to respond aggressively by:
+    
+    - Sending a powerful elite unit after the party.
+    - Tightening their grip on the city, increasing patrols and imposing harsher rules.
+4. **New Leads**:  
+    Among the Leviathan’s remains or its lair, the party finds something unexpected:
+    
+    - **A [[Map]] Fragment**: Part of a larger [[map]] showing hidden locations related to the ruler’s power or the old city’s forgotten secrets.
+    - **Magical Energy**: The Leviathan’s body emanates an aura linked to an ancient or forbidden magic source, sparking new intrigue.
+    - **A Strange Ally**: A creature or NPC, seemingly a harmless resident of the lair, offers to help but has its own mysterious motives.
+5. **Morale Check**:  
+    This is a good opportunity for a slower moment where the party and factions regroup, reflect on their progress, and plan. Use downtime to:
+    
+    - Encourage character development through personal challenges or interactions.
+    - Introduce an external deadline, such as an enemy army mobilizing.
+
+### **Party of 5 Humans (Level 10)**
+
+---
+
+Party Member List
+- [[Erinna StealHeart Horne]]
+- [[Darric Sly Vasemir]]
+- [[Lyra Ashwin]]
+- [[Corwyn Raithe]]
+- [[Eliza Sparrow Marlowe]]
+
+
+### Session Notes
+
+
+# Session 6
+
+  
