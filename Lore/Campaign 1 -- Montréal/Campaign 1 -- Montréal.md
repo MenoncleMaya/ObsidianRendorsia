@@ -451,7 +451,7 @@ The day begins with the factions learning about the [[Siltmaw Leviathan]]'s defe
 
 #### **2. The Public Declaration**
 
-One of the leaders (possibly a charismatic figure from [[the Golden Tide]] or [[The Iron Seekers|Iron Seekers]]) organizes a public speech to rally the factions. The party is invited to attend as honored guests.
+One of the leaders ([[Golden Tide's Leader|Dorius Goldvein]] the leader of [[the golden tide]]) organizes a public speech to rally the factions. The party is invited to attend as honored guests.
 
 - The factions gather, and the leader speaks passionately about unity and the need to strike against the ruler.
 - Midway through the speech, **an assassin strikes**—a Black Serpent infiltrator or a disguised mercenary from [[the Ravenborn Company]], depending on the intrigue level you want.
@@ -495,4 +495,50 @@ As the factions regroup, the party has time to:
 - **Elite Unit**: News arrives that the ruler has sent an elite unit to reclaim the Leviathan’s remains or punish the sanctuary.
 - **Internal Struggles**: The party must deal with personal tensions, such as disputes over what to do next or the consequences of siding with a particular faction.
 
-  
+  ### **The Speech by [[Golden Tide's Leader|Dorius Goldvein]]**
+
+- **Setting**: The sanctuary’s main courtyard or a central gathering hall. The space is decorated hastily, with banners from each faction hanging side by side. The tension is palpable as representatives of all factions gather, many with distrustful glares at their rivals.
+- **Dorius’ Entrance**: He arrives dressed in regal merchant robes adorned with gold trim, a visible symbol of [[the Golden Tide]]'s wealth. He exudes charm and confidence, making it clear he is accustomed to commanding attention.
+- **The Speech**:
+    - Dorius starts with a triumphant tone, acknowledging the party’s success against the [[Siltmaw Leviathan]] and the strength it represents.
+    - He emphasizes the need for unity, framing it as the only way to survive and overthrow the ruler’s oppressive regime. He cleverly plays to each faction’s motivations:
+        - To the **[[The Iron Seekers|Iron Seekers]]**: He appeals to their sense of honor and duty to protect the people.
+        - To the **Ravenborn Company**: He highlights the opportunity for glory and freedom.
+        - To the **[[The Silver Chain|Silver Chain]]**: He offers promises of lucrative trade opportunities once the ruler is deposed.
+        - To the **[[The Black Serpents|Black Serpents]]**: He hints at the power they could hold in the new order, veiling it in cryptic but enticing language.
+    - He concludes with a dramatic declaration: "Let this day mark the dawn of a new alliance, forged not by bloodlines, but by resolve. Together, we shall rewrite the story of this city!"
+
+---
+
+### **The Assassination**
+
+- **Moment of Impact**:
+    - Just as Dorius raises his arms for a climactic cheer, a shadow moves through the crowd, unnoticed by most.
+    - A crossbow bolt or dagger flies through the air, striking Dorius in the chest or back. He stumbles and falls, his golden robes stained red as panic erupts.
+- **Immediate Reactions**:
+    - The **[[The Iron Seekers|Iron Seekers]]** immediately spring into action, forming a protective perimeter and seeking the assailant.
+    - The **[[The Golden Tide|Golden Tide]]** representatives shout accusations, some claiming the **Ravenborn Company** is responsible.
+    - The **[[The Black Serpents|Black Serpents]]** subtly slip away into the crowd, seemingly uninvolved but already plotting how to use the chaos.
+    - The **[[The Silver Chain|Silver Chain]]** representatives stay calm and begin whispering amongst themselves, observing rather than acting.
+    - The **Ravenborn Company** openly denies involvement, but their chaotic reputation works against them.
+
+---
+
+### **Aftermath and Party Involvement**
+
+- **Investigating the Assassination**:
+    - The party is quickly pulled into the investigation, either because they are trusted or because some factions suspect them of being involved.
+    - Clues can lead to:
+        - **A scapegoat faction**: Perhaps [[the Black Serpents]] framed [[the Ravenborn Company]] or vice versa.
+        - **A deeper plot**: The assassination could be tied to the ruler, orchestrated to divide the factions and weaken their alliance.
+        - **Internal betrayal**: A faction leader (or a rogue element within a faction) may have ordered the hit to seize power for themselves.
+- **Faction Reactions**:
+    - If the party uncovers the truth, they can present their findings to the factions, but doing so risks angering some groups.
+    - If they fail to solve the mystery or choose not to act, the sanctuary descends further into chaos, with open conflict brewing between the factions.
+
+---
+
+### **Dorius’ Fate**
+
+1. **Survives**: If the party acts quickly, they might stabilize him and gain his gratitude. Dorius, weakened but determined, tasks them with uncovering the truth and continuing his efforts to unite the factions.
+2. **Dies**: His death leaves a power vacuum in [[the Golden Tide]], with multiple representatives vying for leadership. The party may have to choose whom to back—or manipulate the situation for their own benefit.

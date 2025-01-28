@@ -19,8 +19,8 @@ aliases:
 
 - **Cold and Calculating**: Valindra remains calm and composed, never showing surprise or emotion. Her mind is always working, analyzing every detail of those around her.
 - **Mysterious**: She speaks little, allowing her magic or trusted agents to do most of the work. Her past is shrouded in mystery, but she is feared for her destructive power.
-- **Ambitious and Enigmatic**: Valindra desires power far beyond the material world. She sees the **Black Serpents** as a means to ascend to greater heights in this realm and beyond.
+- **Ambitious and Enigmatic**: Valindra desires power far beyond the material world. She sees the **[[The Black Serpents|Black Serpents]]** as a means to ascend to greater heights in this realm and beyond.
 
 #### **Means of Wealth**:
 
-The **Black Serpents** excel in smuggling cursed artifacts, forbidden potions, and critical information. They operate from the shadows, manipulating key figures in [[Rendorsia]] for both monetary gain and to expand their influence over the occult.
+The **[[The Black Serpents|Black Serpents]]** excel in smuggling cursed artifacts, forbidden potions, and critical information. They operate from the shadows, manipulating key figures in [[Rendorsia]] for both monetary gain and to expand their influence over the occult.

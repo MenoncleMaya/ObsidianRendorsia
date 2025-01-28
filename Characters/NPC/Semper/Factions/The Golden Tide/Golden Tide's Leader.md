@@ -22,4 +22,4 @@ aliases:
 
 #### **Means of Wealth**:
 
-The **Golden Tide** controls major trade routes and legitimate markets throughout [[Rendorsia]]. They specialize in monopolizing rare resources and inflating prices to maximize profit, while expertly navigating the shifting political landscape.
+The **[[The Golden Tide|Golden Tide]]** controls major trade routes and legitimate markets throughout [[Rendorsia]]. They specialize in monopolizing rare resources and inflating prices to maximize profit, while expertly navigating the shifting political landscape.

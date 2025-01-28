@@ -24,3 +24,6 @@ aliases:
 #### **Means of Wealth**:
 
 Elvira's company specializes in mercenary work, retrieving rare or dangerous items, and assassination contracts. They are hired for missions no one else dares to take on in [[Rendorsia]], completing them with deadly efficiency.
+
+
+NOTE: MAKE NOTES!!!!!!!!!!!!!!!!
