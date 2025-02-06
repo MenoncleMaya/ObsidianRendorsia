@@ -485,7 +485,7 @@ As the factions regroup, the party has time to:
 - Reflect on their role in the sanctuary’s politics.
 - Investigate the assassination to uncover the true mastermind.
 - Decide which faction to support—or whether to stay neutral.
-- Plan their next move based on the map fragment or the magical energy they discovered.
+- Plan their next move based on the [[map]] fragment or the magical energy they discovered.
 
 ---
 
@@ -542,3 +542,206 @@ As the factions regroup, the party has time to:
 
 1. **Survives**: If the party acts quickly, they might stabilize him and gain his gratitude. Dorius, weakened but determined, tasks them with uncovering the truth and continuing his efforts to unite the factions.
 2. **Dies**: His death leaves a power vacuum in [[the Golden Tide]], with multiple representatives vying for leadership. The party may have to choose whom to back—or manipulate the situation for their own benefit.
+
+## Notes
+
+
+# **Session 7 : Le Mystère de l'Assassin Masqué** - **Un Gâteau de Paranoïa et de Suspense**
+
+---
+
+### **Résumé de la Situation** :
+
+Le **Sanctuaire des Aventuriers**, un lieu caché sous les rues de [[Semper]], a été le théâtre d’un complot inattendu. Une réunion d’urgence entre les leaders des factions a été brutalement interrompue par une tentative d’assassinat contre **[[Golden Tide's Leader|Dorius Goldvein]]**, le chef du **[[The Golden Tide|Golden Tide]]**. L’assassin, après avoir été découvert et maîtrisé par le groupe, a eu la présence d’esprit de se suicider avec un poison puissant, ne laissant derrière lui que des emblèmes de chaque faction. Cela sème immédiatement le doute parmi les chefs présents : un espion interne ? Un complot extérieur ? Ou quelqu’un jouant les factions les unes contre les autres ? L’enquête du groupe est cruciale pour éviter une guerre ouverte et découvrir l’identité de ce mystérieux commanditaire.
+
+---
+
+### **Objectif de la Session** :
+
+**Empêcher la guerre entre factions** en découvrant l'identité du véritable commanditaire de l’assassinat et en démêlant les fils du complot.
+
+---
+
+### **Mise en Scène : La Réunion sous Tension**
+
+Le **Sanctuaire des Aventuriers** est plongé dans une atmosphère tendue. La salle de réunion est une vaste pièce voûtée, ornée de chandeliers vacillants, avec une grande table ovale où les chefs des factions se sont rassemblés pour discuter des derniers développements politiques à [[Semper]].
+
+1. **Les Personnages Présents** :
+    - **Kaelen Thorne**, chef des **[[The Iron Seekers|Iron Seekers]]** : Le regard froid et méfiant, il observe silencieusement les autres. Son corps est rigide, prêt à intervenir à tout moment.
+    - **[[Ravenborn Community's Leader|Elvira Moonsworn]]**, chef des **Ravenborn Company** : Impulsive et indépendante, elle se tient près de l’entrée, prêt à bondir sur la moindre provocation. Elle jette des regards furtifs vers les autres, épiant chaque geste.
+    - **[[Silver Chain's Leader|Theron Velamir]]**, chef des **[[The Silver Chain|Silver Chain]]** : Le maître de la manipulation, il ne sourit jamais vraiment, mais ses yeux brillent d’une malice discrète. Il semble plus intéressé par les autres que par la réunion.
+    - **[[Black Serpents Leader|Valindra Emberglow]]**, chef des **[[The Black Serpents|Black Serpents]]** : Une calme présence dans cette mer de tensions, ses yeux de feu cachant des secrets que personne ne peut vraiment lire.
+
+Au centre de la pièce, **[[Golden Tide's Leader|Dorius Goldvein]]**, leader du **[[The Golden Tide|Golden Tide]]**, se relève péniblement après avoir failli être tué. Son regard est empli de colère et de confusion.
+
+🗣️ _[[Golden Tide's Leader|Dorius Goldvein]] (en frappant la table)_ :  
+**« Quelqu’un a tenté de me faire taire ! Je veux des réponses ! »**
+
+Les chefs des factions, d’ordinaire calculés, commencent à s’agiter. Chacun veut savoir qui est responsable. **Kaelen** prend la parole, tout en croisant les bras et en observant le groupe avec méfiance.
+
+🗣️ _Kaelen Thorne_ :  
+**« Une attaque aussi bien orchestrée… Ça ne peut être que l'œuvre d’un ennemi de l’intérieur. »**
+
+**[[Silver Chain's Leader|Theron Velamir]]**, ajustant l’un de ses anneaux en argent, murmure avec son sourire habituel :
+
+🗣️ _[[Silver Chain's Leader|Theron Velamir]]_ :  
+**« Ou bien, c’est précisément ce que l’assassin voulait nous faire croire… »**
+
+Le doute s’installe. Les factions sont sur le point de s’effondrer sous le poids de la méfiance, et il ne faut pas que l'enquête se solde par un échec.
+
+---
+
+### **Enquête : Les Pistes à Explorer**
+
+🔍 **Indices trouvés sur l’assassin** :  
+Lors de la fouille de l'assassin, plusieurs indices intrigants apparaissent :
+
+- **Un médaillon gravé avec un symbole inconnu**. Celui-ci est étrangement familier, et un jet d’Investigation permet de découvrir qu’il provient d’une organisation secrète qui a été active lors de la Grande Guerre. Cela pourrait suggérer un lien avec des forces extérieures à [[Semper]].
+- **Une lettre cryptée**, mentionnant un **échange secret** prévu dans un entrepôt en dehors de la ville. Ce dernier pourrait être un lieu clé pour la suite des événements.
+- **Des traces de poison rare**, utilisé uniquement par des maîtres empoisonneurs. Un jet de **Médecine ou Alchimie** permet de remonter à une source potentielle de ce poison dans les bas-fonds de [[Semper]], où certains alchimistes du **[[The Black Serpents|Black Serpents]]** pourraient avoir des informations.
+
+---
+
+### **Les Personnes à Interroger** :
+
+1. **[[Silver Chain's Leader|Theron Velamir]]** ([[The Silver Chain|Silver Chain]]) :  
+    Theron peut avoir des informations sur l’assassin, mais il est **très difficile à lire**. Il pourrait révéler des éléments cruciaux, mais il demande un **prix** : l’assistance du groupe dans l'une de ses entreprises peu scrupuleuses. Le groupe doit choisir : quelles informations sont-elles prêtes à acheter ?
+    
+2. **Les Alchimistes des [[The Black Serpents|Black Serpents]]** :  
+    **[[Black Serpents Leader|Valindra Emberglow]]** pourrait savoir d'où vient ce poison rare, mais elle risque de les mener dans une direction qu'ils ne veulent pas prendre. Parle-t-elle vrai ? Ou bien joue-t-elle un double jeu ? Les **[[The Black Serpents|Black Serpents]]** ont de nombreuses ressources cachées, et certains membres pourraient être impliqués dans l'attentat.
+    
+3. **Un Contact au sein du [[The Golden Tide|Golden Tide]]** :  
+    Un membre de la **[[The Golden Tide|Golden Tide]]** pourrait être impliqué, et un contact au sein de ce groupe pourrait détenir des informations cruciales sur la façon dont l’assassin a pu approcher Dorius. Cela peut mener à un autre rebondissement : **un traître à l'intérieur**.
+    
+
+---
+
+### **Twists et Révélations** :
+
+- **Le poison utilisé** est une signature des **[[The Black Serpents|Black Serpents]]**, mais **[[Black Serpents Leader|Valindra Emberglow]]** jure qu’elle n’a rien à voir avec l’incident. Cela ouvre la possibilité que **la faction soit elle-même infiltrée**.
+    
+- **L’échange secret mentionné dans la lettre** devait avoir lieu dans un entrepôt contrôlé par la **Ravenborn Company**, mais ce lieu est en ruines et semble avoir été abandonné de manière précipitée.
+    
+- **Fouille de l’entrepôt** : Lors de l’investigation de cet entrepôt, les joueurs découvrent une **salle piégée** avec des **traces récentes de lutte**. À l'intérieur, ils tombent sur le cadavre d'un espion des **[[The Silver Chain|Silver Chain]]**, portant un **insigne déformé** de cette faction. Cela indique une possible **alliance entre factions** ou la mise en place d’un jeu à trois bandes.
+    
+
+🛑 **Coup de théâtre** :  
+**L’assassin n’agissait pas seul**. Un **autre acteur** majeur, encore en mouvement, tente de faire tomber toutes les factions dans une guerre ouverte. **L’un des leaders** pourrait être un **agent double** manipulé par un ennemi extérieur, ou un membre du gouvernement tentant de déstabiliser les factions.
+
+---
+
+### **Climax : Course Contre la Montre**
+
+📍 **Lieu final : Une vieille crypte sous [[Semper]]**  
+Le groupe découvre qu’un **échange décisif** entre des **agents secrets** de différentes factions va avoir lieu dans une crypte cachée sous la ville. Ils arrivent sur place, prêts à déjouer ce dernier acte.
+
+- **L’antagoniste masqué** attend un mystérieux **messager**. C’est peut-être l'**agent extérieur** derrière toute l’intrigue, une figure qui **cherche à semer la discorde** pour sa propre ascension. Peut-être est-ce un **membre du gouvernement**, ou un **membre corrompu** d’une faction, manipuler les autres pour que l’équilibre des pouvoirs change en leur faveur.
+
+---
+
+### **Fin Possible et Conséquences** :
+
+✅ **Succès** :  
+Le groupe réussit à démasquer le commanditaire du complot, révèle son identité au grand jour, et empêche une guerre ouverte entre les factions. La paix fragile entre les factions peut être maintenue, mais il est clair que de nouvelles menaces s’annoncent. La menace du **puppeteer** se fait sentir, mais les factions unies restent plus fortes.
+
+❌ **Échec** :  
+La méfiance gagne les factions, la guerre éclate, et [[Semper]] est plongée dans le chaos. Les factions se fragmentent, et **les réseaux d’espionnage** deviennent une véritable toile de guerre. Le groupe est désormais perçu comme un **élément instable**, pris dans un tourbillon de complots dont il ne peut plus échapper.
+
+# **Session 8: A City on the Brink**
+
+**Overview**:  
+The party is faced with the immediate fallout of the poisoning at the faction meeting. With tensions high and the factions turning on each other, they must figure out how to prevent an all-out war. They will begin to uncover more details about the secretive puppeteer manipulating the factions and the true goals of the [[Thirry]] family.
+
+1. **Immediate Reactions**:
+    
+    - **Faction Leaders' Reaction**: The factions will all react differently to the discovery of the assassin. Some will feel betrayed, others will feel vindicated, but all will be paranoid and distrustful of one another.
+    - **Key Role**: The party’s role becomes critical—are they trusted diplomats, or will they be seen as potential threats?
+2. **Investigation**:
+    
+    - The party will need to delve deeper into the assassin’s background. Who hired him, and what is his connection to the factions?
+    - **Discovery**: The assassin's final words may include hints about the disciple of the puppeteer, further revealing the puppetmaster’s role. The party might learn about a faction that is most closely connected to the manipulations (e.g., [[The Silver Chain|Silver Chain]] or [[The Black Serpents|Black Serpents]]).
+3. **Escalating Tensions**:
+    
+    - **Faction Leaders' Confrontations**: There may be a confrontation between the faction leaders—some may want to accuse others of the assassination attempt, and others will propose harsher measures to secure their interests.
+    - **Potential Sabotage**: A faction may be sabotaged by another in the name of "justice," further complicating the party’s efforts to maintain peace.
+4. **Subtle Manipulations**:
+    
+    - The party will begin to notice subtle signs that they are being watched. The puppeteer (or his agents) may be keeping tabs on the party, trying to push them into taking sides or sowing more chaos.
+5. **Decision Point**:
+    
+    - **Ally or Neutralize**: The party must decide if they will align with a particular faction to strengthen their position or if they will try to remain neutral, navigating the growing tensions without choosing a side.
+    - They may also uncover a potential ally who’s aware of the puppeteer’s presence but doesn’t fully understand his goals.
+
+---
+
+# **Session 9: The Puppeteer’s Reach**
+
+**Overview**:  
+With the tensions among the factions growing, the party will begin to uncover more about the true mastermind behind the chaos—**[[Emmyth Eildan]]**—and how his disciple is implementing his will. The party may uncover evidence of a larger plot to manipulate the city into a state of chaos that will ultimately benefit a hidden power.
+
+1. **Unmasking the Disciple**:
+    
+    - The party gathers intel on the disciple, learning of his role in orchestrating the political manipulations in [[Semper]]. They may even have a chance to confront a low-ranking disciple or agent working in the city.
+    - **Hidden Agenda**: The party uncovers hints about Emmyth’s hatred for humans and his desire to reshape the balance of power in [[Semper]] and beyond. However, they still don’t know his full plan.
+2. **The Threat of War**:
+    
+    - The factions are now openly hostile to one another, and war feels imminent. The party must use all their diplomatic skills and intelligence to prevent the factions from falling into total chaos. They may need to broker uneasy alliances or even betray factions to achieve peace.
+    - **Subplot**: A smaller, rogue faction (perhaps a splinter of [[the Black Serpents]] or Ravenborn Company) might be looking to exploit the situation for their own gain, possibly with ties to the puppeteer’s disciple.
+3. **New Alliances**:
+    
+    - The party may successfully form alliances with certain factions, especially those who are starting to realize they are being manipulated by the puppetmaster. These new alliances could help balance the power struggle, but they come at a cost.
+    - A faction leader might propose an ultimatum: assist them in taking down a rival faction, or face the consequences of their neutrality.
+4. **The [[Siltmaw Leviathan]]'s Role**:
+    
+    - A new revelation: the [[Siltmaw Leviathan]], previously seen as just a creature of legend, may have a critical role in the puppeteer’s plan. The party could discover that the Leviathan has been kept alive for a reason—perhaps to be used in a final assault against the factions.
+    - **Key Decision**: The party may need to decide whether to eliminate the Leviathan (and thus disrupt part of the plan) or allow it to play a part in the larger conflict.
+
+---
+
+# **Session 10: A City Divided**
+
+**Overview**:  
+The faction war begins to spill into the streets. Skirmishes break out between various faction members, and the city is on the edge of collapse. The party must make their move to stop the city from descending into full-scale war, all while trying to unravel the full scope of the puppeteer’s plan.
+
+1. **Open Conflict**:
+    
+    - The party will experience the violence of the factions firsthand. Adventurers, mercenaries, and even citizens are being drawn into the conflict. The city is split between the warring factions, and the streets are dangerous.
+    - **Mission**: The party will be tasked with completing a critical mission to either gather more intel on the disciple or to disrupt the enemy factions’ preparations for war.
+2. **Puppeteer’s Final Steps**:
+    
+    - The party uncovers that the disciple has been preparing a large-scale operation that will shift the balance of power. Perhaps a false flag attack, a magical weapon, or a ritual that would allow Emmyth to exert control over the city. The puppetmaster is on the verge of pulling the strings for a final push toward total control.
+    - **Climactic Reveal**: The party learns that the [[Thirry]] family was never in control—they were only pawns for a much larger plan orchestrated by Emmyth’s disciple.
+3. **Breaking the Factions**:
+    
+    - **Decisive Choices**: The party must decide which factions can still be trusted and which ones have become irredeemably corrupted. They may need to betray certain factions to stop the greater plan.
+    - **Turning Point**: The party may orchestrate a last-minute alliance to expose the disciple’s actions and prevent the factions from turning on one another completely.
+
+---
+
+# **Session 11: The Fall or Rise of [[Semper]]**
+
+**Overview**:  
+In the aftermath of the chaos, the party must face the consequences of their actions. The factions are either on the verge of reconciliation or total collapse. The party’s actions will decide the future of [[Semper]] and its leadership.
+
+1. **Final Confrontation with the Disciple**:
+    
+    - **Climactic Showdown**: The party confronts the disciple of [[Emmyth Eildan]]. The disciple might be using a dark artifact or magical ritual to enforce his will. The party must stop him before his final move.
+    - **Revelation**: The disciple reveals the true scope of Emmyth’s plans and his role in manipulating the factions. He might even reveal that he is a tool in a much larger plan that will unfold 200 years later.
+2. **[[Semper]]’s Future**:
+    
+    - **Decision**: The party must decide whether to allow the factions to reform or whether to completely dismantle the power structures in [[Semper]], ensuring that a new order emerges.
+    - **Aftermath**: Depending on the party’s actions, [[Semper]] may be a city on the verge of peace, or it could be on the edge of civil war. Some factions may rise to power while others fall.
+3. **End of Act**:
+    
+    - The party will have dealt with the immediate crisis in [[Semper]], but the repercussions of their decisions will ripple out across the city and its people. They may have set the stage for future conflicts, possibly even paving the way for Emmyth’s larger plan to come to fruition in the distant future.
+
+---
+
+# **Campaign Themes**:
+
+- **Power and Corruption**: The factions' power struggles highlight themes of loyalty, manipulation, and corruption. The party must constantly question who they can trust.
+- **Political Intrigue**: The party navigates the dangerous waters of factional politics, deciding which leaders and groups are worth supporting.
+- **Legacy of War**: Emmyth's past as a veteran of the Great War weighs heavily on the city. The specter of the past influences the future.
+- **Manipulation and Puppetry**: The hidden hand of the puppeteer plays a central role, with the party slowly discovering the true extent of their manipulation.
+
+This session progression builds tension as the party moves closer to uncovering the full scope of the plot while dealing with the dangerous political landscape in [[Semper]]. How does this feel in terms of the overall direction you want the campaign to take?
