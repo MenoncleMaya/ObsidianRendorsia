@@ -474,7 +474,7 @@ The assassination fractures the already fragile alliance. Each faction reacts ba
 
 Among the spoils retrieved from the Leviathan’s lair, the party finds:
 
-- **A Map Fragment**: It points to an old stronghold or hidden area tied to the ruler’s operations, offering the party a lead on how to weaken them further.
+- **A [[Map]] Fragment**: It points to an old stronghold or hidden area tied to the ruler’s operations, offering the party a lead on how to weaken them further.
 - **Magical Energy Residue**: The Leviathan’s remains radiate forbidden magic, raising questions about the ruler’s plans and their source of power.
 - **A Strange Ally**: A mysterious NPC (e.g., a survivor from the lair or a creature tied to the Leviathan) offers aid but insists on accompanying the party for their own motives.
 
@@ -545,7 +545,7 @@ As the factions regroup, the party has time to:
 
 ## Notes
 
-
+Les égarer de la queux poilu
 # **Session 7 : Le Mystère de l'Assassin Masqué** - **Un Gâteau de Paranoïa et de Suspense**
 
 ---
@@ -612,7 +612,6 @@ Lors de la fouille de l'assassin, plusieurs indices intrigants apparaissent :
     
 3. **Un Contact au sein du [[The Golden Tide|Golden Tide]]** :  
     Un membre de la **[[The Golden Tide|Golden Tide]]** pourrait être impliqué, et un contact au sein de ce groupe pourrait détenir des informations cruciales sur la façon dont l’assassin a pu approcher Dorius. Cela peut mener à un autre rebondissement : **un traître à l'intérieur**.
-    
 
 ---
 
