@@ -5,4 +5,5 @@ Like the [[MonsterManuel]] But only for beast and some enemies of [[Rendorsia]]
 	[[ShineHorn]]
 	[[Soldier pl5]]
 	[[Thiefs]]
+	[[Deep Wyrm]]
 	

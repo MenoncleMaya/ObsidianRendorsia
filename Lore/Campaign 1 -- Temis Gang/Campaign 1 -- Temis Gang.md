@@ -890,3 +890,174 @@ This path takes the party over the rugged peaks of the northern [[mountains]]. I
 - Stunning vistas and a chance to discover hidden secrets in the [[mountains]].
 - Improved morale and experience for surviving a physically taxing journey.
 - Avoiding political entanglements with the dwarves.
+
+
+# **Session 11 -- The Dwarven Court and a Test of Strength**
+
+#### **1. Introduction: Arrival at the Dwarven Kingdom**
+
+[[Mountain's of the Dwarfs]]
+[[Mines of the Dwarfs]]
+
+- The party is escorted by dwarven guards through grand halls carved into the mountain, lined with golden braziers and intricate murals depicting dwarven history.
+- They are led to **[[King Duregard Ironheart]]**, ruler of the underground realm of **Kazak-Korund**.
+    - **[[King Duregard Ironheart]]**: A grizzled, one-eyed dwarf with a braided silver beard, wearing ceremonial mithril armor. He is strict, pragmatic, and skeptical of outsiders, prioritizing his people above all else.
+    - **Political Context**:
+        - The dwarves are on high alert due to **strange disappearances** in the lower tunnels.
+        - They distrust surface dwellers due to **trade conflicts** with [[The Golden Tide]].
+        - Some noble houses push for **isolation**, while others advocate for outside aid.
+
+#### **2. The Political Dilemma**
+
+- The king convenes a council with:
+    - **[[Thane Gorlim Stonefist]]** (Isolationist, against helping outsiders)
+    - **[[Thane Helgrid Emberforge]]** (Progressive, interested in trade & alliances)
+    - **[[High Priest Doldrim Runesoul]]** (Religious leader, wary of magic and adventurers)
+- The party must navigate a **tense debate** where they can:
+    - Gain the king’s favor by offering assistance with the missing dwarves.
+    - Influence noble factions for future benefits.
+    - Learn secrets about the **abandoned tunnels** from ancient records.
+
+#### **3. The Encounter: A Test of Strength**
+
+- To earn the king’s trust, the party must prove themselves.
+- **Combat Options**:
+    - **Arena Duel**: The king’s champion, **[[Torgrun the Unyielding]]** (Dwarven berserker with enchanted warhammers), challenges them to a **non-lethal** battle.
+    - **Beast Hunt**: A **[[Deep Wyrm]]** (burrowing monstrosity) has been plaguing the lower tunnels. The party can track and slay it.
+    - **Skill Challenge**: A dwarven trial involving **strength, wits, and endurance**.
+
+#### **4. Lore Opportunities**
+
+- **Mysterious Runes**: Inscriptions hinting at an ancient **elven war** in the tunnels.
+- **Sealed Doors**: Locked gates leading to the **abandoned section** of the mines.
+- **Dwarven Myths**: Legends of a forgotten **forge-god’s artifact**, rumored to be lost in the depths.
+
+#### **5. Ending the Session**
+
+- Depending on their actions, the party might:
+    - Secure dwarven aid for future conflicts.
+    - Uncover secrets of the tunnels before venturing further.
+    - Make enemies among the nobles, leading to **political repercussions**.
+
+# **The Three Challenges of the Forgefather**
+
+_"Strength in stone, wisdom in craft, endurance in revelry. Prove yourselves worthy of Moradin’s blessing."_
+
+The trials take place in **the Sacred Hall of the Forgefather**, a massive chamber lined with dwarven carvings and glowing forgefires. These trials are a **traditional rite of passage** for those seeking Moradin’s favor, designed to test a warrior’s **strength, wits, and endurance**.
+
+---
+
+## **Challenge 1: Strength – The Shattering Stone**
+
+_"Strike with all your might, but know this—stone does not break for the weak."_
+
+### **Setup**
+
+- The party must **strike a sacred anvil**, attempting to **shatter enchanted stones placed upon it**.
+- The stones progressively become **denser and more magically reinforced**.
+- They may **only use melee or unarmed attacks**, and **[[spells]] do not work** (Moradin’s wards suppress magic).
+- **Each player takes a turn striking the stone.**
+
+### **Mechanics**
+
+Each round, the stone has **AC and HP** the [[players]] must overcome. If the **stone is not shattered in 3 rounds**, the challenge is failed.
+
+|Round|Stone Name|AC|HP|Damage Resistance|
+|---|---|---|---|---|
+|1|Hardened Granite|10|15|None|
+|2|Dwarven Ironstone|14|20|Bludgeoning|
+|3|Adamantine Heartstone|18|30|Non-magical attacks|
+
+**Attack Rolls:**
+
+- [[Players]] roll **Strength (Athletics) or a weapon attack** against the AC.
+- If they beat the AC, they deal **damage as normal**.
+- If they roll a **natural 20**, they **shatter the stone instantly**.
+
+**Bonus Actions & Strategy:**
+
+- [[Players]] can **help each other** (granting advantage).
+- [[Players]] may use **tools** (like smithing hammers) for a small bonus.
+- The final stone requires a **combined effort**—[[players]] must **deal over 30 damage in one round to break it**.
+
+### **Outcome**
+
+- **Success:** The **anvil glows with divine energy**, and **Moradin’s approval is granted**.
+- **Failure:** The stone remains intact, and **the trial must be restarted with a penalty** (Doldrim frowns and forces them to repeat the test with exhaustion).
+
+---
+
+## **Challenge 2: Wits – The Puzzle of the Forge**
+
+_"A fool swings his hammer blindly; a master strikes with purpose."_
+
+### **Setup**
+
+The [[players]] are led to **an ancient forge altar** where **three braziers glow dimly**. In front of them is a **large stone wall with a carved dwarven poem**.
+
+### **Puzzle:** **The Poem of the Three Flames**
+
+> _The first flame dies when left alone,_  
+> _The second burns, yet leaves no stone._  
+> _The third ignites when breath is blown,_  
+> _But only when the order’s known._
+
+### **The Solution**
+
+The [[players]] must **light the three braziers in the correct order** based on the poem’s hints.
+
+- **The First Flame (Coal) dies alone** → Must be lit **second**, or it burns out.
+- **The Second Flame (Magic) burns but leaves no stone** → Must be **last**, since it represents ethereal fire.
+- **The Third Flame (Air/Bellows) ignites when breath is blown** → Must be **first**, as it needs air to sustain the others.
+
+### **Mechanics**
+
+- [[Players]] **light the flames** in a chosen order.
+- They must use **Intelligence (Investigation) or Wisdom (Insight)** to determine the sequence.
+- **If they fail**, they take **2d6 fire damage** as the forge flares up.
+- **If they succeed**, the forge **roars to life**, and they are **blessed by Moradin**.
+
+---
+
+## **Challenge 3: Endurance – The Iron Tankard**
+
+_"A warrior’s heart is tested not just in battle, but in revelry!"_
+
+### **Setup**
+
+- The party sits **at a massive stone table** alongside **six dwarven champions**.
+- **A legendary dwarven brewer**, Thalgrim Barrelbelly, presents the **Iron Tankard of Moradin**, a **bottomless mug filled with the strongest dwarven ale**.
+- The [[players]] must **outdrink the dwarves** while enduring the **brutal effects of the brew**.
+
+### **Mechanics**
+
+- Each round, [[players]] **drink and make a Constitution saving throw** (DC increases per round).
+- **Failure:** The player takes **1d8 poison damage** and gains **one level of drunkenness**.
+- **Three failures = unconsciousness!**
+
+|Round|DC|Effect on Fail|
+|---|---|---|
+|1|12|Slightly Tipsy (Disadvantage on Perception)|
+|2|14|Slurred Speech (Disadvantage on Charisma checks)|
+|3|16|Stumbling (Disadvantage on Dexterity saves)|
+|4|18|Blurred Vision (Attack rolls are at disadvantage)|
+|5+|20|**Make a DC 15 Con save or pass out**|
+
+**Bonus Drinking Tactics:**
+
+- **Persuasion (DC 15):** Convince a dwarf to **drink extra** (raising their DC).
+- **Sleight of Hand (DC 17):** **Pretend to drink but spill some** (auto-pass a round).
+- **Performance (DC 15):** Act **more sober than you are**, making it harder for dwarves to tell you're struggling.
+
+### **Winning the Drinking Contest**
+
+- The **last person standing wins** and is granted **The Tankard of Moradin**, a magical mug that **purifies any liquid poured into it**.
+- If **all dwarves fall before the party**, they receive **Moradin’s toast**, a **blessing of endurance (advantage on CON saves for 24 hours).**
+
+---
+
+## **Final Outcome & Rewards**
+
+- **If they succeed in all three trials,** the **High Priest blesses them personally**, granting each player **a Rune of Moradin** (functions as a one-time-use **Bless spell** that activates when they drop below 10 HP).
+- **If they fail one trial**, they are still **acknowledged** but do not receive Moradin’s full favor.
+- **If they fail two trials or more,** they are **mocked by the dwarves** and must prove themselves in battle instead.
