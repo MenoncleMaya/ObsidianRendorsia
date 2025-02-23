@@ -759,7 +759,7 @@ If (Jayson.Inspect == Grimoire)
 | Silver Fox       | 20  | Extremely rare, known for its unique fur.           | Very High                       |
 | Cougar           | 21  | Top-level predator, dangerous to trap.              | Very High, combat possible      |
 | Bear             | 23  | Strong and powerful, only for the brave.            | Exceptional, combat likely      |
-| Shadow Lynx      | 22  | A mystical feline that blends into darkness.        | High, magical shadow-infused    |
+| [[Shadow Lynx]]      | 22  | A mystical feline that blends into darkness.        | High, magical shadow-infused    |
 | Frost Stalker    | 24  | An icy beast found in cold climates, emits a chill. | Very High, resistant to cold    |
 | Thunder Hare     | 19  | A rare hare that crackles with static energy.       | Medium to High, shock-infused   |
 | Phase Fox        | 25  | A fox capable of short-distance teleportation.      | Exceptional, phase-resistant    |
@@ -785,7 +785,7 @@ If (Jayson.Inspect == Grimoire)
 #### **3. Rumors and Leads**
 
 - **Gossip**:
-    - Strange tracks have been spotted near the woods, hinting at creatures like the **Shadow Lynx** or **Phase Fox**.
+    - Strange tracks have been spotted near the woods, hinting at creatures like the **[[Shadow Lynx]]** or **Phase Fox**.
     - Some villagers claim soldiers have been asking about adventurers, hinting at the [[Thirry]] family’s search for resistance members.
 - **Optional Quest Hook**: Bran mentions that traps he set for valuable creatures near the river have been broken, possibly by a fantastical beast or rival trappers.
 
@@ -809,7 +809,7 @@ If (Jayson.Inspect == Grimoire)
 
 #### **6. Trapping Mini-Game**
 
-- **Setting**: The party sets traps by the river or in the forest, rolling to capture animals such as **Silver Foxes** or even fantastical creatures like the **Shadow Lynx**.
+- **Setting**: The party sets traps by the river or in the forest, rolling to capture animals such as **Silver Foxes** or even fantastical creatures like the **[[Shadow Lynx]]**.
 - **Outcome**: Successful trapping yields valuable furs, potential crafting materials, or magical components. Failure could result in a mishap (wild animal attack or damaged traps).
 
 #### **7. Session Conclusion**

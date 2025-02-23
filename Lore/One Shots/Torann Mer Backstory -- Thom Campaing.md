@@ -3,7 +3,7 @@
  - Sack Mer - (Step Mother) merchant Goblin
  - Torann Mer - Kolas
  - Urg Powerhammer (party member) Orc male Barbarian and Brawn of the Shipyard Crooks
- - Limp-Leg (party member) Goblin male rogue and Sly of the Shipyard
+ - Limp-Leg (party member) Goblin male rogue and [[Darric Sly Vasemir|Sly]] of the Shipyard
  - Yannma Oriya (Favored Client and friend) Elf Young Woman, hires Torann often to seperate herself from her rich family and gather herbs for her shop
  - Alvric DeChantier (Antagonist) rich folk thriving with
 
