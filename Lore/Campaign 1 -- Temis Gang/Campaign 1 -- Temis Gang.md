@@ -939,7 +939,7 @@ This path takes the party over the rugged peaks of the northern [[mountains]]. I
     - Uncover secrets of the tunnels before venturing further.
     - Make enemies among the nobles, leading to **political repercussions**.
 
-# **The Three Challenges of the Forgefather**
+## **The Three Challenges of the Forgefather**
 
 _"Strength in stone, wisdom in craft, endurance in revelry. Prove yourselves worthy of Moradin’s blessing."_
 
@@ -1061,3 +1061,71 @@ _"A warrior’s heart is tested not just in battle, but in revelry!"_
 - **If they succeed in all three trials,** the **High Priest blesses them personally**, granting each player **a Rune of Moradin** (functions as a one-time-use **Bless spell** that activates when they drop below 10 HP).
 - **If they fail one trial**, they are still **acknowledged** but do not receive Moradin’s full favor.
 - **If they fail two trials or more,** they are **mocked by the dwarves** and must prove themselves in battle instead.
+
+# Session 12 -- The Goblin City
+
+## **1. The Goblin Ambush (Before the City)**
+
+**Setting:**  
+The party ventures into **crumbling dwarven tunnels**, with **glowing mushrooms**, flickering **runes**, and old mining carts scattered around. As they advance, they hear **scuttling sounds** and hushed goblin whispers.
+
+🔺 **Ambush Setup:**  
+The [[goblins]] use **hit-and-run tactics, traps, and overwhelming numbers**.
+
+- **Phase 1: Initial Attack**
+    
+    - [[Goblin archer]]s **fire from above**, taking advantage of **high ground**.
+    - [[Goblin skirmisher]]s **rush out from behind rocks**, trying to **flank the party**.
+    - Tripwires set off **crude spear traps** or collapse parts of the tunnel.
+- **Phase 2: Goblin Reinforcements & Chaos**
+    
+    - A **Goblin Boss & His Lieutenants** arrive, leading a charge.
+    - **[[MadCap Goblin]]s with firebombs** try to set tunnels ablaze.
+    - A **huge, [[Goblin War Ogre]]** in goblin armor is unleashed to smash the party.
+
+🛠️ **Possible Outcomes:**
+
+1. The party **defeats the [[goblins]]** and reaches the city—though some [[goblins]] **escape and warn Boss [[Kraggle]]**.
+2. The [[goblins]] **overwhelm the party**, forcing them to **flee into the goblin city, exhausted and low on resources**.
+3. The [[goblins]] **capture** them and drag them to **Boss [[Kraggle]]’s throne**, leading to a dangerous social encounter.
+
+---
+
+## **2. The Goblin City: Chaos & Betrayal**
+
+Once inside, the party **must navigate a volatile underground society**:
+
+- **Possible Encounters:**
+    - Goblin vendors **try to scam them** with fake magical items.
+    - A goblin **challenges them to a drinking contest** (foreshadowing dwarven endurance challenges).
+    - The party **overhears rumors** of something **deep below the city**, something even [[goblins]] fear.
+    - A goblin **pickpocket** tries to steal from them, possibly leading to a chase.
+
+**Boss [[Kraggle]]’s Decision:**
+
+- **If they fought through the ambush**: He sees them as **a threat** and orders them thrown into “the pit.”
+- **If they snuck in or talked their way out**: He may **offer a dangerous task**, betray them, or set them up in an arena fight.
+
+---
+
+## **3. The Fall Into Darkness**
+
+Regardless of their approach, they end up in **The Pit**—a collapsing section of the goblin city that **drops them into forgotten dwarven ruins.**
+
+- They **land hard**, surrounded by **ancient stonework** covered in strange runes.
+- **Distant echoes of monstrous growls** signal that they are **not alone**.
+- The only way forward is **deeper into the tunnels**, where **worse things than [[goblins]] await**…
+
+---
+
+## **Cliffhanger Ending: The Forgotten Depths**
+
+The session ends with the party:
+
+- **Injured, lost, and cut off from escape.**
+- Staring at **strange runes flickering back to life**.
+- Hearing **something moving in the darkness ahead…**
+
+Notes 
+breton add necklace, salive du wyrm and scale
+mini un shield, dent du wyrm
