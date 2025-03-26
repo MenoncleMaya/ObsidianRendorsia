@@ -66,14 +66,16 @@ The Royal Crypt of [[Semper]] is the final resting place of all the kings of [[S
     2. **Reject him**—triggering the awakening of the tomb’s **final guardian** (a powerful undead royal knight).
 
 ---
-
-### **Final Encounter (Optional Boss Fight)**
-
-- **King Vaelor the Everlasting** (Undead Revenant King)
-    - HP: High, wielding a legendary greatsword.
-    - Abilities: Shadow Step, Command Undead, Cursed Strike.
-    - **If defeated:** The Puppet Master simply laughs, as if he expected this outcome.
-
+SHREIKER
+- **Enemy’s Illusion:** Shreiker sees a **Kenku figure**, older, dressed in rags but wearing an identical holy symbol. They speak in fragmented mimicry, echoing phrases Shreiker has never heard before.
+- **Psychological Conflict:** The figure stumbles toward him, reaching out, whispering pieces of a past Shreiker doesn’t remember. “Left you… for a reason…” “The truth… is dangerous…”
+- **Combat Challenge:** This Kenku fights like a shadowy assassin, mirroring Shreiker’s own movements and abilities. Every time Shreiker strikes, the enemy responds with perfect mimicry.
+- **Twist:** If defeated, the illusion breaks, revealing that Shreiker was fighting a hollow puppet all along, a metaphor for his fear that his past will never have answers.
+URILENOIR
+- **Ennemi Illusoire :** Gora, sa mère orc, enchaînée et implorante. Derrière elle, des paladins prêts à l’exécuter.
+- **Conflit Psychologique :** L’illusion la fait parler : “As-tu honte de moi, mon fils ? Veux-tu vraiment devenir l’un des leurs ?”
+- **Défi en Combat :** Il doit affronter des chevaliers de son ordre qui justifient l’exécution en lui disant que les orcs ne sont que des brutes sans honneur.
+- **Twist :** S'il attaque les paladins, son reflet se transforme en brute sanguinaire. S'il laisse sa mère mourir, il se sent trahir ses origines. Seule une solution pacifique (un test de persuasion ou une épreuve de foi) permet de briser l’illusion sans conséquence psychologique.
 ---
 
 ### **Rewards & Consequences**

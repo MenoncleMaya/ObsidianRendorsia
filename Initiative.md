@@ -1,10 +1,12 @@
-24 Razzilhk
-23 Cashmere
-Archer boy
-skirmisher 14
 20 Gunther
-Archer boy
-11 Bibir
-10 Jayson
-  7 Jimmy Jay
-  madcap 10
+19 Jimmy Jay
+19 Bibir
+mad cap right
+War ogre 71
+18 Razzilhk
+archer left
+skirmisher left
+mad cap left
+6 Jayson Smith
+archer right
+skirmisher right
