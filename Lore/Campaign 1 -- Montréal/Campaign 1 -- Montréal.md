@@ -546,7 +546,7 @@ As the factions regroup, the party has time to:
 ## Notes
 
 Les égarer de la queux poilu
-# **Session 7 : Le Mystère de l'Assassin Masqué** - **Un Gâteau de Paranoïa et de Suspense**
+# **Session 7
 
 ---
 
@@ -690,10 +690,6 @@ With the tensions among the factions growing, the party will begin to uncover mo
     
     - The party may successfully form alliances with certain factions, especially those who are starting to realize they are being manipulated by the puppetmaster. These new alliances could help balance the power struggle, but they come at a cost.
     - A faction leader might propose an ultimatum: assist them in taking down a rival faction, or face the consequences of their neutrality.
-4. **The [[Siltmaw Leviathan]]'s Role**:
-    
-    - A new revelation: the [[Siltmaw Leviathan]], previously seen as just a creature of legend, may have a critical role in the puppeteer’s plan. The party could discover that the Leviathan has been kept alive for a reason—perhaps to be used in a final assault against the factions.
-    - **Key Decision**: The party may need to decide whether to eliminate the Leviathan (and thus disrupt part of the plan) or allow it to play a part in the larger conflict.
 
 ---
 

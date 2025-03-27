@@ -1,6 +1,6 @@
 ^à
 è5à
-
+[[Campaign 1 -- Montréal]]
 is dungeon is a simple dungeon of [[Rendorsia]] somewhere near [[Semper]] discovered and donned before the [[Grande guerre de Rendorsia|Great war of Rendorsia]]  
 
 Theme : Intoxication

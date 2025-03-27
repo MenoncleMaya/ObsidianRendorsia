@@ -1062,7 +1062,7 @@ _"A warrior’s heart is tested not just in battle, but in revelry!"_
 - **If they fail one trial**, they are still **acknowledged** but do not receive Moradin’s full favor.
 - **If they fail two trials or more,** they are **mocked by the dwarves** and must prove themselves in battle instead.
 
-# Session 12 -- The Goblin City
+# Session 12/13 -- The Goblin City
 
 ## **1. The Goblin Ambush (Before the City)**
 
