@@ -151,7 +151,7 @@ Son contact des **[[The Black Serpents|Black Serpents]]** lui offre trois moyens
  2. [[Boots of the Silver Step]]
  3. [[Cape of Shifting Shadows]]
  4. [[Fan of Illusory Glamour]]
- 5. [[Gloves of Silent Movement]]
+ 5. [[The Velvet Grip]]
  6. [[Mask of Many Faces]]
  7. [[Necklace of Truth's Veil]]
  8. [[Ring of Social Grace]]

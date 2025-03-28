@@ -2,6 +2,7 @@
 aliases:
   - Lyriel
 ---
+Marié a [[Fhinn Toothpick|Fhinn]] 
 **Lyriel**
 
 **Backstory :**

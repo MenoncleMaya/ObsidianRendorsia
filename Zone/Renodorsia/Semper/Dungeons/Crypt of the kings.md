@@ -56,6 +56,32 @@ The Royal Crypt of [[Semper]] is the final resting place of all the kings of [[S
 
 ### **4. The Puppet Master's Message** (_Final Chamber_)
 
+### **The Master Puppeteer’s Chamber**
+
+As the party steps into the **heart of the lair**, they find themselves in a **vast, dimly lit chamber**. The room is **circular**, with walls made of **dark wood** resembling the inside of a marionette theater. Faint candlelight flickers from chandeliers made of **twisted, skeletal hands**, casting eerie, dancing shadows across the floor.
+
+At the **center** of the chamber, a **massive throne of strings and wood** sits atop a raised platform. **Dangling marionettes**, lifeless but eerily humanoid, hang from the ceiling, their heads tilted unnaturally as if watching the newcomers.
+
+### **The Five Smaller Rooms**
+
+Around the chamber, five **wooden doors** stand equidistant from one another, each leading to a smaller room. The doors are marked with cryptic symbols, seemingly representing different aspects of manipulation:
+
+1. **The Mask Room** – Shelves filled with ornate masks, each depicting different emotions: joy, sorrow, rage, and fear. The air feels heavy, as if stepping inside would force one to relive forgotten memories.
+2. **The String Room** – Thousands of thin, enchanted strings stretch from ceiling to floor, some of them still twitching, as if something unseen is controlling them.
+3. **The Marionette Workshop** – A grotesque collection of half-finished puppets lies scattered across wooden tables, their hollow eyes carved with unsettling precision. Some appear to resemble people the party might recognize.
+4. **The Reflection Room** – A chamber lined with **mirrors**, but each reflection is slightly wrong—expressions that do not match, figures that move independently from the viewer.
+5. **The Forgotten Chamber** – This door is **locked**, and something **scratches from the inside**, as if a puppet abandoned long ago still clings to a mockery of life.
+
+### **The Master Puppeteer**
+
+At the throne, a **tall, thin figure** sits, draped in **flowing black robes** with golden embroidery resembling tangled strings. His face is hidden behind a **porcelain mask**, cracked along the forehead. His hands, adorned with delicate rings, absentmindedly toy with **a single marionette**, its strings still leading into the darkness above.
+
+His **cold, expectant voice** breaks the silence:
+
+**“You are not my assassin. No matter. Shall we begin the show?”**
+
+Would you like the Puppeteer to attack immediately, or should he engage in mind games first?
+
 **Description:** A massive underground throne room with a **grand black sarcophagus** in the center, untouched for centuries. The walls are lined with murals depicting **events from the [[players]]' past**—proof that someone has been watching them.
 
 **Event:**
@@ -67,7 +93,7 @@ The Royal Crypt of [[Semper]] is the final resting place of all the kings of [[S
     2. **Reject him**—triggering the awakening of the tomb’s **final guardian** (a powerful undead royal knight).
 
 ---
-## [[Shrieker]]]
+## [[Shrieker]]
 - **Enemy’s Illusion:** Shreiker sees a **Kenku figure**, older, dressed in rags but wearing an identical holy symbol. They speak in fragmented mimicry, echoing phrases Shreiker has never heard before.
 - **Psychological Conflict:** The figure stumbles toward him, reaching out, whispering pieces of a past Shreiker doesn’t remember. “Left you… for a reason…” “The truth… is dangerous…”
 - **Combat Challenge:** This Kenku fights like a shadowy assassin, mirroring Shreiker’s own movements and abilities. Every time Shreiker strikes, the enemy responds with perfect mimicry.
@@ -157,3 +183,6 @@ Instead of attacking her, the puppet **forces [[Lyriel Moostride|Lyriel]] into a
 - **Ancient Relics of [[Semper]]:** Magic items or cursed artifacts from the tomb.
 - **A New Target:** The Puppet Master considers them either allies or a threat, affecting future events.
 - **The Crypt’s Collapse?** If they reject the Puppet Master, the crypt may begin to crumble, forcing an escape sequence.
+
+
+They Pick up an envelope in the middle of the room from te puppetere (Good Luck Mael)

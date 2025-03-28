@@ -1,0 +1,2 @@
+- **Description**: These black silk gloves grants +2 on slight of hands checks.
+- **Use**: Ideal for slipping through guarded doors or pilfering small objects without drawing attention.
