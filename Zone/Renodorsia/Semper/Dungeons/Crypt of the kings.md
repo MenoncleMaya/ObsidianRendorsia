@@ -185,4 +185,4 @@ Instead of attacking her, the puppet **forces [[Lyriel Moostride|Lyriel]] into a
 - **The Crypt’s Collapse?** If they reject the Puppet Master, the crypt may begin to crumble, forcing an escape sequence.
 
 
-They Pick up an envelope in the middle of the room from te puppetere (Good Luck Mael)
+They Pick up an envelope in the middle of the room from the puppeteer (Good Luck Mael)

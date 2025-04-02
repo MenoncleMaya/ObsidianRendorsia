@@ -1,0 +1,3 @@
+**A Lowly but Enduring People**
+
+Despite their oppression, the Kenku survived. Their fertility was low, limiting their ability to grow in numbers, but their adaptability ensured they endured within the dark cities carved beneath the temple of [[the Silver Chain]]. While many accepted their fate, whispers of rebellion simmered in the deepest tunnels. Some Kenku sought lost fragments of their stolen voices, believing that regaining their ability to create and speak freely might be the key to breaking their chains. Others turned to forgotten magic, hoping to undo the curse inflicted upon them generations ago.

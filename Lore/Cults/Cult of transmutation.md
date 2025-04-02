@@ -1,0 +1,3 @@
+**The Hunt for the Stone**
+
+The cult that long sought the Transmutation Stone has begun to move again, their eyes set on [[the Silver Chain]] and the power hidden within their temple. If they were to learn of [[Kerälia]]’s possession of the stone, a war could erupt—one that might shake the foundations of [[the Silver Chain]]’s dominion. The cult believes that the stone holds the key to reshaping existence itself, and they will stop at nothing to claim it.
