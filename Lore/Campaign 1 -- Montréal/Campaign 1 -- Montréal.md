@@ -695,21 +695,212 @@ With the tensions among the factions growing, the party will begin to uncover mo
 
 # **Session 10: A City Divided**
 
-**Overview**:  
-The faction war begins to spill into the streets. Skirmishes break out between various faction members, and the city is on the edge of collapse. The party must make their move to stop the city from descending into full-scale war, all while trying to unravel the full scope of the puppeteer’s plan.
+**Setting the Stage:**
 
-1. **Open Conflict**:
+- The underground sanctuary is no longer safe. Tensions between factions have reached a breaking point, and paranoia runs rampant.
     
-    - The party will experience the violence of the factions firsthand. Adventurers, mercenaries, and even citizens are being drawn into the conflict. The city is split between the warring factions, and the streets are dangerous.
-    - **Mission**: The party will be tasked with completing a critical mission to either gather more intel on the disciple or to disrupt the enemy factions’ preparations for war.
-2. **Puppeteer’s Final Steps**:
+- Skirmishes begin to break out within the tunnels themselves, forcing the party to act before the sanctuary collapses into total chaos.
     
-    - The party uncovers that the disciple has been preparing a large-scale operation that will shift the balance of power. Perhaps a false flag attack, a magical weapon, or a ritual that would allow Emmyth to exert control over the city. The puppetmaster is on the verge of pulling the strings for a final push toward total control.
-    - **Climactic Reveal**: The party learns that the [[Thirry]] family was never in control—they were only pawns for a much larger plan orchestrated by Emmyth’s disciple.
-3. **Breaking the Factions**:
+- Information is scarce—each faction has different versions of the truth, and the puppetmaster's plan is coming to fruition.
     
-    - **Decisive Choices**: The party must decide which factions can still be trusted and which ones have become irredeemably corrupted. They may need to betray certain factions to stop the greater plan.
-    - **Turning Point**: The party may orchestrate a last-minute alliance to expose the disciple’s actions and prevent the factions from turning on one another completely.
+
+---
+
+### **1. The Fracturing Sanctuary**
+
+- When the party arrives, they witness a **bitter standoff**—members of different factions have drawn weapons, accusations flying.
+    
+- A **faction leader (maybe [[Golden Tide's Leader|Dorius Goldvein]] or [[Ravenborn Community's Leader|Elvira Moonsworn]])** has gone missing, fueling the chaos.
+    
+- The party must **navigate the political minefield**, convincing faction members to stand down before blood is spilled.
+    
+- **Potential Choices**:
+    
+    - **Side with one faction** to take control of the sanctuary.
+        
+    - **Expose misinformation** spread by the puppetmaster’s agents.
+        
+    - **Use force** to subdue the most aggressive individuals.
+        
+
+---
+
+### **2. The Puppeteer’s Next Move**
+
+- A cryptic message arrives—whether it’s scrawled on a wall in blood, whispered by a dying spy, or delivered by a messenger with a slit throat.
+    
+- The message reveals the **next step of the puppetmaster’s plan**—perhaps an impending betrayal, an assassination, or a supernatural event set in motion.
+    
+- **The puppetmaster has already won a major battle—what was it?** Maybe a faction leader has been replaced, an important relic has been stolen, or a magical seal has been broken.
+    
+
+---
+
+### **3. The Final Threads**
+
+- The party **tracks down the disciple’s next move**—a hidden chamber, a long-forgotten door in the underground tunnels, or a ritual site buried beneath the city.
+    
+- **They uncover a horrifying truth**:
+    
+    - The [[Thirry]] family was never truly in charge.
+        
+    - The disciple has manipulated both nobles and outlaws alike.
+        
+    - The city isn’t just at risk of civil war—something **worse** is coming.
+        
+- **Confrontation Options:**
+    
+    - **Do they reveal the truth to the factions?** If so, who will listen?
+        
+    - **Do they attempt to stop the disciple before his plan is complete?**
+        
+    - **Do they escape while they still can?**
+        
+
+---
+
+### **Possible Twists & Climactic Moments**
+
+- **A trusted NPC betrays them**, revealing they were under the puppetmaster’s control all along.
+    
+- **The sanctuary is attacked from within**, forcing the party to defend it or escape.
+    
+- **The disciple finally appears**, but only as a projection, taunting the party with what’s coming next.
+
+### **Opening Scene: The City on the Brink**
+
+As the session begins, the city is in chaos. Smoke rises in the distance, the sound of clashing steel echoes through the streets, and terrified citizens either flee or take up arms. The tension is palpable—allegiances are breaking, and the factions are moving toward all-out war.
+
+The party steps out into this turmoil, immediately confronted by the consequences of their previous choices. Have they gained the trust of any factions? Have they angered others? Now, they must navigate through a battlefield disguised as a city.
+
+### **Phase 1: Open Conflict**
+
+#### **Encounters in the War-Torn Streets**
+
+Depending on the party’s past actions, they might encounter:
+
+- **A Desperate Citizen Militia:** Armed shopkeepers and dock workers trying to protect their homes, but they have no real battle experience. Do the [[players]] aid them, arm them, or convince them to seek shelter?
+    
+- **Faction Ambush:** A group of hired killers or loyal enforcers (perhaps from the faction the party has opposed most) tries to eliminate them. This fight should be quick, brutal, and show how the city’s morality is crumbling.
+    
+- **A Refugee Exodus:** Citizens caught in the middle of the fighting are seeking a way out of the city. A group of mercenaries is demanding “tolls” (extortion) for passage. Do the party negotiate, fight, or find another way to help?
+    
+- **A Burning Building:** A faction stronghold is going up in flames—inside are trapped civilians, but also a key informant who might know the disciple’s next move. Do they risk their own safety to save them?
+    
+
+#### **The Mission: Disrupt the War or Learn the Truth**
+
+As the party pushes forward, they must accomplish a key objective:
+
+1. **Intel Gathering:**
+    
+    - They must locate a key figure—a rogue scholar, a captured informant, or even a faction leader—who has discovered the disciple’s endgame. The problem? They are in enemy hands or about to be executed.
+        
+    - The party must infiltrate, negotiate, or storm a location to get the information.
+        
+2. **Sabotage the Enemy’s Plans:**
+    
+    - The disciple’s forces are preparing something catastrophic—a false flag attack, a magical destabilization, or the assassination of a faction leader to escalate the war.
+        
+    - The party must choose how to intervene. Do they expose the truth, stop the attack, or manipulate the situation in their favor?
+        
+
+💀 **Optional Encounter: The Disciple’s Hand**
+
+- A lieutenant of the disciple confronts the party, testing their resolve. This figure could be a mind-controlled victim, a former ally, or a monster shaped by the disciple’s twisted magic.
+    
+- The fight should hint at the disciple’s growing power. Perhaps their opponent fights like a puppet—jerky, unnatural movements, their voice not fully their own.
+    
+
+---
+
+### **Phase 2: The Puppeteer’s Final Steps**
+
+💀 **The Big Revelation: The [[Thirry]] Family Was a Lie**
+
+- The party uncovers a devastating truth: the ruling [[Thirry]] family was never truly in control. They were **pawns**, manipulated from the very beginning.
+    
+- Records show that key members of the family made decisions that benefitted Emmyth’s disciple **without even knowing it**—as if compelled by some unseen force.
+    
+- Their war with the rival faction was never about power—it was about **creating chaos** so the disciple could make their final move.
+    
+
+🕵️‍♂️ **Clue Drop: The Disciple’s Endgame**
+
+- Through documents, magical messages, or an interrogation, the party discovers that the disciple’s **final plan** is imminent.
+    
+- Perhaps a **magical weapon** has been secretly assembled, designed to brainwash or obliterate opposition.
+    
+- Perhaps the **city’s wards are being undone**, allowing an external force (demons, undead, or a forgotten army) to invade.
+    
+- Perhaps the disciple is about to **seize control of a major figure**, bending them into a puppet for their own purposes.
+    
+
+🔥 **The Countdown Begins**
+
+- Once the party learns this, **time is running out**. They must act before the disciple completes their final move.
+    
+
+---
+
+### **Phase 3: Breaking the Factions**
+
+⚖️ **Decisive Choices: Who Can Be Trusted?**
+
+- The city’s factions are at each other’s throats, and the [[players]] must decide **who to side with**—if anyone.
+    
+- Some factions might be too far gone, willing to burn the city to the ground rather than lose control.
+    
+- Others might still be convinced to **stand down**—but at what cost?
+    
+
+💀 **Betrayal is Inevitable**
+
+- Even factions the party trusts **may not trust each other**.
+    
+- Some may demand **the execution** of rivals as a peace offering.
+    
+- Others may **turn on the party** once their own survival is secured.
+    
+
+🔥 **Final Showdown: Preventing Total War**
+
+- A last-minute alliance could be the only thing that stops the city from consuming itself.
+    
+- The party must either **convince, threaten, or expose the disciple’s influence** to turn the tide.
+    
+- If they fail, the city **descends into full-scale war**, and their only choice is to **flee or carve out their own dominion** in the ruins.
+    
+
+🃏 **Final Twist: The Puppeteer’s Shadow Lingers**
+
+- Even if they succeed, a final unsettling message arrives—perhaps a **letter, a vision, or a final move** from the disciple.
+    
+- **“You cut the strings. But did you ever wonder… whose hands held them?”**
+    
+- Implying that the disciple, too, was just another piece in the grander design of **the real puppet master.**
+    
+
+---
+
+### **Cliffhanger for Next Session**
+
+- If the party wins, the city is saved—but at what cost?
+    
+- If they fail, they wake up to **smoke, ash, and ruin.**
+    
+- And somewhere, the Puppeteer watches, waiting for their next move.
+    
+
+---
+
+### **Additional Elements to Consider**
+
+- **Moral Dilemmas:** Make them choose between saving lives and stopping the disciple.
+    
+- **Consequences of Past Actions:** Did they gain a faction’s trust? Now they might be key allies—or a liability.
+    
+- **Symbolism:** The theme of puppetry should echo through the session—leaders acting like they have free will but unknowingly dancing to a greater design.
 
 ---
 

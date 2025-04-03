@@ -11,3 +11,5 @@ Unbeknownst to [[the Silver Chain]], Kerälia possessed an artifact of immeasura
 **A Looming Conflict**
 
 Kerälia, ever patient, watches these developments with amusement. To the ancient dragon, all these [[players]] are merely pieces on a vast, long-forgotten chessboard. Whether it aids [[the Silver Chain]], manipulates the cult, or turns the [[Kenku]] into a weapon of its own remains to be seen. One thing, however, is certain—change is coming, and those who stand in the dragon’s way will be nothing more than dust beneath its claws.
+
+The entire emblem is **circular**, resembling both a **seal** and an **ouroboros**, signifying patience, rebirth, and control.

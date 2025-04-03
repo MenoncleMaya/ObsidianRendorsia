@@ -94,9 +94,9 @@ Would you like the Puppeteer to attack immediately, or should he engage in mind 
 
 ---
 ## [[Shrieker]]
-- **Enemy’s Illusion:** Shreiker sees a **Kenku figure**, older, dressed in rags but wearing an identical holy symbol. They speak in fragmented mimicry, echoing phrases Shreiker has never heard before.
+- **Enemy’s Illusion:** Shreiker sees a **[[Kenku]] figure**, older, dressed in rags but wearing an identical holy symbol. They speak in fragmented mimicry, echoing phrases Shreiker has never heard before.
 - **Psychological Conflict:** The figure stumbles toward him, reaching out, whispering pieces of a past Shreiker doesn’t remember. “Left you… for a reason…” “The truth… is dangerous…”
-- **Combat Challenge:** This Kenku fights like a shadowy assassin, mirroring Shreiker’s own movements and abilities. Every time Shreiker strikes, the enemy responds with perfect mimicry.
+- **Combat Challenge:** This [[Kenku]] fights like a shadowy assassin, mirroring Shreiker’s own movements and abilities. Every time Shreiker strikes, the enemy responds with perfect mimicry.
 - **Twist:** If defeated, the illusion breaks, revealing that Shreiker was fighting a hollow puppet all along, a metaphor for his fear that his past will never have answers.
 ## [[URILENOIR]]
 - **Ennemi Illusoire :** Gora, sa mère orc, enchaînée et implorante. Derrière elle, des paladins prêts à l’exécuter.
@@ -186,3 +186,13 @@ Instead of attacking her, the puppet **forces [[Lyriel Moostride|Lyriel]] into a
 
 
 They Pick up an envelope in the middle of the room from the puppeteer (Good Luck Mael)
+
+**To My Most Delightful Marionettes,**
+
+Did you enjoy the dance? The strings that tugged at your past, the whispers of forgotten truths, the weight of your own doubts? Each of you played your part so well—truly, I could not have choreographed it better myself.
+You amuse me, all of you. But more than that, you fascinate me. Puppets who struggle against their strings—how beautifully tragic.
+
+Keep struggling. Keep fighting. The show is not over yet.
+
+With the fondest regard,  
+**A Friend in the Dark**
