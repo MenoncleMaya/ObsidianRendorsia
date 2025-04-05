@@ -681,7 +681,7 @@ With the tensions among the factions growing, the party will begin to uncover mo
 1. **Unmasking the Disciple**:
     
     - The party gathers intel on the disciple, learning of his role in orchestrating the political manipulations in [[Semper]]. They may even have a chance to confront a low-ranking disciple or agent working in the city.
-    - **Hidden Agenda**: The party uncovers hints about Emmyth’s hatred for humans and his desire to reshape the balance of power in [[Semper]] and beyond. However, they still don’t know his full plan.
+    - **Hidden Agenda**: The party uncovers hints about [[Emmyth Eildan|Emmyth]]’s hatred for humans and his desire to reshape the balance of power in [[Semper]] and beyond. However, they still don’t know his full plan.
 2. **The Threat of War**:
     
     - The factions are now openly hostile to one another, and war feels imminent. The party must use all their diplomatic skills and intelligence to prevent the factions from falling into total chaos. They may need to broker uneasy alliances or even betray factions to achieve peace.
@@ -701,10 +701,7 @@ With the tensions among the factions growing, the party will begin to uncover mo
     
 - Skirmishes begin to break out within the tunnels themselves, forcing the party to act before the sanctuary collapses into total chaos.
     
-- Information is scarce—each faction has different versions of the truth, and the puppetmaster's plan is coming to fruition.
-    
-
----
+- Information is scarce—each faction has different versions of the truth, and the puppet master's plan is coming to fruition.
 
 ### **1. The Fracturing Sanctuary**
 
@@ -718,7 +715,7 @@ With the tensions among the factions growing, the party will begin to uncover mo
     
     - **Side with one faction** to take control of the sanctuary.
         
-    - **Expose misinformation** spread by the puppetmaster’s agents.
+    - **Expose misinformation** spread by the puppet master’s agents.
         
     - **Use force** to subdue the most aggressive individuals.
         
@@ -820,7 +817,7 @@ As the party pushes forward, they must accomplish a key objective:
 
 - The party uncovers a devastating truth: the ruling [[Thirry]] family was never truly in control. They were **pawns**, manipulated from the very beginning.
     
-- Records show that key members of the family made decisions that benefitted Emmyth’s disciple **without even knowing it**—as if compelled by some unseen force.
+- Records show that key members of the family made decisions that benefitted [[Emmyth Eildan|Emmyth]]’s disciple **without even knowing it**—as if compelled by some unseen force.
     
 - Their war with the rival faction was never about power—it was about **creating chaos** so the disciple could make their final move.
     
@@ -902,6 +899,64 @@ As the party pushes forward, they must accomplish a key objective:
     
 - **Symbolism:** The theme of puppetry should echo through the session—leaders acting like they have free will but unknowingly dancing to a greater design.
 
+
+
+## Notes: 
+demande au party de humain 
+question 1 pourquoi êtes vous en retard au sanctuaire - on été tenter d'être bribe pour join les [[thirry]]
+question 2 yavais ki - [[Lothaire Thirry]], [[Anselmet, le Chaotique|Anselmet]], [[Emmyth Eildan|Emmyth]], puppeteer;
+question 3 woud you join us - no but maybe
+has let them knowned qui serait accepter avec plaisir
+question 1.1 we make meeting u invited - we will send someone 
+
+question [[The Silver Chain|silver chain]]
+ question 1 are you leaving - no answer
+ question 2 come to the reunion - same old same old
+
+question black serpent 
+ question 1 reunion - yes
+
+question [[The Iron Seekers|Iron Seekers]]
+ question 1 reunion - yup
+
+Question Ravenborn
+ question 1 reunion - maybe
+
+Reclu 
+Take back whats ours from the goverment
+
+ All you know is know.  
+We don’t speak.  
+But we lived.
+
+You read.  
+We bled.  
+You talked.  
+We endured.
+
+You think silence means nothing.  
+But silence remembers.
+
+
+here will be no war from us.  
+No speeches.  
+No shining armor.
+
+We know the weight of what’s coming.  
+We feel it in ways others do not.
+
+So we choose a different path.  
+Quieter.  
+Still.  
+But not idle.
+
+Where we can help, we will.  
+Not with fanfare —  
+but with care.
+
+Let the light fall where it must.  
+We’ll walk in the shadow,  
+and make sure no one is left behind.
 ---
 
 # **Session 11: The Fall or Rise of [[Semper]]**
@@ -912,14 +967,14 @@ In the aftermath of the chaos, the party must face the consequences of their act
 1. **Final Confrontation with the Disciple**:
     
     - **Climactic Showdown**: The party confronts the disciple of [[Emmyth Eildan]]. The disciple might be using a dark artifact or magical ritual to enforce his will. The party must stop him before his final move.
-    - **Revelation**: The disciple reveals the true scope of Emmyth’s plans and his role in manipulating the factions. He might even reveal that he is a tool in a much larger plan that will unfold 200 years later.
+    - **Revelation**: The disciple reveals the true scope of [[Emmyth Eildan|Emmyth]]’s plans and his role in manipulating the factions. He might even reveal that he is a tool in a much larger plan that will unfold 200 years later.
 2. **[[Semper]]’s Future**:
     
     - **Decision**: The party must decide whether to allow the factions to reform or whether to completely dismantle the power structures in [[Semper]], ensuring that a new order emerges.
     - **Aftermath**: Depending on the party’s actions, [[Semper]] may be a city on the verge of peace, or it could be on the edge of civil war. Some factions may rise to power while others fall.
 3. **End of Act**:
     
-    - The party will have dealt with the immediate crisis in [[Semper]], but the repercussions of their decisions will ripple out across the city and its people. They may have set the stage for future conflicts, possibly even paving the way for Emmyth’s larger plan to come to fruition in the distant future.
+    - The party will have dealt with the immediate crisis in [[Semper]], but the repercussions of their decisions will ripple out across the city and its people. They may have set the stage for future conflicts, possibly even paving the way for [[Emmyth Eildan|Emmyth]]’s larger plan to come to fruition in the distant future.
 
 ---
 
@@ -927,7 +982,7 @@ In the aftermath of the chaos, the party must face the consequences of their act
 
 - **Power and Corruption**: The factions' power struggles highlight themes of loyalty, manipulation, and corruption. The party must constantly question who they can trust.
 - **Political Intrigue**: The party navigates the dangerous waters of factional politics, deciding which leaders and groups are worth supporting.
-- **Legacy of War**: Emmyth's past as a veteran of the Great War weighs heavily on the city. The specter of the past influences the future.
+- **Legacy of War**: [[Emmyth Eildan|Emmyth]]'s past as a veteran of the Great War weighs heavily on the city. The specter of the past influences the future.
 - **Manipulation and Puppetry**: The hidden hand of the puppeteer plays a central role, with the party slowly discovering the true extent of their manipulation.
 
 This session progression builds tension as the party moves closer to uncovering the full scope of the plot while dealing with the dangerous political landscape in [[Semper]]. How does this feel in terms of the overall direction you want the campaign to take?
