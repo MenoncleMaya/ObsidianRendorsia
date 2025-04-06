@@ -5,6 +5,7 @@ _A Dungeon for 5 [[Players]]_
 
 The Royal Crypt of [[Semper]] is the final resting place of all the kings of [[Semper]], a massive underground necropolis filled with ancient secrets, royal guardians, and the lingering influence of the **Puppet Master**—the unseen force that has been manipulating the party. The crypt serves as a turning point, revealing that this figure has been watching them all along and has plans for them.
 
+
 ---
 
 ### **Dungeon Overview**

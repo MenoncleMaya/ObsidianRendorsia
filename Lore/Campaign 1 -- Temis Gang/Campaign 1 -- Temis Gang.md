@@ -1129,3 +1129,132 @@ The session ends with the party:
 Notes 
 breton add necklace, salive du wyrm and scale
 mini un shield, dent du wyrm
+
+# Session 14 / Drathtakar
+### **1. Tunnel Trek & Atmosphere (5–10 min)**
+
+Set the tone—dark tunnels, heavy silence, echoing drips, old dwarven carvings or collapsed supports. Maybe seismic tremors subtly begin, hinting something big moves deep underground.
+
+**Optional encounters on the way (if you want pacing):**
+
+- **Cave-in Puzzle/Skill Challenge**
+    
+- **Swarm of stone mites or blind cave stirges**
+    
+- **Echoes of forgotten dwarven prayers carved in the walls**
+    
+
+---
+
+### **2. The Pitfall Trap (15 min)**
+
+As they're moving through an especially unstable area, the ground collapses—massive cave-in (Dex saves or they fall hard into the pit).  
+This drop can’t be "just a trap"—make it _cinematic_:
+
+**Describe:**
+
+- Crumbling ground
+    
+- Dust cloud blinding them
+    
+- Sounds of earth cracking like thunder
+    
+- As they fall: glowing red from below, heat, and rhythmic tremors
+    
+
+**They awaken** (or stand up) in a cavern with magma veins and colossal obsidian pillars. Runes faintly glow. They’ve landed in a **forgotten temple to [[Drathakar]]**.
+
+---
+
+### **3. [[Drathakar]]'s Arrival (15–20 min)**
+
+Slow reveal, build tension.
+
+- Earth rumbles.
+    
+- Crystals pulse with growing heat.
+    
+- Magma bubbles up cracks.
+    
+- Suddenly—**he bursts from a wall or beneath the ground**, like a molten avalanche, surrounded by obsidian debris.
+    
+
+**His dialogue is slow, deep, and carries weight.**  
+He’s not here to kill—they’ve _trespassed into a sacred place_, and he’s intrigued.
+
+> _"You fall into stone... but will you rise from it?..."_  
+> _"You seek knowledge. I hold it. But stone does not yield to weak hands."_
+
+He reveals: a **powerful dragon has stirred**—one ancient enough to threaten balance above and below. He doesn't name it yet.
+
+---
+
+### **4. The Trial: Prove Your Worth (30+ min)**
+
+**[[Drathakar]] challenges them, not to kill—but to test resolve and strength.**
+
+> _“Only those who can stand in the quake deserve to hear the prophecy.”_
+
+You have two great options here:
+
+---
+
+#### **Option A: Trial Combat Against [[Drathakar]] (Recommended)**
+
+**Use a weakened avatar or partial power form**—like a legendary lair guardian infused with his essence.  
+Stat block suggestion: reskin a **Young Red Dragon** but give it burrow speed and **earthquake-style lair actions**.  
+Add cool stuff:
+
+- **Burrow & Emerge**: knockback
+    
+- **Magma trails**
+    
+- **Stonespike eruptions** (Dex saves)
+    
+
+Don’t make this a death trap. If they do well, [[Drathakar]] grins with molten approval. If they struggle but show heart, he ends it early—“Enough.”
+
+---
+
+#### **Option B: Earth Trial Puzzle/Battle Hybrid**
+
+Chamber shifts—platforms fall, lava rises, golems awaken. A kind of test of tactics and bravery. They must activate 3 obsidian runes through:
+
+- Holding ground against waves of enemies
+    
+- Solving movement puzzles across shifting stone plates
+    
+- Sacrificing something (maybe their best weapon?) to show devotion
+    
+
+---
+
+### **5. Reward: The Warning (10–15 min)**
+
+If they succeed (or survive honorably), [[Drathakar]] reveals his truth:
+
+- _“I felt the stone break above... Something stirs. Something old.”_
+    
+- _“The Skybreaker stirs—wings blacker than shadow, breath colder than ash. It rises from the grave of time, and its hunger is not for gold… but dominion.”_
+    
+
+He tells them of **an ancient dragon long sealed in the north**, maybe buried in the ice or petrified. This dragon awakening could **unravel the balance of the world**.
+
+He may offer them:
+
+- A **boon**: "I shall quake the stone when you call my name."
+    
+- A **[[map]]** burned into the stone wall
+    
+- A **crystal scale** as a token to show other deep folk (or unlock a hidden door later)
+    
+
+---
+
+## 🎁 BONUS FLAVOR IDEAS
+
+- [[Drathakar]]'s body constantly leaks small bits of molten fire from under his scales.
+    
+- His breath weapon could be **a shockwave or magma spray** instead of classic fire.
+    
+- The fight could take place on **a circular obsidian platform over a magma pit**, with burrowing destroying parts of the terrain.
