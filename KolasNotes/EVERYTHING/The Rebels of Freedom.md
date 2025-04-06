@@ -1,0 +1,1 @@
+A group of giffs and ratfolks fighting against the oppressive ruling of [[Emperor Karlington]].

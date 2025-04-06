@@ -962,6 +962,7 @@ but with care.
 Let the light fall where it must.  
 We’ll walk in the shadow,  
 and make sure no one is left behind.
+
 ---
 
 # **Session 11: The Fall or Rise of [[Semper]]**

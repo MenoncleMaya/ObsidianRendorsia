@@ -1,0 +1,1 @@
+King of [[Gyatt]], married to the queen [[Yuna Koreijutsu]]. And father of [[Ume Koreijutsu]].

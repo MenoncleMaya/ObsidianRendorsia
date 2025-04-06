@@ -1,0 +1,1 @@
+Eiko (prosperous child) former queen of [[Gyatt]] and mother of [[Yuna Koreijutsu]].
