@@ -1,6 +1,6 @@
 
 **Short summary -**
-The Saigo No Iki (Last Breath) is an Odachi mesuring 3 tanto, a Horseback sword first wielded by [[Misha, The Unifying Blade]]. It was later enchanted by a legendary sorcerer known as [[Fuyuujio, The great Necromancer]] who granted it the power to harness its previous wielders techniques and meld it with its current wielder. 
+The [[Remote/Items/Magic Items/Saigo no Iki|Saigo No Iki]] (Last Breath) is an Odachi mesuring 3 tanto, a Horseback sword first wielded by [[Misha, The Unifying Blade]]. It was later enchanted by a legendary sorcerer known as [[Fuyuujio, The great Necromancer]] who granted it the power to harness its previous wielders techniques and meld it with its current wielder. 
 
 For [[Misha, The Unifying Blade]], it gave him the power to resurect his best friend, his horse [[Shugo Tenshi]], as a purple shadow.
 
