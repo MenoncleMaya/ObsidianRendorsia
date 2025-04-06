@@ -1,5 +1,5 @@
 -(16 years old) -
-Bartolome is a monk who sheltered Misha, a samurai from The Rebels of Freedom, who he found half dead after the samurai's steed traveled to Bartolome's dojo with the samurai on its back.
+Bartolome is a monk who sheltered Misha, a samurai from [[The Rebels of Freedom]], who he found half dead after the samurai's steed traveled to Bartolome's dojo with the samurai on its back.
 
 Bartolome took care of the mans wounds and let him rest until he woke up.
 
@@ -21,7 +21,7 @@ Bartolome took care of the mans wounds and let him rest until he woke up.
 
 "I have no time for that!" The warrior said, gathering his equipment, readying to leave.
 
-"Fine, I will let you leave. But before you do, you must best me in combat." Said the young Giff, smiling.
+"Fine, I will let you leave. But before you do, you must best me in combat." Said the young [[Giff]], smiling.
 
 "You're just a kid. Plus you're not even a fighter!" Refused the man.
 
