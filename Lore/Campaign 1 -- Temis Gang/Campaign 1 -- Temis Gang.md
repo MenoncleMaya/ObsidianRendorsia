@@ -1130,7 +1130,7 @@ Notes
 breton add necklace, salive du wyrm and scale
 mini un shield, dent du wyrm
 
-# Session 14 / Drathtakar
+# Session 14 / 15 Drathtakar
 ### **1. Tunnel Trek & Atmosphere (5–10 min)**
 
 Set the tone—dark tunnels, heavy silence, echoing drips, old dwarven carvings or collapsed supports. Maybe seismic tremors subtly begin, hinting something big moves deep underground.
@@ -1213,19 +1213,6 @@ Add cool stuff:
     
 
 Don’t make this a death trap. If they do well, [[Drathakar]] grins with molten approval. If they struggle but show heart, he ends it early—“Enough.”
-
----
-
-#### **Option B: Earth Trial Puzzle/Battle Hybrid**
-
-Chamber shifts—platforms fall, lava rises, golems awaken. A kind of test of tactics and bravery. They must activate 3 obsidian runes through:
-
-- Holding ground against waves of enemies
-    
-- Solving movement puzzles across shifting stone plates
-    
-- Sacrificing something (maybe their best weapon?) to show devotion
-    
 
 ---
 
