@@ -965,7 +965,442 @@ and make sure no one is left behind.
 
 ---
 
-# **Session 11: The Fall or Rise of [[Semper]]**
+# **Session 11: Prison Break**
+## **Floor 1 – Main Floor (Distraction happens outside)**
+
+**Purpose:** Entry level, holds guards and admin.
+
+- **Layout:**
+    
+    - Lobby with checkpoint (2 guards, rotating shifts)
+        
+    - Riot response room with gear (currently empty during the riot)
+        
+    - Filing office / small meeting rooms
+        
+    - Spiral stairwell in back corner (leads to all floors, guarded)
+        
+    - Elevator/lift (manual or magical, key-activated)
+        
+
+**Obstacles/Security:**
+
+- Civilian checkpoint with ID log
+    
+- 4–6 guards, but many are exiting due to the riot
+    
+- Locked doors (DC 15 lockpick, magical lock on stairwell door – needs dispel or passcode)
+    
+
+---
+
+#### **Floor 2 – Officers' Floor**
+
+**Purpose:** High command center. Strategically important but not essential for the rescue.
+
+- **Layout:**
+    
+    - War room with a large [[map]] of [[Semper]]
+        
+    - Captain's office (with master key or badge)
+        
+    - Barracks for elite soldiers (sleeping or mobilizing)
+        
+    - Restricted archive of adventurer records
+        
+
+**Obstacles/Security:**
+
+- 2 elite guards on constant patrol
+    
+- Captain with magic item that warns him of infiltration
+    
+- Alarm crystal: if triggered, locks stairwells and releases guards
+    
+- Optional: have a valuable piece of information here that tempts [[players]]
+    
+
+---
+
+#### **Basement 1 – Armory & Surveillance**
+
+**Purpose:** Resource hub for troops, eyes and ears of the building
+
+- **Layout:**
+    
+    - Surveillance room (crystal or magical scrying system)
+        
+    - Interrogation chamber
+        
+    - Armory with gear and potions (guarded)
+        
+    - Magical suppression generator room (powers the field in Basement 2)
+        
+
+**Obstacles/Security:**
+
+- One guard per room, minimum
+    
+- Magical sensor on doors (alerts if opened without pass)
+    
+- Option to disable security magic field in Basement 2 here
+    
+
+---
+
+#### **Basement 2 – High-Security Cells**
+
+**Purpose:** The target
+
+- **Layout:**
+    
+    - Reinforced hallway with locking gates
+        
+    - Guard post with crank-operated door control
+        
+    - 6–10 small magical cells (each suppresses magic, bars are enchanted)
+        
+    - Emergency evacuation tunnel (secret DC 18 Perception to find, leads to sewer or back alley)
+        
+
+**Obstacles/Security:**
+
+- Magical suppression field (no teleport, no casting)
+    
+- 2 veteran guards (alerted if anything’s off upstairs)
+    
+- Steel crank system (requires strength or time to open)
+    
+- One locked console that opens all cells (DC 17 thieves’ tools or right badge)
+   
+
+---
+
+### **Security Features**
+
+- **Magical alarms**: if triggered, send message to city watch
+    
+- **Badge-based access**: each officer or guard has a badge that can disable alarms or open doors
+    
+- **Communication crystals**: for guards to alert others instantly
+    
+- **Auto-lockdown**: certain events trigger a lockdown, requiring manual override in Surveillance
+
+## **1. General Malrik Dorne – Warden of the Fortress**
+
+- **Race:** Human
+    
+- **Class:** Fighter (Champion) with War Magic items
+    
+- **Role:** Top officer. Wears the **Master Access Badge** that opens any door, overrides alarms, and controls the magical suppression field.
+    
+- **Personality:** Cold, strategic, pragmatic. Willing to use prisoners as leverage.
+    
+- **Appearance:** Mid-50s, grizzled beard, imposing plate armor with red cape and silver military crest.
+    
+- **Quirk:** Smokes a pipe made of dragonbone.
+    
+- **Combat:** Level 10 fighter; fights with tactical precision. Has a magical halberd and an “Emergency Blink Ring” to teleport once per day.
+    
+
+**Hook:**  
+He might be _absent_ at the start (at the riot or responding to a report), giving the party a limited window. But he can return for a climactic final escape fight.
+
+---
+
+### **2. Lieutenant Seriah Venn – Surveillance Officer**
+
+- **Race:** Elf
+    
+- **Class:** Wizard (Divination)
+    
+- **Role:** Oversees magical surveillance and alarm systems from Basement 1. Has a **security override crystal** and knowledge of the magical field’s weak points.
+    
+- **Personality:** Detached, methodical, eerily calm under pressure.
+    
+- **Appearance:** Slicked hair, high-collared uniform, glowing monocle (Arcane Eye).
+    
+- **Combat:** Wields defensive and utility [[spells]]; not a frontline fighter.
+    
+- **Quirk:** Talks to the scrying orbs as if they’re her children.
+    
+
+**Hook:**  
+Can be convinced (with the right argument or bribe) to help the party if they appeal to her ego or offer a way to escape before blame falls on her.
+
+---
+
+### **3. Captain Bren “Ironjaw” Malk**
+
+- **Race:** Dwarf
+    
+- **Class:** Barbarian (Zealot)
+    
+- **Role:** Commands riot suppression forces; seen leaving Floor 1 toward the protest when the party arrives. Carries a **secondary pass badge** that opens everything _except_ the suppression field.
+    
+- **Personality:** Brutal, loyal, believes adventurers are dangerous anarchists.
+    
+- **Appearance:** Buzz-cut, thick steel jawplate (from a past wound), carries a spiked shield.
+    
+- **Combat:** Unstoppable in close combat; dangerous if he returns mid-heist.
+    
+- **Quirk:** Hums war songs during patrols.
+    
+
+**Hook:**  
+A returning threat. His badge might be lootable during a brief fight or stealth scene outside.
+
+---
+
+### **4. Scribe Elwin Thatch – Nervous Clerk**
+
+- **Race:** Halfling
+    
+- **Class:** Commoner (Expert)
+    
+- **Role:** Works on Floor 2, manages adventurer records, IDs, cell schedules. Knows who's imprisoned and why.
+    
+- **Personality:** Timid, fidgety, desperate to stay uninvolved.
+    
+- **Appearance:** Short, skinny, round glasses, always carrying a stack of papers.
+    
+- **Combat:** None.
+    
+- **Quirk:** Talks to himself, drops things constantly.
+    
+
+**Hook:**  
+Can be bribed, threatened, or tricked into giving valuable info. Might slip the party a room [[map]] or tell them when a guard shift changes.
+
+---
+
+### **5. Guard-Sergeant Kaera Vohl – Basement Guard**
+
+- **Race:** Tiefling
+    
+- **Class:** Fighter/Rogue
+    
+- **Role:** Leads the two guards posted near the prison cells. Loyal but curious about the morality of the war.
+    
+- **Personality:** Stern, alert, but questioning.
+    
+- **Appearance:** Deep red skin, horn stubs, wears practical gear and carries enchanted manacles.
+    
+- **Combat:** Quick with her blade, smart with terrain.
+    
+- **Quirk:** Hates the sound of alarm crystals—always turns them down.
+    
+
+**Hook:**  
+Kaera may be talked into backing down or “looking away” if presented with a compelling reason—like seeing a friend among the prisoners.
+## **FLOOR 1 – Main Entrance / Public Area**
+
+**Purpose:** Where civilians and lower-ranking soldiers access the building.  
+**Dimensions:** Approx. 80x80 ft  
+**Layout (zones):**
+
+- **Main Lobby (front entrance):** Check-in desk, turnstile-style gate (guarded).
+    
+    - 2 guards with clipboards, low alert at first.
+        
+- **Waiting Hall:** Benches, notice board, and a side hallway to admin rooms.
+    
+- **Guard Ready Room (left):** Riot gear racks, 2 guards prepping.
+    
+- **Admin Office (right):** Filing cabinets, access to IDs and prisoner lists.
+    
+- **Staircase Hall (back right):** Locked reinforced door to spiral stairs.
+    
+- **Lift Room (center back):** Arcane or crank-based lift—badge required.
+    
+
+**Chokepoints:**
+
+- Front gate is manned.
+    
+- All doors to stairs/lift require key or DC 15-18 pick/Dispel.
+    
+
+---
+
+### **FLOOR 2 – Officer Quarters / Command Center**
+
+**Purpose:** Planning and leadership zone.  
+**Dimensions:** Slightly smaller, ~70x70 ft  
+**Layout:**
+
+- **War Room (center):** Giant table [[map]] of [[Semper]], strategy plans, one elite guard.
+    
+- **Captain’s Office (left):** Locked chest (contains keys, schedule, prisoner intel).
+    
+- **Officer Lounge (top right):** Empty if riot is active.
+    
+- **Archives (bottom right):** Contains prisoner files, floor schematics (DC 15 to find).
+    
+- **Dorms/Barracks (left):** 3–4 sleeping quarters, one or two off-duty officers.
+    
+- **Alarm Control Node (in war room):** Crystal orb that can trigger lockdown.
+    
+
+**Chokepoints:**
+
+- Magical ward in War Room.
+    
+- Guard patrol every 3–5 minutes.
+    
+
+---
+
+### **BASEMENT 1 – Armory & Surveillance**
+
+**Purpose:** Security nerve center.  
+**Dimensions:** ~90x70 ft  
+**Layout:**
+
+- **Surveillance Room (top left):** Crystal display showing key hallways/cells.
+    
+    - Diviner or Scribe NPC stationed here.
+        
+- **Interrogation Rooms (center):** Two soundproof cells. One might hold a prisoner or decoy.
+    
+- **Armory (top right):** Magical/standard weapons, healing potions, smoke bombs.
+    
+- **Suppression Control Room (bottom):** Arcane reactor keeping magic field active in Basement 2.
+    
+- **Guard Locker Room (left):** 2 guards on rotation.
+    
+- **Small Stair to Basement 2 (bottom right):** Reinforced and warded.
+    
+
+**Chokepoints:**
+
+- Arcane ward on Suppression Room (alarm if broken).
+    
+- Lockpick or badge required to shut down suppression.
+    
+
+---
+
+### **BASEMENT 2 – Prison Cells**
+
+**Purpose:** The real target. High security.  
+**Dimensions:** ~100x100 ft (more room for drama)  
+**Layout:**
+
+- **Entry Hallway (top):** Two steel gate doors with lever system.
+    
+    - One guard station with wall lever controls.
+        
+- **Hall of Cells (center):** 6–10 reinforced doors (each can be unique prisoners).
+    
+    - Each has glyph of warding, suppresses casting and teleporting.
+        
+- **Control Room (left):** Main unlock console (requires captain’s badge or DC 18 thieves’ tools).
+    
+- **Medical Isolation Room (bottom right):** Holds injured or volatile prisoner.
+    
+- **Hidden Escape Hatch (bottom left):** DC 18 Perception to spot, leads to sewer or tunnel.
+    
+
+**Chokepoints:**
+
+- All cells magically locked.
+    
+- If alarm is triggered, suppression field strengthens and lockdown engages.
+    
+
+---
+
+## **Optional Features for Tension or Variety**
+
+- **Magical Elevator:** Vertical shaft from Floor 1 to Basement 2, guarded or shut down if alarm rings.
+    
+- **Dumbwaiter:** Small hidden shaft that can carry items or halfling-sized creatures.
+    
+- **Riot-Triggered Lockdown:** If the riot outside goes on too long, all staircases lock magically.
+    
+- **Ventilation Shaft Route:** If [[players]] go full infiltration, let a small-medium PC squeeze through ducts.
+
+### **1. The Infiltration Route – Ghosts in the Fortress**
+
+**Style:** Stealth, disguises, misdirection  
+**Best For:** Rogues, Bards, anyone who loves social manipulation and quiet takedowns
+
+**Steps:**
+
+- Use the riot as cover to sneak in through a **side maintenance entrance** or rooftop window.
+    
+- The party disguises themselves as guards, medics, or prisoners being transferred.
+    
+- Knock out or bribe the nervous **clerk Elwin Thatch** to gain key schedules and a low-level pass.
+    
+- Avoid confrontation and disable security in **Basement 1** silently.
+    
+- Use stolen pass or arcane tools to unlock cells in **Basement 2**.
+    
+- Escape through the **hidden sewer tunnel**, possibly triggering a chase if they're noticed too late.
+    
+
+**Challenges:**
+
+- Requires solid planning, stealth checks, and backup plans for disguise failures.
+    
+- One missed detail could trigger alarms early.
+    
+
+---
+
+### **2. The Distraction & Smash Route – Chaos Unleashed**
+
+**Style:** Loud, timed assault, battlefield tactics  
+**Best For:** Martial-heavy groups, high-level casters, or wild-card [[players]]
+
+**Steps:**
+
+- The adventurers join the **outside protest** disguised, helping stir it into a **full-blown riot**.
+    
+- Once guards are pulled to the front, the party **charges in through the front gate**, cutting through minimal resistance.
+    
+- The fighter or barbarian holds choke points while the rogue or wizard hacks into **Basement 1**.
+    
+- Suppression room is destroyed or disabled with brute force or AoE [[spells]].
+    
+- They find the prisoners, break the locks (or use keys looted off an officer), and **rally the freed adventurers** to help them fight their way out.
+    
+
+**Challenges:**
+
+- High combat difficulty, risk of injury or capture.
+    
+- The city may hunt them afterward.
+    
+
+---
+
+### **3. The Inside Help Route – The Long Con**
+
+**Style:** Roleplay-heavy, political intrigue  
+**Best For:** [[Players]] who love diplomacy, persuasion, and subterfuge
+
+**Steps:**
+
+- The party arranges contact with **Lieutenant Seriah Venn** or **Guard-Sergeant Kaera Vohl**, subtly convincing them that what’s happening is wrong.
+    
+- Through bribery, blackmail (maybe they find incriminating documents in Floor 2), or shared ideals, they get an **inside ally**.
+    
+- This ally shuts off specific cameras or tells the party exactly when and where to go to avoid patrols.
+    
+- They use **legit officer passes** gained from a double agent or stolen gear to access even Basement 2 safely.
+    
+- The party frees the prisoners and leaves through the **arcane lift** with a forged "transfer order" before anyone notices.
+    
+
+**Challenges:**
+
+- Requires careful conversation and trust-building.
+    
+- If the ally turns on them or loses their nerve, it could blow the mission.
+# **Session 12: The Fall or Rise of [[Semper]]**
 
 **Overview**:  
 In the aftermath of the chaos, the party must face the consequences of their actions. The factions are either on the verge of reconciliation or total collapse. The party’s actions will decide the future of [[Semper]] and its leadership.
