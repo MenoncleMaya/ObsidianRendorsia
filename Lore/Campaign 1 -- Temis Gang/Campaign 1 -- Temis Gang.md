@@ -1245,3 +1245,16 @@ He may offer them:
 - His breath weapon could be **a shockwave or magma spray** instead of classic fire.
     
 - The fight could take place on **a circular obsidian platform over a magma pit**, with burrowing destroying parts of the terrain.
+
+
+
+
+## Notes: 
+party is in tavern singing their tales will look for trail dogs
+jer has a 6pack of potions 
+jimmy jays has a the dagger to be made
+razzilkh has the crown
+gunther stayed in the church to be developed
+scrolls for jayson
+fiole d'ink for jay
+create villages for the travel to truvel
