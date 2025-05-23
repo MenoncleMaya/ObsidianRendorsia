@@ -1257,4 +1257,4 @@ razzilkh has the crown
 gunther stayed in the church to be developed
 scrolls for jayson
 fiole d'ink for jay
-create villages for the travel to truvel
+create villages for the travel to [[truvel]]
