@@ -2,6 +2,7 @@
 aliases:
   - Montreal
 ---
+# Season 1 
 # Set up
 La monde de [[Rendorsia]] prospère, les nombreuses ressources trouvées dans les donjon ont permis à de nombreux groupes de voir le jour. La région étant compliquer à voyager fait des deux villes principales des sanctuaires énormes. Malgré la prospérité, de nombreux voleurs et pilleurs rôdent les villes et villages à la quêtes de nouvelles victimes. Un conflit entre les [[hommes]] et les autres espèces de [[Rendorsia]] se développe au sein de la région. Les expéditions dans les nombreux donjons deviennent de moins en moins sécuritaire et les butins devant moins rentables, de nombreux groupes d'aventurier rangent leurs armures et accroches leurs épées. Votre groupe arrives à l'entrée d'un donjon récemment découvert dans la forêt près des [[Mountains|montagnes]] au nord de [[Semper]].
 [[Rendorsia]]
@@ -1427,3 +1428,118 @@ In the aftermath of the chaos, the party must face the consequences of their act
 - **Manipulation and Puppetry**: The hidden hand of the puppeteer plays a central role, with the party slowly discovering the true extent of their manipulation.
 
 This session progression builds tension as the party moves closer to uncovering the full scope of the plot while dealing with the dangerous political landscape in [[Semper]]. How does this feel in terms of the overall direction you want the campaign to take?
+
+# 🎭 **Season 2: _Ashes of [[Semper]]_**
+
+### Themes: Memory manipulation, rebellion, ancient powers awakening, personal truths
+
+---
+
+## 🧱 ACT I – _The Flames Beneath_
+
+**Tone**: Paranoia, resistance in hiding, fractured alliances  
+**Objective**: Survive the regime's retaliation and uncover [[Kerälia]]’s trail via [[the Silver Chain]]
+
+### 📌 Key Events:
+
+1. **[[Semper]] Lockdown** – Checkpoints, curfews, executions. The party and allies scatter into hideouts.
+    
+2. **Factional Breakdown** – [[The Iron Seekers|Iron Seekers]] want to regroup, Ravenborn want to strike, [[The Golden Tide|Golden Tide]] hesitates.
+    
+3. **[[The Silver Chain|Silver Chain]] Deal** – They approach Shrieiker with an offer: help smuggle or protect a relic in exchange for ancient secrets.
+    
+4. **Whispers of [[Kerälia]]** – Rumors of a buried power in the deep tunnels beneath [[Semper]] surface — only [[the Silver Chain]] speaks of it.
+    
+5. **Memory Disturbance Begins** – The [[players]] start noticing inconsistencies. Forgotten allies, “rewritten” events, dreams of strangers pleading.
+    
+
+### 🧪 Session Ideas:
+
+- **The Silent Street**: PCs help evacuate a cursed district — once full of adventurers — that the city has “forgotten.” Locals don’t remember it existed.
+    
+- **Smuggling Run**: Escort a mysterious item (a draconic scale?) through [[The Silver Chain|Silver Chain]] tunnels. Strange hallucinations begin here.
+    
+- **Interrogation Room**: An ally is captured and interrogated. The party can break them out — but they don’t remember ever joining the rebellion.
+    
+- **Faction Summit**: A tense meeting between factions. One faction’s leader has been _replaced_ or “never existed.”
+    
+
+---
+
+## 🔍 ACT II – _The Forgotten and the Forbidden_
+
+**Tone**: Discovery, deception, growing dread  
+**Objective**: Uncover [[Kerälia]]’s resting place and the Puppeteer’s influence; deal with betrayal and political shifts
+
+### 📌 Key Events:
+
+1. **[[Kerälia]]’s Lair Discovered** – Beneath a ruined temple or [[The Silver Chain|Silver Chain]] safehouse, the party finds a hidden sanctuary, built atop [[Kerälia]]’s lair.
+    
+2. **Shrieiker's Awakening** – He begins to have ancestral dreams, hear [[Kerälia]]’s voice, or feel a pull toward the draconic essence.
+    
+3. **The Puppeteer Moves** – Factions are turned against each other. NPCs start acting strangely — political loyalties twist with no explanation.
+    
+4. **[[The Silver Chain|Silver Chain]]’s Motives Shift** – Do they want to control [[Kerälia]] for power? Or have they already made a pact?
+    
+5. **Reveal the Forgotten** – The party discovers remnants of erased people — including possibly Kaelen Thorne or a key ally of the past.
+    
+
+### 🧪 Session Ideas:
+
+- **Lair of Echoes**: Dungeon crawl through the ruins beneath [[Semper]] — ancient architecture, dragon runes, cursed memory sigils.
+    
+- **The One Who Remembers**: An NPC (mad, hermit-like) still remembers all the people “erased” by the Puppeteer. They’re targeted by regime assassins.
+    
+- **Dream-Walk Ritual**: The party enters Shrieiker’s dream to uncover his connection to [[Kerälia]] — and glimpse a piece of the Puppeteer.
+    
+- **Double Loyalty**: A party ally betrays them mid-mission. When confronted, they genuinely believe they were _always_ loyal to the regime.
+    
+
+---
+
+## 🔥 ACT III – _Wrath and Revelation_
+
+**Tone**: Open conflict, existential threat, rising stakes  
+**Objective**: Rally the factions, awaken [[Kerälia]], confront the Puppeteer’s growing power
+
+### 📌 Key Events:
+
+1. **[[Kerälia]] Awakens** – Through ritual, dream, or physical contact, Shrieiker fully connects to the ancient dragon. [[Kerälia]]’s wrath stirs — she remembers the war.
+    
+2. **The Puppeteer Strikes** – One or more factions are sabotaged or dismantled from within. A key NPC is assassinated or “unmade.”
+    
+3. **Final Choice for [[Kerälia]]** – The party must choose: ally with the dragon, attempt to free her from [[The Silver Chain|Silver Chain]] influence, or destroy her before she’s used.
+    
+4. **Faction War / Revolution** – The party leads a multi-faction assault on a regime stronghold (e.g. government archives, or a blacksite where the puppeteer conducts rituals).
+    
+5. **Puppeteer Confrontation** – The party meets the puppeteer or his agent — a master of forgotten truth — and learns of his deeper plan (to erase the gods, perhaps?).
+    
+
+### 🧪 Session Ideas:
+
+- **The Burned Ledger**: A [[The Silver Chain|Silver Chain]] ledger reveals hundreds of erased names — including a PC’s family member or past version of themselves.
+    
+- **The Siege of the Mind**: A city square becomes a battlefield where magic memory auras swirl, affecting [[spells]], loyalties, even the [[players]].
+    
+- **Final Confrontation**: A collapsing temple where the puppeteer speaks through an avatar, warping the battlefield with illusions, memory suppression, and time fragments.
+    
+- **Season Finale**: The [[players]] either:
+    
+    - Forge a new revolutionary alliance with [[Kerälia]]’s help,
+        
+    - Fall into chaos as [[Semper]] is devoured by a psychic plague,
+        
+    - Or are marked by the Puppeteer — aware, but unable to convince others of what they know.
+        
+
+---
+
+## 🧩 Optional Threads for Depth
+
+- **[[Kerälia]]’s True Desire**: Does she want revenge on mortals? To die? To be worshipped again? To return the world to a draconic age?
+    
+- **The Puppeteer’s Motivation**: Believes _memory is the enemy of peace_. By making people forget pain, betrayal, even gods… he believes he is saving the world.
+    
+- **Faction Leadership Arcs**: Each faction leader could be tempted, tested, or replaced by puppeteer magic. The party may need to rebuild alliances from the ground up.
+    
+- **Magic Degradation**: [[Spells]] start acting strangely as the Puppeteer’s influence grows — subtle changes in rules could creep in (necromancy more powerful, divination suppressed, etc.).
