@@ -27,7 +27,7 @@ Followers see themselves as guides for the dead and lost souls. They practice **
 
 As light can be destructive, followers perform rituals to **extinguish harmful light**.
 
-- Action: They carry **black-lanterns** — lamps that absorb light instead of emitting it, symbolizing the "softening" of Aragthmere’s destructive blaze.
+- Action: They carry **black-lanterns** — lamps that absorb light instead of emitting it, symbolizing the "softening" of [[Aragthmere]]’s destructive blaze.
     
 
 ### 5. **The Sacred Oath of Non-Dominance**

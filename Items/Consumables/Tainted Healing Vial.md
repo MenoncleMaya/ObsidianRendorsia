@@ -1,0 +1,1 @@
+Heals 3d4 + 3 but DC 13 WIS save or get **hallucinations** for 10 mins

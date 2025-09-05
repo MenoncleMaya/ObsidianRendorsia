@@ -3,7 +3,7 @@ aliases:
   - The Liberals
   - The Liberators
 ---
-# Very Very Large over view
+#  Very Very Large over view
 
 ![](MapDND-Copy)
 [[Emmyth Eildan]] is a 637year old veteran elf who has fought the [[Grande guerre de Rendorsia|Great war of Rendorsia]]. [[Emmyth Eildan|Emmyth]] has grown hatred towards everyone living among the humans, he has learned magic but is also a master of the blade. This is more for campaign II. 
@@ -21,17 +21,19 @@ Breton - his family's being Cursed by [[Emmyth Eildan]] the main antagonist whic
 
 has their quest giver
 
-# Session 1 -- Kidnapping
-## World Explain / Start
+# Season 1
+
+##  Session 1 -- Kidnapping
+###  World Explain / Start
 Nous sommes 100 ans suivant la [[Grande guerre de Rendorsia]] Dans la région de [[Rendorsia]] ou les [[hommes]] gouvernent. Bien que la magie reste dans l'esprit des gens elle n'est plus que chez certaine grand famille enrichissant la garde royal. Le régime royal de [[Baldwin Thirry]] a fait sombrer la vie de tous ceux qui ne sont pas humains. Malgré certains groupes rebelles, personne ne vit en tête au royaume. Les rues de [[Wezzihk]] sont rongées par le crime. Et c'est dans c'est rue brièvement éclairé par les lanternes des maisons avoisinantes que l'on peut apercevoir arriver un jeune homme du nom de [[Jayson Dalton Smith]] – player present
-## Setup
+###  Setup
 [[Jayson Dalton Smith]] 2S decides to go and find a cure for his mother’s disease after crossing the river he made his way in the city of [[Wezzihk]] where a strange tall man whose every other physical trait is hidden by a cloak. His face is covered by a dark veil keeping him anonymous. The man tells him that if he does a job for him he'll tell him where he could find a cure for his mother plus a lot of money.
 [[Jimmie Jay]] 2S dans une taverne non bien loin de là, un homme se fait sortir de la taverne de force - présentation player - lorsqu'il se retourne un même homme est au bout de la ruelle. Il l'approche tranquillement tout en lui expliquant sont plan il lui offre un travail afin de sauver le cirque il doit simplement récolter un artifact. lorsque Jimmy Jay se retourne après que l'homme soit passé près de lui il n'y avait plus personne. [[Jimmie Jay]] ressent quelque chose dans ses poches (sorte de carte d'affaires menant à une ancienne boucherie désinfecter) 
 [[Günter Fisher]] 6S, après une longue journée, Günter se rend chez son frère là ou sa fille se trouve. À sa surprise il n’y a personne à l'exception d’un étrange homme dans la salle principal  (His brother and daughter are at a friend's place). L’homme dit à Günter que pour assurer un meilleur futur pour sa fille il doit l’aider pour un travail. Avant que Günter ne puisse dire quoi que ce soit , l'homme le coupe et lui dit d’ouvrir la porte pour son collègue.
 [[Bibyrgimos]] est là, devant la porte, l'air inquiet. L’homme tente de convaincre Bibyr en lui donnant des images créées de toute pièce d’un monde où les [[hommes]] ne règne plus…(Sort of Heaven). Après plusieurs jours de recherche d’un groupe anti-gouvernemental, 
 [[Cashmere]] se fait  accoster par un homme lui offrant exactement ce qu’il recherche, un groupe combattant contre les injustices généré par la monarchie de roi Baldwin.
 
-## Actual Session
+###  Actual Session
 
 **After receiving a quest to fetch back an old relic the quest giver gives information on the last know person who has seen the relic every one +3g
 
@@ -75,7 +77,7 @@ If they make to much noise upstairs Lumara Streamwhisper wakes up and fight (sam
 Strong will : Lumara Streamwhisper needs to be either convinced with a 18 intimidation roll.
      
 
-## INFORMATION GIVEN BY [[Lumara StreamWisper]]
+###  INFORMATION GIVEN BY [[Lumara StreamWisper]]
 
 - Information sur la prochaine queu [[Imbrel Skorri]]
     
@@ -92,7 +94,7 @@ Le party reçoit comme information qu’il collection qu’un homme appeler [[Im
     
 - Afin de sortir de la ville le party devra passer par les égouts
 -
-# Session 2 -- Fuite de [[Wezzihk]]
+##  Session 2 -- Fuite de [[Wezzihk]]
 
 Shopping Time
 
@@ -102,7 +104,7 @@ Les egouts
 
 Ils découvrent le [[Black Market of Wezzihk]]
 
-Ils ont acheter la [[Cat head]] permettant De donner avantage sur un saving throw, la [[Weird Cape]] qui fais sometimes donne de quoi a un roll, et un [[Bag of Holding]].
+Ils ont acheter la [[Cat head]] permettant De donner avantage sur un saving throw, la [[The Veil of Threads]] qui fais sometimes donne de quoi a un roll, et un [[Bag of Holding]].
 
 Ils se font attaquer par des [[Thiefs]] (6) 
 
@@ -112,7 +114,7 @@ Ils ont acheté un kart avec un abri afin de rester camouflé et de se déplacer
 
 Ils ont récupéré la peau et font fumer la viande.
 
-# Session 3 -- Arriver a [[WoodsCove]]
+##  Session 3 -- Arriver a [[WoodsCove]]
 Recap session 1 & 2 : chaque joueur rencontre avec [[Emmyth Eildan]] (garder nom secret) - puis interaction avec Lumara Streamwhisper pour finir le market les thief et l'ours.
 
   
@@ -133,7 +135,7 @@ Si une partie du party reste hors du magasin, il se feront encercler par assez d
 Du côté du groupe avec Guideon ils pourront passer la nuit dans le backstore du magasin. Si attentif, le groupe peut entendre Guideon se parler, si haute perception : peuvent comprendre sinon juste mufle et quels que sons. (“Ça fait des années que je … ce livre je … et puis ce groupe … Bang!! …     bruit de papier … quelque chose ne va pas … j'arrive toujours pas a comprendre ”) Le lendemain, Guideon demande de l’aide au parti afin de les aider à libérer le village de la présence militaire. Ils seront informés du fait qu’ils sont en désavantage numérique. Ils seront offert d’assassiner le Général [[Sir Darius Dunkeld]]
  
 
-# Session 4 -- Manoir
+##  Session 4 -- Manoir
 
   
 
@@ -159,13 +161,13 @@ Le party a suivi les gardes dans la forêt jusqu’au camp de construction du ma
 
   
 
-# Session 5 -- Liberation
+##  Session 5 -- Liberation
 
   
 
-### Combat Final : Libération de Wood’s Cove
+####  Combat Final : Libération de Wood’s Cove
 
-#### Objectifs du Combat Final
+#####  Objectifs du Combat Final
 
 1. Sauver [[Elysia]], la fille de [[Guideon Creek]]
     
@@ -174,12 +176,12 @@ Le party a suivi les gardes dans la forêt jusqu’au camp de construction du ma
 3. Libérer le village des soldats oppresseurs
     
 
-#### Introduction au Combat
+#####  Introduction au Combat
 
 - Contexte: [[Elysia]] est capturée par [[Sir Darius Dunkeld]]. Le groupe, accompagné de quelques paysans révoltés, doit infiltrer la zone de détention, libérer [[Elysia]], et combattre Darius et ses soldats.
     
 
-#### Scène de Préparation
+#####  Scène de Préparation
 
 1. Briefing
     
@@ -197,7 +199,7 @@ Le party a suivi les gardes dans la forêt jusqu’au camp de construction du ma
 - Points de distraction: Les villageois créent du bruit ailleurs pour attirer l'attention des gardes.
     
 
-#### Setup du Combat Final
+#####  Setup du Combat Final
 
 1. Carte de la Zone de Combat
     
@@ -219,7 +221,7 @@ Le party a suivi les gardes dans la forêt jusqu’au camp de construction du ma
 - Soldats réguliers: Patrouillant les couloirs, 4 en tout.
     
 
-#### Phases du Combat
+#####  Phases du Combat
 
 Phase 1: Infiltration et Confrontation Initiale
 
@@ -265,7 +267,7 @@ Phase 5: Conclusion
 - [[Elysia]] est libérée, et les villageois célèbrent leur libération.
     
 
-#### Points Clés pour le DM
+#####  Points Clés pour le DM
 
 - Équilibrage: Ajustez le nombre de soldats selon la difficulté souhaitée.
     
@@ -274,7 +276,7 @@ Phase 5: Conclusion
 - Narration Dynamique: Décrivez les attaques et les stratégies avec détail pour maintenir l'engagement des joueurs.
     
 
-#### Récompenses
+#####  Récompenses
 
 - Loot: Armes de Darius, équipements des soldats, objets spéciaux trouvés dans la forteresse.
     
@@ -296,15 +298,15 @@ Statue of [[Bibyrgimos]]
 
   
 
-# Session 6 -- Voyage vers [[Semper]]
+##  Session 6 -- Voyage vers [[Semper]]
 
 Travel to [[Semper]]
 
-#### Vue d'ensemble
+#####  Vue d'ensemble
 
 Le groupe a sauvé le village avec succès et se dirige maintenant vers la ville de [[Semper]]. Ils voyageront le long d'un chemin qui suit une rivière menant à un lac. Cette session se concentrera sur leurs rencontres et expériences pendant ce voyage.
 
-#### Lieux Clés
+#####  Lieux Clés
 
 1. Le Chemin de la Rivière
     
@@ -330,7 +332,7 @@ Le groupe a sauvé le village avec succès et se dirige maintenant vers la ville
 - Des fermes et des petites maisons parsèment le paysage.
     
 
-#### Rencontres et Événements
+#####  Rencontres et Événements
 
 1. Embuscade de [[Thiefs]]
     
@@ -397,7 +399,7 @@ Le groupe a sauvé le village avec succès et se dirige maintenant vers la ville
 - Résolution: Le groupe peut choisir de faire confiance ou d'ignorer l'étranger.
     
 
-#### Rencontres Aléatoires (Lancer un d8)
+#####  Rencontres Aléatoires (Lancer un d8)
 
 1. (1-2) Un troupeau de cerfs traverse le chemin, pouvant effrayer les montures du groupe.
     
@@ -408,7 +410,7 @@ Le groupe a sauvé le village avec succès et se dirige maintenant vers la ville
 4. (7-8) Un groupe de soldats patrouille sur le sentier sur lequel le party arrive.
     
 
-#### Descriptions
+#####  Descriptions
 
 - Le Chemin de la Rivière: “La rivière glisse à côté de vous, sa surface scintillant sous le soleil. Les oiseaux chantent dans la canopée de la forêt, et l'air est imprégné du parfum des pins.”
     
@@ -417,7 +419,7 @@ Le groupe a sauvé le village avec succès et se dirige maintenant vers la ville
 - Environs de [[Semper]]: “Les champs de blé doré ondulent doucement dans la brise alors que le chemin s'élargit. La silhouette lointaine de [[Semper]] se profile, ses tours se dressant vers le ciel.”
     
 
-### Conclusion
+####  Conclusion
 
 Terminez la session alors que le groupe aperçoit les murs de [[Semper]] au loin, préparant ainsi la prochaine aventure dans la ville.
 
@@ -443,10 +445,10 @@ Embusquer par des voleurs
 
 Arriver à la ville de [[Semper]]
 
-# Session 7 -- Murmure a [[Semper]]
+##  Session 7 -- Murmure a [[Semper]]
 
 Arriver a [[Semper]] 
-### Mise en Place
+####  Mise en Place
 
 - Session 1 : Introduction de [[Semper]] et des villageois, découverte des premiers indices de la disparition du [[Père Agatère]].
     Disparition du [[Père Agatère]] : Le prêtre a été mangé par la [[False Hydra]], mais personne ne se souvient de lui en raison de l'effet hypnotique de la créature. Cependant, les effets secondaires du sortilège commencent à se manifester (incohérences dans les souvenirs, indices laissés derrière).
@@ -455,7 +457,7 @@ Arriver a [[Semper]] 
 - Session 3 : Exploration des [[Tunnel de Semper]], confrontation avec la [[False Hydra]] et résolution de l'intrigue.
     
 
-#### Missions et Quêtes
+#####  Missions et Quêtes
 
 1. Enquête sur la Disparition : Les joueurs sont engagés pour enquêter sur la disparition du prêtre. Ils peuvent interroger les villageois, chercher des indices dans l'église et explorer les environs de [[Semper]].
     
@@ -464,9 +466,9 @@ Arriver a [[Semper]] 
 3. Combat contre la [[False Hydra]] : Une confrontation épique avec la fausse hydre dans sa tanière. Les joueurs devront trouver un moyen de résister à son chant hypnotique pour la vaincre.
     
 
-### Introduction de l'[[Aubergiste de Semper]]
+####  Introduction de l'[[Aubergiste de Semper]]
 
-#### Première Rencontre
+#####  Première Rencontre
 
 1. Nouvel Arrivant : Les joueurs rencontrent l'[[Aubergiste de Semper]] à leur arrivée à [[Semper]]. Il est amical, charismatique et semble bien informé sur la ville et ses secrets.
     
@@ -475,7 +477,7 @@ Arriver a [[Semper]] 
 3. Repas et Repos : Les joueurs passent la nuit à l'auberge, profitant de l'hospitalité de l'aubergiste.
     
 
-#### Disparition Surnaturelle
+#####  Disparition Surnaturelle
 
 1. Le Lendemain Matin : Les joueurs se réveillent pour découvrir que l'auberge est désertée. L'aubergiste a disparu sans laisser de traces.
     
@@ -484,30 +486,30 @@ Arriver a [[Semper]] 
 3. Indice Étrange : Les joueurs trouvent peut-être un indice dans l'auberge, comme une note inachevée de l'aubergiste, mentionnant une menace ou une créature mystérieuse.
     
 
-### Enquête sur la Disparition
+####  Enquête sur la Disparition
 
-#### Interroger les Villageois
+#####  Interroger les Villageois
 
 1. Incohérences dans les Souvenirs : Les villageois donnent des réponses contradictoires sur l'auberge. Certains pensent qu'elle n'a jamais existé, d'autres ont des souvenirs flous d'un bâtiment similaire.
     
 2. Rumeurs Persistantes : Quelques villageois courageux ou curieux peuvent se rappeler des histoires étranges sur des disparitions passées, reliant ces événements à la fausse hydre.
     
 
-#### Exploration de l'Auberge
+#####  Exploration de l'Auberge
 
 1. Découvertes Troublantes : En fouillant l'auberge [[Porc dansant]], les joueurs peuvent découvrir des passages secrets, des traces de lutte ou des objets personnels de l'aubergiste.
     
 2. Vestiges du Chant : Les joueurs peuvent ressentir les effets résiduels du chant hypnotique de la fausse hydre, les plongeant dans une confusion temporaire.
     
 
-### Conclusion et Suite
+####  Conclusion et Suite
 
 1. Tunnels Sous l'Auberge : La disparition de l'aubergiste mène les joueurs à découvrir un réseau de tunnels sous l'auberge, connectés à la tanière de la fausse hydre.
     
 2. Rencontre avec la Fausse Hydre : Finalement, les joueurs confrontent la créature, résolvent le mystère de l'aubergiste disparu et restaurent la mémoire des villageois.
     
 
-### Roleplay et Atmosphère
+####  Roleplay et Atmosphère
 
 1. Ambiance Étrange : Crée une atmosphère inquiétante en décrivant des sensations de déjà-vu ou des souvenirs fragmentés chez les villageois.
     
@@ -516,9 +518,9 @@ Arriver a [[Semper]] 
 3. Tension Croissante : Augmente progressivement la tension avec des indices de plus en plus clairs sur la présence de la fausse hydre et ses capacités.
     
 
-### 1. Disparition du [[Commerçant de Semper]]
+####  1. Disparition du [[Commerçant de Semper]]
 
-#### Première Rencontre
+#####  Première Rencontre
 
 1. Marchand Reconnu : Les joueurs rencontrent un commerçant populaire et respecté à [[Semper]]. Il vend des articles rares et précieux, et il est connu pour son honnêteté.
     
@@ -527,7 +529,7 @@ Arriver a [[Semper]] 
 3. Soirée Tranquille : Les joueurs passent la soirée en ville, se liant d'amitié avec le commerçant et les autres villageois.
     
 
-#### Disparition Surnaturelle
+#####  Disparition Surnaturelle
 
 1. Le Lendemain Matin : Les joueurs découvrent que la boutique du commerçant est fermée et qu'il a disparu.
     
@@ -536,9 +538,9 @@ Arriver a [[Semper]] 
 3. Indices : Les joueurs trouvent des objets dans la boutique abandonnée, comme une lettre inachevée ou un journal personnel du commerçant mentionnant des événements étranges.
     
 
-### 2. Disparition des parent de l'[[Orphelin de Semper]]
+####  2. Disparition des parent de l'[[Orphelin de Semper]]
 
-#### Première Rencontre
+#####  Première Rencontre
 
 1. [[Orphelin de Semper]] Curieux : Les joueurs rencontrent un adolescent curieux et amical, peut-être alors qu'il les aide avec une tâche ou qu'il pose des questions sur leurs aventures.
     
@@ -547,7 +549,7 @@ Arriver a [[Semper]] 
 3. Conversations Amicales : Les joueurs peuvent passer du temps avec l'adolescent, découvrant ses rêves et ses ambitions.
     
 
-#### Disparition Surnaturelle
+#####  Disparition Surnaturelle
 
 1. Le Lendemain Matin : L'orphelin disparaît, et ses parents, ainsi que les villageois, ne se souviennent plus de lui.
     
@@ -556,9 +558,9 @@ Arriver a [[Semper]] 
 3. Souvenirs Oubliés : Les joueurs trouvent des indices, comme des dessins ou des notes de l'adolescent, qui évoquent sa curiosité pour des endroits interdits ou dangereux.
     
 
-### 3. Disparition du [[Professeur de Semper]]
+####  3. Disparition du [[Professeur de Semper]]
 
-#### Première Rencontre
+#####  Première Rencontre
 
 1. Professeur Respecté : Les joueurs rencontrent un professeur érudit à [[Semper]], peut-être à l'école locale ou lors d'une conférence. Il est reconnu pour sa sagesse et ses connaissances approfondies.
     
@@ -567,7 +569,7 @@ Arriver a [[Semper]] 
 3. Échanges Érudits : Les joueurs passent du temps avec le professeur, discutant de sujets variés et peut-être même de phénomènes étranges à [[Semper]].
     
 
-#### Disparition Surnaturelle
+#####  Disparition Surnaturelle
 
 1. Le Lendemain Matin : Le professeur disparaît, et personne dans la ville ne se souvient de lui ni de ses travaux.
     
@@ -576,7 +578,7 @@ Arriver a [[Semper]] 
 3. Indice Mystérieux : Les joueurs trouvent des documents ou des objets du professeur qui mentionnent des recherches sur des créatures mythiques ou des phénomènes inexplicables.
     
 
-### Roleplay et Atmosphère
+####  Roleplay et Atmosphère
 
 1. Ambiance Étrange : Maintient une atmosphère de mystère et de tension en décrivant des sensations de déjà-vu et des incohérences dans les souvenirs des villageois.
     
@@ -585,9 +587,9 @@ Arriver a [[Semper]] 
 3. Tension Croissante : Augmente progressivement la tension avec des indices de plus en plus clairs sur la présence de la [[False Hydra]] et ses capacités.
     
 
-### Découverte des [[Tunnel de Semper]]
+####  Découverte des [[Tunnel de Semper]]
 
-#### Investigation Initiale
+#####  Investigation Initiale
 
 1. Indices à l'[[Église de Semper]]
     
@@ -609,7 +611,7 @@ Arriver a [[Semper]] 
 - Passage Secret : En explorant, ils découvrent un passage secret qui mène aux tunnels sous la ville.
     
 
-### Exploration des [[Tunnel de Semper]]
+####  Exploration des [[Tunnel de Semper]]
 
 1. Ambiance et Atmosphère
     
@@ -627,7 +629,7 @@ Arriver a [[Semper]] 
 - Créatures Subalternes : Les joueurs rencontrent des créatures mineures ou des restes de victimes précédentes qui pourraient les attaquer ou fournir des indices.
     
 
-### Confrontation avec la [[False Hydra]]
+####  Confrontation avec la [[False Hydra]]
 
 1. Découverte de la [[Tanière de la False Hydra]]
     
@@ -645,7 +647,7 @@ Arriver a [[Semper]] 
 - Stratégie de Combat : Les joueurs doivent trouver un moyen de résister au chant (peut-être par des [[Spells|sorts]] ou des objets magiques) et de détruire les têtes de la [[False Hydra]] pour la vaincre.
     
 
-### Résolution
+####  Résolution
 
 1. Réveil des Souvenirs
     
@@ -681,39 +683,39 @@ Charbon sur papier rugueux
     
 
 **
-# Session 8 -- Memoir de [[Semper]]
-## In the Lair
+##  Session 8 -- Memoir de [[Semper]]
+###  In the Lair
 After a long and intense fight between the party and the [[False hydra]] in its lair ([[Tanière de la False Hydra|False Hydra's lair]]), the party will take the time to rest and gather their thoughts. Those who had to find another entrance to the lair finally reach the rest of the party. Those who had fallen during the fight will gain back their consciousness. The party will be able to find  a [[Ring of Precision]], about 60 gold coins, they could also grab the [[false hydra's vocal chords]]. If the party decides to loot the room they could find a [[Tie it Self Rope]] and a [[brooch of the watchful eye]]. The party will simply figure that the [[Tanière de la False Hydra|False hydra's lair]] is the ancient [[lair of the adventurers]]. After describing the sides of the lair there's one more painting on the wall, the figure of a tall elf, a [[kenku]] a species now extremally rare, a half orc, a rat folk and a halfling. Let the party explore the lair. 
-## Once Outside
+###  Once Outside
 Once outside, the party can quickly realize the sadness and the chaos that the [[False Hydra]] has brought to the part of the city. They can see city folks on their knees crying remembering their lost one, some petrified even traumatized by what they've seen. The strongest one would be cleaning the streets of the blood, guts and remains that the [[False Hydra]] didn't bothered with when hunting its prey. Some of the last [[Rebels of Semper]] will take back over the [[Porc dansant|Dancing Pork]] recreating the safe heaven it once where. Those lucides enough will thank the party, they will get a room big enough for the party in the tavern for free and will always be welcomed. The party will be let free to roam the city, the next day rumors of a boat with soldiers and wanted sign of the party will be traveling trough the city.
-## Continuation
+###  Continuation
 The party will be brought to the choice of continuing their story in [[Semper]] or start thinking about making their way to the [[Mountain's of the Dwarfs]] and think about their plan to traverse the [[Mountains]]. They will have the choice to either try and make as much travel has possible in the [[mines of the dwarfs]] or multiples hike through the [[Mountains]]. On the other side if the party decides to stay they will be free to decide what they wanna do, and what will happen under the nose of [[Lothaire Thirry]].
 
-## While exploring the city:
+###  While exploring the city:
 The party could encounter a **group of lurking spies** working for [[Lothaire Thirry]]. They are in the city gathering information on the resistance and may try to ambush the party to capture them or at least gain intelligence on their actions. This could give the party a chance to gather important intel themselves or eliminate a potential threat.
 
 
 
-# Session 9 -- Last days in the Human Region
+##  Session 9 -- Last days in the Human Region
 
-## Before Last Sessions Long Rest (No Risk)
+###  Before Last Sessions Long Rest (No Risk)
 Pour -- [[Jayson Dalton Smith]] : '' Jayson dû aux multiples évènements, au stress et l'action constante des derniers jours, tu n'avais pas remarqué les nouveaux ''marking'' présent sur le grimoire de ton grand père que tu as reçu à Woods Cove  de la part de [[Guideon Creek]]. De nombreuses pages vides sont désormais remplis d'information et de potentiel nouveau [[Spells|Sorts]]''
 If (Jayson.Inspect == Grimoire)
 {
 	Une vision lui vient. '' D'un coup tout deviens noir, tu es agenouiller, un liquide chaud te monte au dessus des genoux, réussi finalement a ouvrir les yeux pour apercevoir se rouge foncé sur tes mains, tout autour de toi, à perte de vue... puis... tu ouvres les yeux de retour au campement le grimoire ouvert sur les genoux.
 }
-## Trapping
-### Objective:
+###  Trapping
+####  Objective:
 
 [[Players]] set traps in the wilderness to catch animals. The goal is to gather high-quality furs while avoiding mishaps or unwanted encounters.
 
-### Setup:
+####  Setup:
 
 1. **Traps & Tools**: Each player has basic traps (e.g., snares) and can spend resources or gold to improve them (e.g., bait, reinforced wires).
 2. **Environment**: Roll a d6 or d8 to determine the type of terrain (forest, snowy woods, etc.), which affects the animals available and the difficulty.
 3. **Timeframe**: [[Players]] have a set number of hours or days to set traps (e.g., 3 days).
 
-### Rules:
+####  Rules:
 
 1. **Trap Placement**: [[Players]] roll a Wisdom (Survival) or Intelligence (Nature) check for each trap they set. The DM sets a DC based on the terrain and type of animal targeted (e.g., rabbits, foxes, wolves).
     
@@ -730,7 +732,7 @@ If (Jayson.Inspect == Grimoire)
     - Failure by 0-4: Trap is triggered but empty.
     - Failure by 5+: Trap breaks or a mishap occurs (e.g., wild animal attack, broken tools).
 
-### Mishaps Table (Roll d6):
+####  Mishaps Table (Roll d6):
 
 1. **Wild Encounter**: A small predator (e.g., a wolf) is attracted by the scent.
 2. **Trap Broken**: The trap is damaged beyond repair.
@@ -739,7 +741,7 @@ If (Jayson.Inspect == Grimoire)
 5. **Complication**: The character accidentally steps into their own trap, taking 1d4 damage.
 6. **Bounty**: Another trapper’s mark is found, hinting at competition.
 
-### Rewards:
+####  Rewards:
 
 - Animal furs can be sold or crafted into items.
 - High-quality furs may yield rare crafting materials or be valuable in social interactions.
@@ -767,13 +769,13 @@ If (Jayson.Inspect == Grimoire)
 | Dreamweaver Mink | 27  | A mystical mink that appears in moonlit woods.      | Legendary, dream-infused fur    |
 | Ironhide Boar    | 28  | A boar with metallic-tinted fur, tough to subdue.   | High, valuable for armor-making |
 | Celestial Otter  | 30  | Rare and radiant, appears in enchanted waterways.   | Legendary, luminescent quality  |
-## Possible event of [[Coldfair]]
-#### **1. Arrival and First Impressions**
+###  Possible event of [[Coldfair]]
+#####  **1. Arrival and First Impressions**
 
 - **Description**: The party arrives at [[Coldfair]], a modest village nestled between dense pine forests and sparkling waterways. The smell of fresh-cut timber and the distant sound of axes echo through the air. Snow-laden rooftops and smoke rising from chimneys give the village a serene yet watchful atmosphere.
 - **Details**: Villagers are wary of outsiders, casting glances at the party while tending to their duties. The main street features a small marketplace, a blacksmith’s forge, and the local tavern, _The Frosted Horn_.
 
-#### **2. Tavern Encounter**
+#####  **2. Tavern Encounter**
 
 - **Tavern Name**: _The Frosted Horn_
 - **Key NPCs**:
@@ -782,14 +784,14 @@ If (Jayson.Inspect == Grimoire)
     - **[[Thirry]] Soldiers**: A few soldiers relaxing but alert, recognizable by their uniforms.
 - **Event**: The party enters the tavern for rest or to gather information. The mood is tense as the soldiers keep a watchful eye. Depending on how the party interacts, this could lead to casual conversation, intimidation, or a potential confrontation if tensions escalate.
 
-#### **3. Rumors and Leads**
+#####  **3. Rumors and Leads**
 
 - **Gossip**:
     - Strange tracks have been spotted near the woods, hinting at creatures like the **[[Shadow Lynx]]** or **Phase Fox**.
     - Some villagers claim soldiers have been asking about adventurers, hinting at the [[Thirry]] family’s search for resistance members.
 - **Optional Quest Hook**: Bran mentions that traps he set for valuable creatures near the river have been broken, possibly by a fantastical beast or rival trappers.
 
-#### **4. Investigation or Exploration**
+#####  **4. Investigation or Exploration**
 
 - **Objectives**:
     - **Investigate the Tracks**: A Survival check can help identify the unusual tracks leading deeper into the forest or towards the river.
@@ -798,7 +800,7 @@ If (Jayson.Inspect == Grimoire)
     - **Animal Ambush**: If they investigate the tracks, they could encounter a **Frost Stalker** or **Ember Wolf**.
     - **Trap Sabotage**: While setting or checking traps, they find signs that someone else (potentially a [[Thirry]] scout or rebel) has tampered with them.
 
-#### **5. Confrontation or Diplomacy**
+#####  **5. Confrontation or Diplomacy**
 
 - **Choices**:
     - **Confront the Soldiers**: Engage in a dialogue to uncover why they’re stationed in [[Coldfair]]. Intimidation or Persuasion checks could sway the outcome.
@@ -807,16 +809,16 @@ If (Jayson.Inspect == Grimoire)
     - **Positive**: The party gains intel on a [[Thirry]] patrol, giving them an edge in future encounters.
     - **Negative**: The soldiers grow suspicious, leading to a skirmish or future complications.
 
-#### **6. Trapping Mini-Game**
+#####  **6. Trapping Mini-Game**
 
 - **Setting**: The party sets traps by the river or in the forest, rolling to capture animals such as **Silver Foxes** or even fantastical creatures like the **[[Shadow Lynx]]**.
 - **Outcome**: Successful trapping yields valuable furs, potential crafting materials, or magical components. Failure could result in a mishap (wild animal attack or damaged traps).
 
-#### **7. Session Conclusion**
+#####  **7. Session Conclusion**
 
 - The party returns to the village with their findings. If they’ve caught a rare creature, they gain favor with Bran and earn useful supplies or information.
 - Depending on interactions, the [[Thirry]] soldiers may confront them or leave with a warning, hinting at future challenges related to the [[Thirry]] family.
-# Session 10 -- La bête avant la Montagne
+##  Session 10 -- La bête avant la Montagne
 
  ### Forest Encounter: [[Enhanced Owlbear]] and Normal Owlbear
 
@@ -834,7 +836,7 @@ Shortly after, the [[Enhanced Owlbear]] ambushes the party, roaring to intimidat
 
 ---
 
-### Tactical Considerations:
+####  Tactical Considerations:
 
 1. **Ambush Mechanics:** If the party fails a DC 15 Wisdom (Perception) check, the [[Enhanced Owlbear]] gets a surprise round.
 2. **Screech Synergy:** The [[Enhanced Owlbear]] should open with _Howling Screech_ to disrupt the party's spellcasters and ranged attackers.
@@ -845,7 +847,7 @@ Shortly after, the [[Enhanced Owlbear]] ambushes the party, roaring to intimidat
 **Treasure:**  
 The [[enhanced owlbear]] wears a crude leather harness with a pouch containing a **Lesser Amulet of Fury** (gives +1 to melee weapon damage rolls when worn). Near their den is a small hoard, including a **potion of healing**, 35 gp, and a **broken ivory statuette** (worth 25 gp).
 
-### **Option 1: Passing Through the Dwarven Mines**
+####  **Option 1: Passing Through the Dwarven Mines**
 
 **Path Description:**  
 The mines offer a labyrinthine, underground route that could shorten travel time but at the cost of danger and risk. The entrance is guarded by suspicious dwarves who are wary of outsiders, especially adventurers. Inside, the mines are dark, filled with echoes, and rich with veins of precious metals.
@@ -868,7 +870,7 @@ The mines offer a labyrinthine, underground route that could shorten travel time
 
 ---
 
-### **Option 2: Hiking the Northern [[Mountains]]**
+####  **Option 2: Hiking the Northern [[Mountains]]**
 
 **Path Description:**  
 This path takes the party over the rugged peaks of the northern [[mountains]]. It’s a longer and more physically demanding journey but avoids the complexities of dealing with the dwarves and their guarded territory. The peaks are beautiful but treacherous, with sheer cliffs and snowy passes.
@@ -892,9 +894,9 @@ This path takes the party over the rugged peaks of the northern [[mountains]]. I
 - Avoiding political entanglements with the dwarves.
 
 
-# **Session 11 -- The Dwarven Court and a Test of Strength**
+##  **Session 11 -- The Dwarven Court and a Test of Strength**
 
-#### **1. Introduction: Arrival at the Dwarven Kingdom**
+#####  **1. Introduction: Arrival at the Dwarven Kingdom**
 
 [[Mountain's of the Dwarfs]]
 [[Mines of the Dwarfs]]
@@ -907,7 +909,7 @@ This path takes the party over the rugged peaks of the northern [[mountains]]. I
         - They distrust surface dwellers due to **trade conflicts** with [[The Golden Tide]].
         - Some noble houses push for **isolation**, while others advocate for outside aid.
 
-#### **2. The Political Dilemma**
+#####  **2. The Political Dilemma**
 
 - The king convenes a council with:
     - **[[Thane Gorlim Stonefist]]** (Isolationist, against helping outsiders)
@@ -918,7 +920,7 @@ This path takes the party over the rugged peaks of the northern [[mountains]]. I
     - Influence noble factions for future benefits.
     - Learn secrets about the **abandoned tunnels** from ancient records.
 
-#### **3. The Encounter: A Test of Strength**
+#####  **3. The Encounter: A Test of Strength**
 
 - To earn the king’s trust, the party must prove themselves.
 - **Combat Options**:
@@ -926,20 +928,20 @@ This path takes the party over the rugged peaks of the northern [[mountains]]. I
     - **Beast Hunt**: A **[[Deep Wyrm]]** (burrowing monstrosity) has been plaguing the lower tunnels. The party can track and slay it.
     - **Skill Challenge**: A dwarven trial involving **strength, wits, and endurance**.
 
-#### **4. Lore Opportunities**
+#####  **4. Lore Opportunities**
 
 - **Mysterious Runes**: Inscriptions hinting at an ancient **elven war** in the tunnels.
 - **Sealed Doors**: Locked gates leading to the **abandoned section** of the mines.
 - **Dwarven Myths**: Legends of a forgotten **forge-god’s artifact**, rumored to be lost in the depths.
 
-#### **5. Ending the Session**
+#####  **5. Ending the Session**
 
 - Depending on their actions, the party might:
     - Secure dwarven aid for future conflicts.
     - Uncover secrets of the tunnels before venturing further.
     - Make enemies among the nobles, leading to **political repercussions**.
 
-## **The Three Challenges of the Forgefather**
+###  **The Three Challenges of the Forgefather**
 
 _"Strength in stone, wisdom in craft, endurance in revelry. Prove yourselves worthy of Moradin’s blessing."_
 
@@ -947,18 +949,18 @@ The trials take place in **the Sacred Hall of the Forgefather**, a massive chamb
 
 ---
 
-## **Challenge 1: Strength – The Shattering Stone**
+###  **Challenge 1: Strength – The Shattering Stone**
 
 _"Strike with all your might, but know this—stone does not break for the weak."_
 
-### **Setup**
+####  **Setup**
 
 - The party must **strike a sacred anvil**, attempting to **shatter enchanted stones placed upon it**.
 - The stones progressively become **denser and more magically reinforced**.
 - They may **only use melee or unarmed attacks**, and **[[spells]] do not work** (Moradin’s wards suppress magic).
 - **Each player takes a turn striking the stone.**
 
-### **Mechanics**
+####  **Mechanics**
 
 Each round, the stone has **AC and HP** the [[players]] must overcome. If the **stone is not shattered in 3 rounds**, the challenge is failed.
 
@@ -980,29 +982,29 @@ Each round, the stone has **AC and HP** the [[players]] must overcome. If the **
 - [[Players]] may use **tools** (like smithing hammers) for a small bonus.
 - The final stone requires a **combined effort**—[[players]] must **deal over 30 damage in one round to break it**.
 
-### **Outcome**
+####  **Outcome**
 
 - **Success:** The **anvil glows with divine energy**, and **Moradin’s approval is granted**.
 - **Failure:** The stone remains intact, and **the trial must be restarted with a penalty** (Doldrim frowns and forces them to repeat the test with exhaustion).
 
 ---
 
-## **Challenge 2: Wits – The Puzzle of the Forge**
+###  **Challenge 2: Wits – The Puzzle of the Forge**
 
 _"A fool swings his hammer blindly; a master strikes with purpose."_
 
-### **Setup**
+####  **Setup**
 
 The [[players]] are led to **an ancient forge altar** where **three braziers glow dimly**. In front of them is a **large stone wall with a carved dwarven poem**.
 
-### **Puzzle:** **The Poem of the Three Flames**
+####  **Puzzle:** **The Poem of the Three Flames**
 
 > _The first flame dies when left alone,_  
 > _The second burns, yet leaves no stone._  
 > _The third ignites when breath is blown,_  
 > _But only when the order’s known._
 
-### **The Solution**
+####  **The Solution**
 
 The [[players]] must **light the three braziers in the correct order** based on the poem’s hints.
 
@@ -1010,7 +1012,7 @@ The [[players]] must **light the three braziers in the correct order** based on 
 - **The Second Flame (Magic) burns but leaves no stone** → Must be **last**, since it represents ethereal fire.
 - **The Third Flame (Air/Bellows) ignites when breath is blown** → Must be **first**, as it needs air to sustain the others.
 
-### **Mechanics**
+####  **Mechanics**
 
 - [[Players]] **light the flames** in a chosen order.
 - They must use **Intelligence (Investigation) or Wisdom (Insight)** to determine the sequence.
@@ -1019,17 +1021,17 @@ The [[players]] must **light the three braziers in the correct order** based on 
 
 ---
 
-## **Challenge 3: Endurance – The Iron Tankard**
+###  **Challenge 3: Endurance – The Iron Tankard**
 
 _"A warrior’s heart is tested not just in battle, but in revelry!"_
 
-### **Setup**
+####  **Setup**
 
 - The party sits **at a massive stone table** alongside **six dwarven champions**.
 - **A legendary dwarven brewer**, Thalgrim Barrelbelly, presents the **Iron Tankard of Moradin**, a **bottomless mug filled with the strongest dwarven ale**.
 - The [[players]] must **outdrink the dwarves** while enduring the **brutal effects of the brew**.
 
-### **Mechanics**
+####  **Mechanics**
 
 - Each round, [[players]] **drink and make a Constitution saving throw** (DC increases per round).
 - **Failure:** The player takes **1d8 poison damage** and gains **one level of drunkenness**.
@@ -1049,22 +1051,22 @@ _"A warrior’s heart is tested not just in battle, but in revelry!"_
 - **Sleight of Hand (DC 17):** **Pretend to drink but spill some** (auto-pass a round).
 - **Performance (DC 15):** Act **more sober than you are**, making it harder for dwarves to tell you're struggling.
 
-### **Winning the Drinking Contest**
+####  **Winning the Drinking Contest**
 
 - The **last person standing wins** and is granted **The Tankard of Moradin**, a magical mug that **purifies any liquid poured into it**.
 - If **all dwarves fall before the party**, they receive **Moradin’s toast**, a **blessing of endurance (advantage on CON saves for 24 hours).**
 
 ---
 
-## **Final Outcome & Rewards**
+###  **Final Outcome & Rewards**
 
 - **If they succeed in all three trials,** the **High Priest blesses them personally**, granting each player **a Rune of Moradin** (functions as a one-time-use **Bless spell** that activates when they drop below 10 HP).
 - **If they fail one trial**, they are still **acknowledged** but do not receive Moradin’s full favor.
 - **If they fail two trials or more,** they are **mocked by the dwarves** and must prove themselves in battle instead.
 
-# Session 12/13 -- The Goblin City
+##  Session 12/13 -- The Goblin City
 
-## **1. The Goblin Ambush (Before the City)**
+###  **1. The Goblin Ambush (Before the City)**
 
 **Setting:**  
 The party ventures into **crumbling dwarven tunnels**, with **glowing mushrooms**, flickering **runes**, and old mining carts scattered around. As they advance, they hear **scuttling sounds** and hushed goblin whispers.
@@ -1091,7 +1093,7 @@ The [[goblins]] use **hit-and-run tactics, traps, and overwhelming numbers**.
 
 ---
 
-## **2. The Goblin City: Chaos & Betrayal**
+###  **2. The Goblin City: Chaos & Betrayal**
 
 Once inside, the party **must navigate a volatile underground society**:
 
@@ -1108,7 +1110,7 @@ Once inside, the party **must navigate a volatile underground society**:
 
 ---
 
-## **3. The Fall Into Darkness**
+###  **3. The Fall Into Darkness**
 
 Regardless of their approach, they end up in **The Pit**—a collapsing section of the goblin city that **drops them into forgotten dwarven ruins.**
 
@@ -1118,7 +1120,7 @@ Regardless of their approach, they end up in **The Pit**—a collapsing section 
 
 ---
 
-## **Cliffhanger Ending: The Forgotten Depths**
+###  **Cliffhanger Ending: The Forgotten Depths**
 
 The session ends with the party:
 
@@ -1130,8 +1132,8 @@ Notes
 breton add necklace, salive du wyrm and scale
 mini un shield, dent du wyrm
 
-# Session 14 / 15 Drathtakar
-### **1. Tunnel Trek & Atmosphere (5–10 min)**
+##  Session 14 / 15 Drathtakar
+####  **1. Tunnel Trek & Atmosphere (5–10 min)**
 
 Set the tone—dark tunnels, heavy silence, echoing drips, old dwarven carvings or collapsed supports. Maybe seismic tremors subtly begin, hinting something big moves deep underground.
 
@@ -1146,7 +1148,7 @@ Set the tone—dark tunnels, heavy silence, echoing drips, old dwarven carvings 
 
 ---
 
-### **2. The Pitfall Trap (15 min)**
+####  **2. The Pitfall Trap (15 min)**
 
 As they're moving through an especially unstable area, the ground collapses—massive cave-in (Dex saves or they fall hard into the pit).  
 This drop can’t be "just a trap"—make it _cinematic_:
@@ -1166,7 +1168,7 @@ This drop can’t be "just a trap"—make it _cinematic_:
 
 ---
 
-### **3. [[Drathakar]]'s Arrival (15–20 min)**
+####  **3. [[Drathakar]]'s Arrival (15–20 min)**
 
 Slow reveal, build tension.
 
@@ -1189,7 +1191,7 @@ He reveals: a **powerful dragon has stirred**—one ancient enough to threaten b
 
 ---
 
-### **4. The Trial: Prove Your Worth (30+ min)**
+####  **4. The Trial: Prove Your Worth (30+ min)**
 
 **[[Drathakar]] challenges them, not to kill—but to test resolve and strength.**
 
@@ -1199,7 +1201,7 @@ You have two great options here:
 
 ---
 
-#### **Option A: Trial Combat Against [[Drathakar]] (Recommended)**
+#####  **Option A: Trial Combat Against [[Drathakar]]
 
 **Use a weakened avatar or partial power form**—like a legendary lair guardian infused with his essence.  
 Stat block suggestion: reskin a **Young Red Dragon** but give it burrow speed and **earthquake-style lair actions**.  
@@ -1216,7 +1218,7 @@ Don’t make this a death trap. If they do well, [[Drathakar]] grins with molten
 
 ---
 
-### **5. Reward: The Warning (10–15 min)**
+####  **5. Reward: The Warning (10–15 min)**
 
 If they succeed (or survive honorably), [[Drathakar]] reveals his truth:
 
@@ -1238,7 +1240,7 @@ He may offer them:
 
 ---
 
-## 🎁 BONUS FLAVOR IDEAS
+### FLAVOR IDEAS
 
 - [[Drathakar]]'s body constantly leaks small bits of molten fire from under his scales.
     
@@ -1249,12 +1251,149 @@ He may offer them:
 
 
 
-## Notes: 
-party is in tavern singing their tales will look for trail dogs
-jer has a 6pack of potions 
-jimmy jays has a the dagger to be made
+###  Notes: 
+party is in tavern singing their tales, will be look for trail dogs
+[[Cashmere]] has a 6pack of potions 
+jimmy jays has a dagger to be made (lifelink)
 razzilkh has the crown
 gunther stayed in the church to be developed
 scrolls for jayson
 fiole d'ink for jay
-create villages for the travel to [[truvel]]
+create villages for the travel to [[Truvel]]
+
+
+# Season 2
+
+## Gunther Church Encounter
+As the party leaves the church, Gunther stays behind in hope of collecting informations about [[Lorthtrull]] the god of death. Luckily for him, the village have been followers of said deity. They have been honoring him giving a fifth of their rations in offrandes (another fifth to [[Drathakar]]). 
+
+### ** Setup — The Church Empties**
+
+- The party leaves.
+    
+- The old church, dim and echoing, feels bigger now.
+    
+- Gabriel watches Gunther quietly as the heavy doors shut.
+    
+
+**Gabriel:**
+
+> _“What can I do for you, my son?”_
+
+- He knows why Gunther stayed — but tests if Gunther will speak his true heart.
+    
+- If Gunther tries to soften it — Gabriel gently insists on truth.
+    
+- The moment sets the tone: **no lies in the dark**.
+    
+
+---
+
+### ** Descent — Preparing the Ritual**
+
+- Gabriel leads Gunther deeper: down stone steps to a **crypt chapel**, lined with skulls or black cloth banners.
+    
+- An old **black-lantern** sits on a simple altar surrounded by unlit black candles.
+    
+- Gunther kneels or sits on a stone slab — the **cape wraps around him**, shadows whispering.
+    
+- Gabriel lights the candles — **only source of light** in the darkness.
+    
+
+---
+
+### ** The Lantern — Gathering the Light**
+
+- Gabriel lifts the **black-lantern**.
+    
+
+> _“Darkness is not emptiness, but comfort for the weary flame.”_
+
+- He chants softly — the lantern’s glass pulses.
+    
+- Each candle’s flame **bends**, then pulls free — tiny streams drawn into the lantern.
+    
+- The crypt dims — replaced by a heavy, peaceful dark.
+    
+- The lantern glows faintly, holding the trapped light like dying stars.
+    
+
+---
+
+### ** The First Attempt — Veil of Night**
+
+- Gabriel places his hand on Gunther’s head — murmurs a prayer.
+    
+- Gunther’s mind drifts: fleeting shadows of his wife, laughter echoing, warmth just out of reach.
+    
+- But something blocks him — a weight in his heart: fear, guilt, or defiance.
+    
+- The vision **fractures**, the bond falters.
+    
+### ** The Vision — The Choice**
+
+- Gunther sees a fleeting image: his wife, standing peaceful in the dark.
+    
+- She does not reach for him — she waits, eyes calm.
+    
+- Behind her: a cold blaze — [[Aragthmere]]’s temptation, life forced through fire.
+    
+- He understands: the path is there — but **which flame he feeds will shape him**.
+    
+
+
+---
+
+###  ** The Priest’s Choice — The Vessel**
+
+- Gabriel breathes heavily, voice calm but strained.
+    
+
+> _“You stand too close to the flame to see the shade. Let me bear it for you.”_
+
+- He turns, places the lantern before the altar.
+    
+- Kneels, arms open — the lantern flickers wildly, shadows gathering around him.
+    
+- His body shudders — **[[Lorthtrull]] speaks through him**:
+    
+    - The voice is soft, endless, echoing in the walls.
+        
+    - Shadows swirl in Gunther’s vision — the cape coils tighter.
+        
+
+---
+
+### ** [[Lorthtrull]]’s Message**
+
+Through Gabriel, [[Lorthtrull]] says:
+
+> _“You wear your promise close to your heart — let it bear your burden too.”_
+
+- Gently scolds Gunther’s wish: _“You seek to tear open the wound that I have closed.”_
+    
+- But doesn’t forbid him — instead, offers a **choice or test**: _“Bring her back, but know the price. Or carry my Veil — guide the dead to peace, and one day I shall grant your plea if the Cycle wills it.”_
+
+- The pendant on Gunther’s chest **heats, then chills**, absorbing a thread of the lantern’s flickering trapped light.
+    
+- Its metal or stone **blackens**, veins of shadow swirl inside it — a piece of the Veil bound to him now.
+    
+- [[Lorthtrull]] offers a quiet warning:
+    
+    > _“So long as your mercy tempers your wrath, the Veil shall not tear.”_
+    
+
+---
+
+### ** The Ending — The Price**
+
+- The shadows fade — the lantern dims, its flames spent.
+    
+- Gabriel slumps forward — exhausted or possibly near death.
+    
+- Gunther’s pendant is now **the anchor for his Illriger power** — and his burden.
+    
+- The cape still coils around him, whispering futures yet to come.
+> _"As it was bound by love, now it is bound by shadow. So long as your mercy outweighs your wrath, it shall remain whole.”
+
+>“Wear this. It binds your shadow to my shade. Should you stray, it shall weigh you down. Should you guide, it shall lighten your burden.” 

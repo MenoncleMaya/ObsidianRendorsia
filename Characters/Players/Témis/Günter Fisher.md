@@ -9,6 +9,6 @@ One day at the age of 16, he fell in love with a cute human girl named Luna. Eve
 
 After 5 years of being married, Günter at the age of 21 started looking for a job in a weird, but classy place. The Cloak and dagger was the name of the group running the place. This was a dangerous job that involved killing and manipulating evil people of the world. The organization did not discriminate against Günter because of his charisma and his ability to transform his appearance into whatever he sees. Günter quickly ranked up in the Cloak and dagger while still having a love interest with Luna.
 
-Has the [[Weird Cape]]
+Has the [[The Veil of Threads]]
 
 Wants to introduced himself to Lorthtrull

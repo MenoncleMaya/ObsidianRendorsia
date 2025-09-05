@@ -14,6 +14,6 @@ A List of magical Items in [[Rendorsia]]
 - [[Ring of Precision]]
 - [[Ring of Social Grace]]
 - [[Tie it Self Rope]]
-- [[Weird Cape]]
+- [[The Veil of Threads]]
 - [[Whispering Cloak]]
 - 
