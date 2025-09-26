@@ -509,7 +509,7 @@ As the factions regroup, the party has time to:
     - Dorius starts with a triumphant tone, acknowledging the party’s success against the [[Siltmaw Leviathan]] and the strength it represents.
     - He emphasizes the need for unity, framing it as the only way to survive and overthrow the ruler’s oppressive regime. He cleverly plays to each faction’s motivations:
         - To the **[[The Iron Seekers|Iron Seekers]]**: He appeals to their sense of honor and duty to protect the people.
-        - To the **Ravenborn Company**: He highlights the opportunity for glory and freedom.
+        - To the **[[The Ravenborn Company|Ravenborn]] Company**: He highlights the opportunity for glory and freedom.
         - To the **[[The Silver Chain|Silver Chain]]**: He offers promises of lucrative trade opportunities once the ruler is deposed.
         - To the **[[The Black Serpents|Black Serpents]]**: He hints at the power they could hold in the new order, veiling it in cryptic but enticing language.
     - He concludes with a dramatic declaration: "Let this day mark the dawn of a new alliance, forged not by bloodlines, but by resolve. Together, we shall rewrite the story of this city!"
@@ -523,10 +523,10 @@ As the factions regroup, the party has time to:
     - A crossbow bolt or dagger flies through the air, striking Dorius in the chest or back. He stumbles and falls, his golden robes stained red as panic erupts.
 - **Immediate Reactions**:
     - The **[[The Iron Seekers|Iron Seekers]]** immediately spring into action, forming a protective perimeter and seeking the assailant.
-    - The **[[The Golden Tide|Golden Tide]]** representatives shout accusations, some claiming the **Ravenborn Company** is responsible.
+    - The **[[The Golden Tide|Golden Tide]]** representatives shout accusations, some claiming the **[[The Ravenborn Company|Ravenborn]] Company** is responsible.
     - The **[[The Black Serpents|Black Serpents]]** subtly slip away into the crowd, seemingly uninvolved but already plotting how to use the chaos.
     - The **[[The Silver Chain|Silver Chain]]** representatives stay calm and begin whispering amongst themselves, observing rather than acting.
-    - The **Ravenborn Company** openly denies involvement, but their chaotic reputation works against them.
+    - The **[[The Ravenborn Company|Ravenborn]] Company** openly denies involvement, but their chaotic reputation works against them.
 
 ---
 
@@ -574,7 +574,7 @@ Le **Sanctuaire des Aventuriers** est plongé dans une atmosphère tendue. La sa
 
 1. **Les Personnages Présents** :
     - **Kaelen Thorne**, chef des **[[The Iron Seekers|Iron Seekers]]** : Le regard froid et méfiant, il observe silencieusement les autres. Son corps est rigide, prêt à intervenir à tout moment.
-    - **[[Ravenborn Community's Leader|Elvira Moonsworn]]**, chef des **Ravenborn Company** : Impulsive et indépendante, elle se tient près de l’entrée, prêt à bondir sur la moindre provocation. Elle jette des regards furtifs vers les autres, épiant chaque geste.
+    - **[[Ravenborn Community's Leader|Elvira Moonsworn]]**, chef des **[[The Ravenborn Company|Ravenborn]] Company** : Impulsive et indépendante, elle se tient près de l’entrée, prêt à bondir sur la moindre provocation. Elle jette des regards furtifs vers les autres, épiant chaque geste.
     - **[[Silver Chain's Leader|Theron Velamir]]**, chef des **[[The Silver Chain|Silver Chain]]** : Le maître de la manipulation, il ne sourit jamais vraiment, mais ses yeux brillent d’une malice discrète. Il semble plus intéressé par les autres que par la réunion.
     - **[[Black Serpents Leader|Valindra Emberglow]]**, chef des **[[The Black Serpents|Black Serpents]]** : Une calme présence dans cette mer de tensions, ses yeux de feu cachant des secrets que personne ne peut vraiment lire.
 
@@ -625,7 +625,7 @@ Lors de la fouille de l'assassin, plusieurs indices intrigants apparaissent :
 
 - **Le poison utilisé** est une signature des **[[The Black Serpents|Black Serpents]]**, mais **[[Black Serpents Leader|Valindra Emberglow]]** jure qu’elle n’a rien à voir avec l’incident. Cela ouvre la possibilité que **la faction soit elle-même infiltrée**.
     
-- **L’échange secret mentionné dans la lettre** devait avoir lieu dans un entrepôt contrôlé par la **Ravenborn Company**, mais ce lieu est en ruines et semble avoir été abandonné de manière précipitée.
+- **L’échange secret mentionné dans la lettre** devait avoir lieu dans un entrepôt contrôlé par la **[[The Ravenborn Company|Ravenborn]] Company**, mais ce lieu est en ruines et semble avoir été abandonné de manière précipitée.
     
 - **Fouille de l’entrepôt** : Lors de l’investigation de cet entrepôt, les joueurs découvrent une **salle piégée** avec des **traces récentes de lutte**. À l'intérieur, ils tombent sur le cadavre d'un espion des **[[The Silver Chain|Silver Chain]]**, portant un **insigne déformé** de cette faction. Cela indique une possible **alliance entre factions** ou la mise en place d’un jeu à trois bandes.
     
@@ -691,7 +691,7 @@ With the tensions among the factions growing, the party will begin to uncover mo
 2. **The Threat of War**:
     
     - The factions are now openly hostile to one another, and war feels imminent. The party must use all their diplomatic skills and intelligence to prevent the factions from falling into total chaos. They may need to broker uneasy alliances or even betray factions to achieve peace.
-    - **Subplot**: A smaller, rogue faction (perhaps a splinter of [[the Black Serpents]] or Ravenborn Company) might be looking to exploit the situation for their own gain, possibly with ties to the puppeteer’s disciple.
+    - **Subplot**: A smaller, rogue faction (perhaps a splinter of [[the Black Serpents]] or [[The Ravenborn Company|Ravenborn]] Company) might be looking to exploit the situation for their own gain, possibly with ties to the puppeteer’s disciple.
 3. **New Alliances**:
     
     - The party may successfully form alliances with certain factions, especially those who are starting to realize they are being manipulated by the puppetmaster. These new alliances could help balance the power struggle, but they come at a cost.
@@ -925,7 +925,7 @@ question black serpent
 question [[The Iron Seekers|Iron Seekers]]
  question 1 reunion - yup
 
-Question Ravenborn
+Question [[The Ravenborn Company|Ravenborn]]
  question 1 reunion - maybe
 
 Reclu 
@@ -1434,17 +1434,17 @@ This session progression builds tension as the party moves closer to uncovering 
 ### Themes: Memory manipulation, rebellion, ancient powers awakening, personal truths
 
 ---
-
-## 🧱 ACT I – _The Flames Beneath_
+## Acts Planning
+### 🧱 ACT I – _The Flames Beneath_
 
 **Tone**: Paranoia, resistance in hiding, fractured alliances  
 **Objective**: Survive the regime's retaliation and uncover [[Kerälia]]’s trail via [[the Silver Chain]]
 
-### 📌 Key Events:
+#### 📌 Key Events:
 
 1. **[[Semper]] Lockdown** – Checkpoints, curfews, executions. The party and allies scatter into hideouts.
     
-2. **Factional Breakdown** – [[The Iron Seekers|Iron Seekers]] want to regroup, Ravenborn want to strike, [[The Golden Tide|Golden Tide]] hesitates.
+2. **Factional Breakdown** – [[The Iron Seekers|Iron Seekers]] want to regroup, [[The Ravenborn Company|Ravenborn]] want to strike, [[The Golden Tide|Golden Tide]] hesitates.
     
 3. **[[The Silver Chain|Silver Chain]] Deal** – They approach Shrieiker with an offer: help smuggle or protect a relic in exchange for ancient secrets.
     
@@ -1453,7 +1453,7 @@ This session progression builds tension as the party moves closer to uncovering 
 5. **Memory Disturbance Begins** – The [[players]] start noticing inconsistencies. Forgotten allies, “rewritten” events, dreams of strangers pleading.
     
 
-### 🧪 Session Ideas:
+#### 🧪 Session Ideas:
 
 - **The Silent Street**: PCs help evacuate a cursed district — once full of adventurers — that the city has “forgotten.” Locals don’t remember it existed.
     
@@ -1466,12 +1466,12 @@ This session progression builds tension as the party moves closer to uncovering 
 
 ---
 
-## 🔍 ACT II – _The Forgotten and the Forbidden_
+### 🔍 ACT II – _The Forgotten and the Forbidden_
 
 **Tone**: Discovery, deception, growing dread  
 **Objective**: Uncover [[Kerälia]]’s resting place and the Puppeteer’s influence; deal with betrayal and political shifts
 
-### 📌 Key Events:
+#### 📌 Key Events:
 
 1. **[[Kerälia]]’s Lair Discovered** – Beneath a ruined temple or [[The Silver Chain|Silver Chain]] safehouse, the party finds a hidden sanctuary, built atop [[Kerälia]]’s lair.
     
@@ -1484,7 +1484,7 @@ This session progression builds tension as the party moves closer to uncovering 
 5. **Reveal the Forgotten** – The party discovers remnants of erased people — including possibly Kaelen Thorne or a key ally of the past.
     
 
-### 🧪 Session Ideas:
+#### 🧪 Session Ideas:
 
 - **Lair of Echoes**: Dungeon crawl through the ruins beneath [[Semper]] — ancient architecture, dragon runes, cursed memory sigils.
     
@@ -1497,12 +1497,12 @@ This session progression builds tension as the party moves closer to uncovering 
 
 ---
 
-## 🔥 ACT III – _Wrath and Revelation_
+### 🔥 ACT III – _Wrath and Revelation_
 
 **Tone**: Open conflict, existential threat, rising stakes  
 **Objective**: Rally the factions, awaken [[Kerälia]], confront the Puppeteer’s growing power
 
-### 📌 Key Events:
+#### 📌 Key Events:
 
 1. **[[Kerälia]] Awakens** – Through ritual, dream, or physical contact, Shrieiker fully connects to the ancient dragon. [[Kerälia]]’s wrath stirs — she remembers the war.
     
@@ -1515,7 +1515,7 @@ This session progression builds tension as the party moves closer to uncovering 
 5. **Puppeteer Confrontation** – The party meets the puppeteer or his agent — a master of forgotten truth — and learns of his deeper plan (to erase the gods, perhaps?).
     
 
-### 🧪 Session Ideas:
+#### 🧪 Session Ideas:
 
 - **The Burned Ledger**: A [[The Silver Chain|Silver Chain]] ledger reveals hundreds of erased names — including a PC’s family member or past version of themselves.
     
@@ -1534,7 +1534,7 @@ This session progression builds tension as the party moves closer to uncovering 
 
 ---
 
-## 🧩 Optional Threads for Depth
+### 🧩 Optional Threads for Depth
 
 - **[[Kerälia]]’s True Desire**: Does she want revenge on mortals? To die? To be worshipped again? To return the world to a draconic age?
     
@@ -1543,3 +1543,122 @@ This session progression builds tension as the party moves closer to uncovering 
 - **Faction Leadership Arcs**: Each faction leader could be tempted, tested, or replaced by puppeteer magic. The party may need to rebuild alliances from the ground up.
     
 - **Magic Degradation**: [[Spells]] start acting strangely as the Puppeteer’s influence grows — subtle changes in rules could creep in (necromancy more powerful, divination suppressed, etc.).
+
+## Sessions
+
+
+### Session 1
+**Recap plus intro**
+“Last time, you took the greatest risk yet. With the streets of [[Semper]] boiling and [[Baldwin Thirry]]’s banners tightening around the city, you infiltrated the military stronghold at the heart of the regime.
+
+Through steel and fire, you fought your way into the depths where adventurers and mercenaries waited in chains. And you freed them. For the first time in months, [[Semper]] saw the flame of resistance burn openly.
+
+But victory has its price. Not all who entered walked back out. One of your own — a comrade, a friend — fell beneath the regime’s iron grip. Their absence is a wound carved deep into this rebellion.
+
+The prisoners you saved scatter now into hiding, hunted by the same regime that just bled to hold them. The [[Thirry]] crest flies higher than ever. Checkpoints choke the streets. Curfews, executions, whispers of betrayal.
+
+And in the shadows, something older than politics stirs. A relic, a whisper of power buried deep below [[Semper]]. A name almost forgotten: [[Kerälia]].
+
+Season Two begins in mourning, in fire, and in fear. The rebellion breathes, but for how long?”
+
+**Tone**: Mourning → Paranoia → Resistance ignites  
+**Objective**: Ground the party after their loss, reestablish the rebellion’s fractured state, and hook them into [[the Silver Chain]] / [[Kerälia]] thread.
+
+---
+
+##### **Opening – Remembering the Fallen (15–25 min)**
+
+- Begin with your **recap speech** (mourning + victory).
+    
+- Offer space for the PCs to react:
+    
+    - A **funeral / vigil** led by the rescued adventurers and mercenaries.
+        
+    - Survivors thank the party, but grief is heavy.
+        
+    - Introduce 1–2 freed NPCs who might become allies later.
+        
+- Optional: One NPC claims they “remember the fallen differently” (first subtle hint of memory disturbance).
+    
+
+---
+
+#### **Scene 1 – Lockdown of [[Semper]] (30–40 min)**
+
+- The city has changed overnight:
+    
+    - **Checkpoints** at every gate, **curfews** shouted by patrols, **banners of the [[Thirry]] crest** on every street.
+        
+    - Adventurers are openly hunted. Executions are whispered about.
+        
+- Skill Challenge: Navigate through the lockdown without drawing attention (Stealth, Deception, Persuasion, Disguise).
+    
+- Give each PC a personal glimpse:
+    
+    - [[Lazelot]] : mocked by regime soldiers.
+        
+    - [[Shrieker]]: hears someone whisper his name from nowhere.
+        
+    - Random Player: sees [[The Golden Tide|Golden Tide]] merchants profiteering off curfew laws.
+        
+
+---
+
+#### **Scene 2 – Factional Breakdown (30–45 min)**
+
+- The rescued adventurers split to different factions. Tension boils:
+    
+    - **[[The Iron Seekers|Iron Seekers]]** want to regroup and fight cautiously.
+        
+    - **[[The Ravenborn Company|Ravenborn]]** demand an immediate strike.
+        
+    - **[[The Golden Tide|Golden Tide]]** sits on the fence, worried about trade.
+        
+- Roleplay-heavy, but keep stakes sharp: a shouting match, veiled threats.
+    
+- Insert **memory disturbance** here: one faction leader is _missing_ or “never existed,” but the PCs remember them. NPCs deny it.
+    
+
+---
+
+#### **Scene 3 – [[The Silver Chain]]’s Offer (40–50 min)**
+
+- [[The Silver Chain]] approaches [[Shrieker]] with a clandestine meeting.
+    
+- They offer a deal: help smuggle or protect a **mysterious relic ([[Kerälia]]’s scale)**.
+    
+- Tease: the relic radiates draconic power. PCs may hear whispers or see brief hallucinations.
+    
+- Consequences:
+    
+    - If they accept → move into the smuggling run next session.
+        
+    - If they hesitate → [[the Silver Chain]] insists this is a “now or never” chance.
+        
+
+---
+
+#### **Climax – First Memory Fracture (20–30 min)**
+
+- End the session with a disturbing event that sets the paranoia hook:
+    
+    - The PCs encounter an **ally they saw die** in the heist, alive but not recognizing them.
+        
+    - Or, one of their **hideouts disappears** (neighbors claim it was never theirs).
+        
+- This creates an immediate cliffhanger → forces them to question what is real, and primes them for next session’s **Smuggling Run** & **[[Shrieker]]’s vision**.
+    
+
+---
+
+#### 🎯 Session Goals
+
+1. **Emotional grounding**: Honor the fallen PC, let [[players]] feel their victory and loss.
+    
+2. **Reestablish world stakes**: [[Semper]] is now a cage under the [[Thirry]] regime.
+    
+3. **Faction intrigue (but faster paced)**: Give flavor, then pivot to paranoia and personal stakes.
+    
+4. **Introduce [[Kerälia]] thread**: [[The Silver Chain]]’s relic and whispers.
+    
+5. **Cliffhanger**: Memory disturbance makes this season feel _different_ from Season 1.

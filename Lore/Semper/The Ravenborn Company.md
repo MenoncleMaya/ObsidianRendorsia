@@ -1,3 +1,7 @@
+---
+aliases:
+  - Ravenborn
+---
 ### **The Ravenborn Company (Adventurer Faction)**
 
 - **Mood**: Chaotic, rebellious, and self-reliant.
