@@ -311,7 +311,7 @@ Les joueurs pourront se retrouver dans un lieu sûr, loin des regards, pour disc
 
 #### Documents or Records:
 
-- **Government Files**: If the party manages to find classified documents (perhaps in an underground facility or through connections with a rebellious faction), they’ll discover detailed notes on the government’s **breeding project**. The files will contain descriptions of how the creature is kept deep underground, carefully monitored and fed to produce offspring that could one day serve as living weapons. However, there may also be warnings that controlling the Leviathan is risky and could backfire.
+- **Government Files**: If the party manages to find classified documents (perhaps in an underground facility or through connections with a rebellious faction), they’ll discover detailed [[notes]] on the government’s **breeding project**. The files will contain descriptions of how the creature is kept deep underground, carefully monitored and fed to produce offspring that could one day serve as living weapons. However, there may also be warnings that controlling the Leviathan is risky and could backfire.
     
 - **[[Bestiary]] or Hunter's Guide**: In a hunter's lodge or from an old adventurer, the party might find a tattered [[bestiary]] that describes how best to fight a [[Siltmaw Leviathan]]. The book will suggest avoiding close combat due to its **massive jaw strength**, instead recommending ranged weapons enchanted with magic, as normal arrows would bounce off its thick skin. It may also mention that **fire-based [[spells]]** can disrupt its mud-based defenses.
     
@@ -386,7 +386,7 @@ once the fighting done the party will make his way back to the [[Lair of the Adv
     Ils atterrissent enfin dans un environnement souterrain inquiétant. Dans le noir, des grondements et des bruits lourds résonnent autour d’eux, rappelant à chacun que ce lieu est loin d’être inoffensif. La session se termine alors que le groupe commence à explorer cet endroit sinistre, avec l'intuition que la créature qu'ils ont entendu mentionner n’est pas loin…
     
 
-**Notes pour la prochaine session :**  
+**[[Notes]] pour la prochaine session :**  
 Dans cette suite, les joueurs rencontreront pour la première fois des signes directs de la présence de la créature, qui se révèlera être une menace insoupçonnée. Le repère de la bête offrira une atmosphère oppressante, avec des ossements, des chaînes, et une humidité oppressante, renforçant la sensation de danger imminent.
 
 # Session 5
@@ -438,7 +438,7 @@ Party Member List
 - [[Eliza Sparrow Marlowe]]
 
 
-### Session Notes
+### Session [[Notes]]
 
 
 # Session 6
@@ -549,7 +549,7 @@ As the factions regroup, the party has time to:
 1. **Survives**: If the party acts quickly, they might stabilize him and gain his gratitude. Dorius, weakened but determined, tasks them with uncovering the truth and continuing his efforts to unite the factions.
 2. **Dies**: His death leaves a power vacuum in [[the Golden Tide]], with multiple representatives vying for leadership. The party may have to choose whom to back—or manipulate the situation for their own benefit.
 
-## Notes
+## [[Notes]]
 
 Les égarer de la queux poilu
 # **Session 7
@@ -907,7 +907,7 @@ As the party pushes forward, they must accomplish a key objective:
 
 
 
-## Notes: 
+## [[Notes]]: 
 demande au party de humain 
 question 1 pourquoi êtes vous en retard au sanctuaire - on été tenter d'être bribe pour join les [[thirry]]
 question 2 yavais ki - [[Lothaire Thirry]], [[Anselmet, le Chaotique|Anselmet]], [[Emmyth Eildan|Emmyth]], puppeteer;
@@ -1557,7 +1557,7 @@ But victory has its price. Not all who entered walked back out. One of your own 
 
 The prisoners you saved scatter now into hiding, hunted by the same regime that just bled to hold them. The [[Thirry]] crest flies higher than ever. Checkpoints choke the streets. Curfews, executions, whispers of betrayal.
 
-And in the shadows, something older than politics stirs. A relic, a whisper of power buried deep below [[Semper]]. A name almost forgotten: [[Kerälia]].
+And in the shadows, something older than politics stirs. A relic, a whisper of power buried deep below [[Semper]].
 
 Season Two begins in mourning, in fire, and in fear. The rebellion breathes, but for how long?”
 
@@ -1566,99 +1566,170 @@ Season Two begins in mourning, in fire, and in fear. The rebellion breathes, but
 
 ---
 
-##### **Opening – Remembering the Fallen (15–25 min)**
+# 📖 Session Plan: **Act I – The Flames Beneath**
 
-- Begin with your **recap speech** (mourning + victory).
-    
-- Offer space for the PCs to react:
-    
-    - A **funeral / vigil** led by the rescued adventurers and mercenaries.
-        
-    - Survivors thank the party, but grief is heavy.
-        
-    - Introduce 1–2 freed NPCs who might become allies later.
-        
-- Optional: One NPC claims they “remember the fallen differently” (first subtle hint of memory disturbance).
-    
+**Tone**: Claustrophobic, hunted, rebellion in shadows.  
+**Objective**: Smuggle a relic through tunnels, keep the rebellion alive, first whispers of [[Kerälia]], foreshadowing [[Anselmet, le Chaotique|Anselmet]].
 
 ---
 
-#### **Scene 1 – Lockdown of [[Semper]] (30–40 min)**
+## 🎬 Opening – Recap & New Ally
 
-- The city has changed overnight:
+- **DM Recap**: Remind [[players]] of last session (military prison infiltration, adventurers freed, one comrade lost).
     
-    - **Checkpoints** at every gate, **curfews** shouted by patrols, **banners of the [[Thirry]] crest** on every street.
-        
-    - Adventurers are openly hunted. Executions are whispered about.
-        
-- Skill Challenge: Navigate through the lockdown without drawing attention (Stealth, Deception, Persuasion, Disguise).
+- **New PC Intro**: The new character was among those freed.
     
-- Give each PC a personal glimpse:
-    
-    - [[Lazelot]] : mocked by regime soldiers.
+    - He belonged to another adventuring band captured and destroyed by the [[Thirry]] regime.
         
-    - [[Shrieker]]: hears someone whisper his name from nowhere.
+    - He was the _last survivor_, tortured, and condemned to death.
         
-    - Random Player: sees [[The Golden Tide|Golden Tide]] merchants profiteering off curfew laws.
+    - He can share fragments of overheard intel (whispers of tunnels, “The General,” execution schedules, hints of strange experiments).
         
 
 ---
 
-#### **Scene 2 – Factional Breakdown (30–45 min)**
+## 🗺️ Main Session Flow
 
-- The rescued adventurers split to different factions. Tension boils:
+## **Scene 1 – The Cellar Briefing (Roleplay, 20–30 mins)**
+
+**Setup**: A damp wine cellar beneath a ruined tavern in [[Semper]], lit by single lanterns. Faction banners torn down, [[the Silver Chain]] symbol drawn in chalk on the wall.
+
+- **NPCs present**: 2 [[The Silver Chain|Silver Chain]] smugglers (shady, nervous), 1 Iron Seeker ally (stoic, arms crossed).
     
-    - **[[The Iron Seekers|Iron Seekers]]** want to regroup and fight cautiously.
-        
-    - **[[The Ravenborn Company|Ravenborn]]** demand an immediate strike.
-        
-    - **[[The Golden Tide|Golden Tide]]** sits on the fence, worried about trade.
-        
-- Roleplay-heavy, but keep stakes sharp: a shouting match, veiled threats.
+- **Objective**: Deliver the mission — escort a sealed crate (inside = draconic scale) through tunnels to a safehouse.
     
-- Insert **memory disturbance** here: one faction leader is _missing_ or “never existed,” but the PCs remember them. NPCs deny it.
+
+**Player Hooks**:
+
+- If PCs hesitate: the smugglers explain _“The regime has begun burning homes in search of it. Innocents will die if we delay.”_
+    
+- For the **new PC**: The smugglers recognize him. They whisper: _“You were supposed to be executed… the General ordered it.”_ Instant personal tie.
+    
+
+**Atmosphere**: Dripping water, far-off boots above. The sense of being “boxed in.”
+
+📌 _Seed_: Smuggler warns: _“[[Anselmet, le Chaotique|Anselmet]] himself has entered the tunnels with his men. If you hear his voice… pray it’s not for you.”_
+
+---
+
+## **Scene 2 – The Descent (Transition, 10–15 mins)**
+
+[[Players]] travel through a hidden hatch → **abandoned catacombs** → into tunnels.
+
+- **Skill Check Opportunity**: Perception (DC 15) to notice faint chalk marks — smugglers’ trail signs.
+    
+- **Roleplay**: PCs can chat, reflect on last session’s fallen comrade. [[Shrieker]] might feel the crate pulse faintly (unsettling).
     
 
 ---
 
-#### **Scene 3 – [[The Silver Chain]]’s Offer (40–50 min)**
+## **Scene 3 – Encounter 1: The Collapsed Passage Ambush (Combat, 30–40 mins)**
 
-- [[The Silver Chain]] approaches [[Shrieker]] with a clandestine meeting.
+**Location**: A rubble-choked passage, forcing single-file movement. Torches half-buried in stone.
+
+- **Enemies**: 4 Regime Scouts + 1 Cursed Hound.
     
-- They offer a deal: help smuggle or protect a **mysterious relic ([[Kerälia]]’s scale)**.
+- **Tactics**:
     
-- Tease: the relic radiates draconic power. PCs may hear whispers or see brief hallucinations.
-    
-- Consequences:
-    
-    - If they accept → move into the smuggling run next session.
+    - Scouts use rubble as cover, crossbows at distance.
         
-    - If they hesitate → [[the Silver Chain]] insists this is a “now or never” chance.
+    - Hound charges into backline with Confusion Howl.
         
+    - One scout tries to flee deeper to report.
+        
+
+**Flavor**: Scouts wear a unique insignia — black serpent coiled around a sword. Any PC who investigates learns this is **[[Anselmet, le Chaotique|Anselmet]]’s personal regiment**.
+
+📌 _Clue_: One dying scout croaks: _“The General… is coming.”_
 
 ---
 
-#### **Climax – First Memory Fracture (20–30 min)**
+## **Scene 4 – The Underground River Crossing (Skill + Combat, 40–50 mins)**
 
-- End the session with a disturbing event that sets the paranoia hook:
+**Location**: A rushing black river underground, with slick stepping stones and ropes strung across.
+
+- **Hazard**:
     
-    - The PCs encounter an **ally they saw die** in the heist, alive but not recognizing them.
+    - DC 14 Acrobatics/Athletics to cross.
         
-    - Or, one of their **hideouts disappears** (neighbors claim it was never theirs).
+    - Fail = prone or swept downstream 10 ft (1d6 damage, must climb back).
         
-- This creates an immediate cliffhanger → forces them to question what is real, and primes them for next session’s **Smuggling Run** & **[[Shrieker]]’s vision**.
+- **Complication**: While mid-crossing, **3 Tunnel Wraiths** emerge from the water.
+    
+
+**Wraith Combat Twist**:
+
+- On Memory Drain hit: PCs forget _something roleplay-worthy_ (e.g. a spell prepared, an NPC’s name, why they came here).
+    
+- You narrate it cinematically: _“Your mind blanks. For a second you don’t even remember the face of the comrade walking beside you.”_
+    
+
+📌 _Atmosphere_: The wraiths’ whispers are fragmented pleas: _“He erased me… help me… I was your friend once…”_ (memory magic foreshadow).
+
+---
+
+## **Scene 5 – The Final Chamber: Hand-off Interrupted (Combat + Roleplay, 45–60 mins)**
+
+**Location**: Large cavern with crates, old smuggler graffiti, broken furniture. [[The Silver Chain|Silver Chain]] contact is waiting.
+ 
+- **Enemies**: Regime Captain + 6 Scouts.
+    
+- **Tactics**: Captain uses Aura + Commands to make scouts dangerous. Fights to stall.
+    
+
+**Mid-fight Event**: The Captain yells: _“Hold them! The General is on his way!”_
+
+📌 _Optional Tension_: If fight drags, add crumbling ceiling + dust showers → [[Anselmet, le Chaotique|Anselmet]] is coming closer.
+
+---
+
+## **Scene 6 – The Cliffhanger (5–10 mins)**
+
+- After victory, the **crate cracks open slightly**. Inside: a **gleaming blue-black draconic scale**.
+    
+- [[Shrieker]] hears a whisper: _“…[[Kerälia]]…”_ (nobody else hears).
+    
+- Then: **[[Anselmet, le Chaotique|Anselmet]]’s arrival**.
+    
+    - The tunnel shakes from armored footsteps.
+        
+    - His **greatsword slams through the cavern wall**, inches from a PC.
+        
+    - His voice roars: _“You think you can crawl in the dark forever? I’ll smoke you out like the vermin you are.”_
+        
+- [[The Silver Chain]] ally panics, pulls a lever: explosives collapse the passage, cutting [[Anselmet, le Chaotique|Anselmet]] off.
+    
+- **Last glimpse**: His silhouette in firelight, standing unmoving as debris crashes.
+    
+
+📌 _Session End_: [[Players]] escape deeper into the tunnels → with the relic, the whispers, and now a personal enemy hunting them.
+
+---
+
+## 🧩 Pacing [[Notes]]
+
+- **Scene 1–2**: Roleplay + setup (30–45 mins).
+    
+- **Scene 3**: Medium combat (30–40 mins).
+    
+- **Scene 4**: Hazard + hard combat (40–50 mins).
+    
+- **Scene 5**: Boss combat (45–60 mins).
+    
+- **Scene 6**: Cliffhanger reveal (10 mins).  
+    ➡️ Total: ~4–5 hours, perfect for a session.
     
 
 ---
 
-#### 🎯 Session Goals
+## 🎯 Player Impact
 
-1. **Emotional grounding**: Honor the fallen PC, let [[players]] feel their victory and loss.
+- **New PC** integrated with insider info.
     
-2. **Reestablish world stakes**: [[Semper]] is now a cage under the [[Thirry]] regime.
+- **Party Direction**: [[The Silver Chain|Silver Chain]]’s mission = no wandering, straight into action.
     
-3. **Faction intrigue (but faster paced)**: Give flavor, then pivot to paranoia and personal stakes.
+- **[[Kerälia]] Hook**: First whispers, but still mysterious.
     
-4. **Introduce [[Kerälia]] thread**: [[The Silver Chain]]’s relic and whispers.
+- **[[Anselmet, le Chaotique|Anselmet]]**: Terrifying presence, too strong to face yet.
     
-5. **Cliffhanger**: Memory disturbance makes this season feel _different_ from Season 1.
+- **Memory Magic**: Introduced subtly, seeds confusion and paranoia.

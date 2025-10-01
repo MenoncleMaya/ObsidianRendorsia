@@ -1,4 +1,4 @@
-Character Backstory: Shreiker, the Cautious [[Kenku]] Rogue 
+	Character Backstory: Shreiker, the Cautious Kenku Rogue 
 
 In the shadowed depths of the Whispering Woods, a peculiar tale unfolds. Among the rustling leaves and the distant call of night creatures, a baby [[Kenku]] was found, abandoned yet adorned with a mysterious holy symbol. This was Shreiker's first connection to the world—a world that had already cast him adrift. 
 
@@ -13,3 +13,31 @@ Driven by the desire to uncover the truth of his origins, Shreiker joined a band
 Despite the camaraderie, Shreiker's heart remained wary. The echoes of his past whispered to him in the quiet moments, urging him to seek the answers that lay hidden beneath the layers of his forgotten history. Who was the deity represented by the symbol he wore? Why was he left in the forest to fend for himself? These questions drove him onward, a silent quest interwoven with the adventures he faced alongside his companions. 
 
 In the end, Shreiker's journey was not just one of survival or discovery, but of trust—learning to open his guarded heart to the possibility of friendship and belonging, while unraveling the mysteries of his own existence.
+
+## **1. Shadowfang** _(Main Dagger)_
+
+*_Weapon (dagger), rare (requires attunement by a rogue or similar)_
+
+- **Damage**: 1d4 piercing + 1d6 necrotic
+    
+- **Properties**: Finesse, light, thrown (range 20/60)
+    
+- **Special Abilities**:
+    
+    1. **Cloak of Shadows**: While holding this dagger, you can use a bonus action to cast _Misty Step_ once per short or long rest.
+        
+    2. **Silent Strike**: When you attack from stealth, the attack deals an additional 1d6 damage.
+
+## **2. Whisperfang** _(Secondary Dagger / Utility Dagger)_
+
+**Weapon (dagger), uncommon (can be used by any class)**
+
+- **Damage**: 1d4 piercing
+    
+- **Properties**: Finesse, light, thrown (range 20/60)
+    
+- **Special Abilities**:
+    
+    1. **Echoing Step**: When thrown, the dagger emits a soft whisper of your movement, masking noise for up to 10 ft. Advantage on stealth checks in that area until start of your next turn.
+        
+    2. **Memory Pin**: On a successful hit, the target must succeed on a DC 13 Wisdom save or have a brief, confusing flash of memory from another time (roleplay only; no mechanical effect unless you want).
