@@ -1737,17 +1737,15 @@ Season Two begins in mourning, in fire, and in fear. The rebellion breathes, but
 ### Session 2 -- 24 Oct Echoes Beneath Part II
 #### **1. Memory Confusion (5–10 min)**
 
-_(same as before)_  
 The party regroups after last session’s chaos. NPCs remember details differently.  
-Shrieker hears Keralia’s faint whispers.  
+[[Shrieker]] hears Keralia’s faint whispers.  
 The **box emits a low hum**, reacting to something deeper below.
 
 ---
 
 #### **2. Tracking the Destination (15–20 min)**
 
-_(same as before)_  
-The group follows the coordinates/order left by the Silver Chain, navigating old tunnels and crypts.  
+The group follows the coordinates/order left by [[the Silver Chain]], navigating old tunnels and crypts.  
 Skill checks for navigation and atmosphere-building.
 
 As they approach what seems like the end, there’s a sudden _metallic echo_ ahead — the clanking of armor and boots.  
@@ -1755,30 +1753,29 @@ They are **not alone.**
 
 ---
 
-#### ⚔️ **3. Encounter: The Last Thirry Patrol (40–50 min)**
+#### ⚔️ **3. Encounter: The Last [[Thirry]] Patrol (40–50 min)**
 
-**Location:** A collapsed transit tunnel leading to the Silver Chain sector. Crates, broken lanterns, dripping water from the ceiling.  
+**Location:** A collapsed transit tunnel leading to [[the Silver Chain]] sector. Crates, broken lanterns, dripping water from the ceiling.  
 There’s only **one way forward**, and it’s being fortified.
 
 **Setup:**  
-A **Thirry Captain** and his unit are setting up a defensive post. They have orders to “seal the lower routes” and “recover the artifact the adventurers stole” — meaning _the box_.
+A **[[Thirry]] Captain** and his unit are setting up a defensive post. They have orders to “seal the lower routes” and “recover the artifact the adventurers stole” — meaning _the box_.
 
 They’re desperate, ragged, and confused, yet still loyal.  
-This is the **final organized Thirry resistance** below Semper.
+This is the **final organized [[Thirry]] resistance** below [[Semper]].
 
 ---
 
 ##### **Enemies**
 
-|Enemy|CR|Count|Description|
-|---|---|---|---|
-|Thirry Captain|5|1|Veteran-type; still in full control, trying to hold the line.|
-|Thirry Crossbowmen|2|2|Take cover behind crates, use alchemical bolts.|
-|Thirry Heavy Guard|3|2|Use shield bash and hold positions at choke points.|
-|Thirry Alchemist|3|1|Wields unstable concoctions (smoke, acid, fire).|
-|**Optional Reinforcement**|-|1 (round 3)|A mutated or partially “altered” soldier showing signs of Puppeteer influence.|
+| Enemy                         | CR  | Count       | Description                                                                    |
+| ----------------------------- | --- | ----------- | ------------------------------------------------------------------------------ |
+| [[Thirry Captain RM2S2]]      | 5   | 1           | Veteran-type; still in full control, trying to hold the line.                  |
+| [[Thirry CrossbowMan R2S2]]   | 2   | 2           | Take cover behind crates, use alchemical bolts.                                |
+| [[Thirry Heavy Soldier R2S2]] | 3   | 2           | Use shield bash and hold positions at choke points.                            |
+| [[Thirry Alchemist R2S2]]         | 3   | 1           | Wields unstable concoctions (smoke, acid, fire).                               |
+| **Optional Reinforcement**    | -   | 1 (round 3) | A mutated or partially “altered” soldier showing signs of Puppeteer influence. |
 
-**Total Difficulty:** Hard for 5×L7 party, but manageable with environment and tactics.
 
 ---
 
@@ -1797,15 +1794,15 @@ This is the **final organized Thirry resistance** below Semper.
 
 At the start of combat, the Captain shouts:
 
-> “The Thirry name will not fade to dust! Seal the passage—no one passes!”
+> “The [[Thirry]] name will not fade to dust! Seal the passage—no one passes!”
 
 Mid-fight, the **Alchemist** throws a flask that fills part of the tunnel with green mist — mildly acidic (2d4 damage per turn if standing still).
 
 When reduced to half HP, the Captain yells:
 
-> “Why… why do I remember orders that were never given…?”
+> “Where… where are we?”
 
-And when the last soldier falls, Shrieker hears Keralia again:
+And when the last soldier falls, [[Shrieker]] hears Keralia again:
 
 > _“Their memories rot… as will their empire.”_
 
@@ -1813,30 +1810,29 @@ And when the last soldier falls, Shrieker hears Keralia again:
 
 ##### **Outcome**
 
-- The patrol’s **equipment bears Thirry and Silver Chain symbols mixed**, showing some covert cooperation before the split.
-    
-- One soldier clutches a **melted metallic fragment** (one more piece of the Transmutation Gauntlet).
-    
-- A letter on the Captain’s body contains:
-    
-    > “To all remaining squads — recover the relic before it crosses the chain line. No witnesses. — Commandant V. Thirry”
-    
+- The patrol’s had a letter ordering the end of all operation with [[the silver chain]]
+**« À toutes les unités restantes —**  
+**Mettez fin immédiatement à toute collaboration avec la [[The Silver Chain|Silver Chain]].**  
+**Détruisez leurs relais, brûlez leurs traités, et récupérez tout artefact leur appartenant.**  
+**Ils ne sont plus des alliés, mais des traîtres à la couronne. Aucun témoin**  
+— _Commandant V. [[Thirry]]_ »
 
-This confirms that the Thirry family knew _something_ about the box — but not what it truly contained.
+- One soldier clutches a **melted metallic fragment** (one more piece of the Transmutation Gauntlet).
+
+This confirms that the [[Thirry]] family knew _something_ about the box — but not what it truly contained.
 
 ---
 
-#### **4. The Silver Chain Hideout (20–30 min)**
-
-_(same as before)_  
+#### **4. [[The Silver Chain]] Hideout (20–30 min)**
+ 
 After defeating the patrol, the path continues to the massive gate.  
-Silver Chain operatives await in silence.
+[[The Silver Chain|Silver Chain]] operatives await in silence.
 
-Theron Velamir (or his masked lieutenant) thanks them coldly, instructing:
+[[Silver Chain's Leader|Theron Velamir]] (or his masked lieutenant) thanks them coldly, instructing:
 
 > “You have done as asked. Leave the crate. Do not step beyond this line.”
 
-If players question or insist:
+If [[players]] question or insist:
 
 > “This place is not for you. What we protect is older than your gods.”
 
@@ -1846,9 +1842,8 @@ If players question or insist:
 
 #### **5. The Exchange (10 min)**
 
-_(same as before)_  
 The box is absorbed into the ground through metallic runes.  
-Shrieker feels the transmutation aura — _“They bind what is mine.”_  
+[[Shrieker]] feels the transmutation aura — _“They bind what is mine.”_  
 Velamir’s chilling final line:
 
 > “You hear it, don’t you? Then you’ll understand — one day.”
@@ -1858,14 +1853,14 @@ Velamir’s chilling final line:
 #### **6. The Departure (15–20 min)**
 
 They’re escorted away, disoriented, and released somewhere near the surface.  
-Semper feels changed — quieter, uncertain.  
-Rumors suggest the **Thirry forces have lost control** of several key sectors.
+[[Semper]] feels changed — quieter, uncertain.  
+Rumors suggest the **[[Thirry]] forces have lost control** of several key sectors.
 
 ---
 
 #### **7. Epilogue (optional, 5–10 min)**
 
-Shrieker’s symbol pulses faintly again.
+[[Shrieker]]’s symbol pulses faintly again.
 
 > _“You did well, little echo. But they will not give me back what they took.”_  
 > Fade to black.
