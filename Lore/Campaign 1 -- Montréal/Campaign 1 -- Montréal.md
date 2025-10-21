@@ -1547,7 +1547,7 @@ This session progression builds tension as the party moves closer to uncovering 
 ## Sessions
 
 
-### Session 1
+### Session 1 -- Echoes Beneath Part I
 **Recap plus intro**
 “Last time, you took the greatest risk yet. With the streets of [[Semper]] boiling and [[Baldwin Thirry]]’s banners tightening around the city, you infiltrated the military stronghold at the heart of the regime.
 
@@ -1566,14 +1566,14 @@ Season Two begins in mourning, in fire, and in fear. The rebellion breathes, but
 
 ---
 
-# 📖 Session Plan: **Act I – The Flames Beneath**
+#### 📖 Session Plan: **Act I – The Flames Beneath**
 
 **Tone**: Claustrophobic, hunted, rebellion in shadows.  
 **Objective**: Smuggle a relic through tunnels, keep the rebellion alive, first whispers of [[Kerälia]], foreshadowing [[Anselmet, le Chaotique|Anselmet]].
 
 ---
 
-## 🎬 Opening – Recap & New Ally
+#### 🎬 Opening – Recap & New Ally
 
 - **DM Recap**: Remind [[players]] of last session (military prison infiltration, adventurers freed, one comrade lost).
     
@@ -1588,9 +1588,9 @@ Season Two begins in mourning, in fire, and in fear. The rebellion breathes, but
 
 ---
 
-## 🗺️ Main Session Flow
+#### 🗺️ Main Session Flow
 
-## **Scene 1 – The Cellar Briefing (Roleplay, 20–30 mins)**
+#### **Scene 1 – The Cellar Briefing (Roleplay, 20–30 mins)**
 
 **Setup**: A damp wine cellar beneath a ruined tavern in [[Semper]], lit by single lanterns. Faction banners torn down, [[the Silver Chain]] symbol drawn in chalk on the wall.
 
@@ -1612,7 +1612,7 @@ Season Two begins in mourning, in fire, and in fear. The rebellion breathes, but
 
 ---
 
-## **Scene 2 – The Descent (Transition, 10–15 mins)**
+#### **Scene 2 – The Descent (Transition, 10–15 mins)**
 
 [[Players]] travel through a hidden hatch → **abandoned catacombs** → into tunnels.
 
@@ -1623,7 +1623,7 @@ Season Two begins in mourning, in fire, and in fear. The rebellion breathes, but
 
 ---
 
-## **Scene 3 – Encounter 1: The Collapsed Passage Ambush (Combat, 30–40 mins)**
+#### **Scene 3 – Encounter 1: The Collapsed Passage Ambush (Combat, 30–40 mins)**
 
 **Location**: A rubble-choked passage, forcing single-file movement. Torches half-buried in stone.
 
@@ -1644,7 +1644,7 @@ Season Two begins in mourning, in fire, and in fear. The rebellion breathes, but
 
 ---
 
-## **Scene 4 – The Underground River Crossing (Skill + Combat, 40–50 mins)**
+#### **Scene 4 – The Underground River Crossing (Skill + Combat, 40–50 mins)**
 
 **Location**: A rushing black river underground, with slick stepping stones and ropes strung across.
 
@@ -1668,7 +1668,7 @@ Season Two begins in mourning, in fire, and in fear. The rebellion breathes, but
 
 ---
 
-## **Scene 5 – The Final Chamber: Hand-off Interrupted (Combat + Roleplay, 45–60 mins)**
+#### **Scene 5 – The Final Chamber: Hand-off Interrupted (Combat + Roleplay, 45–60 mins)**
 
 **Location**: Large cavern with crates, old smuggler graffiti, broken furniture. [[The Silver Chain|Silver Chain]] contact is waiting.
  
@@ -1683,7 +1683,7 @@ Season Two begins in mourning, in fire, and in fear. The rebellion breathes, but
 
 ---
 
-## **Scene 6 – The Cliffhanger (5–10 mins)**
+#### **Scene 6 – The Cliffhanger (5–10 mins)**
 
 - After victory, the **crate cracks open slightly**. Inside: a **gleaming blue-black draconic scale**.
     
@@ -1706,7 +1706,7 @@ Season Two begins in mourning, in fire, and in fear. The rebellion breathes, but
 
 ---
 
-## 🧩 Pacing [[Notes]]
+#### 🧩 Pacing [[Notes]]
 
 - **Scene 1–2**: Roleplay + setup (30–45 mins).
     
@@ -1722,7 +1722,7 @@ Season Two begins in mourning, in fire, and in fear. The rebellion breathes, but
 
 ---
 
-## 🎯 Player Impact
+#### 🎯 Player Impact
 
 - **New PC** integrated with insider info.
     
@@ -1733,3 +1733,139 @@ Season Two begins in mourning, in fire, and in fear. The rebellion breathes, but
 - **[[Anselmet, le Chaotique|Anselmet]]**: Terrifying presence, too strong to face yet.
     
 - **Memory Magic**: Introduced subtly, seeds confusion and paranoia.
+
+### Session 2 -- 24 Oct Echoes Beneath Part II
+#### **1. Memory Confusion (5–10 min)**
+
+_(same as before)_  
+The party regroups after last session’s chaos. NPCs remember details differently.  
+Shrieker hears Keralia’s faint whispers.  
+The **box emits a low hum**, reacting to something deeper below.
+
+---
+
+#### **2. Tracking the Destination (15–20 min)**
+
+_(same as before)_  
+The group follows the coordinates/order left by the Silver Chain, navigating old tunnels and crypts.  
+Skill checks for navigation and atmosphere-building.
+
+As they approach what seems like the end, there’s a sudden _metallic echo_ ahead — the clanking of armor and boots.  
+They are **not alone.**
+
+---
+
+#### ⚔️ **3. Encounter: The Last Thirry Patrol (40–50 min)**
+
+**Location:** A collapsed transit tunnel leading to the Silver Chain sector. Crates, broken lanterns, dripping water from the ceiling.  
+There’s only **one way forward**, and it’s being fortified.
+
+**Setup:**  
+A **Thirry Captain** and his unit are setting up a defensive post. They have orders to “seal the lower routes” and “recover the artifact the adventurers stole” — meaning _the box_.
+
+They’re desperate, ragged, and confused, yet still loyal.  
+This is the **final organized Thirry resistance** below Semper.
+
+---
+
+##### **Enemies**
+
+|Enemy|CR|Count|Description|
+|---|---|---|---|
+|Thirry Captain|5|1|Veteran-type; still in full control, trying to hold the line.|
+|Thirry Crossbowmen|2|2|Take cover behind crates, use alchemical bolts.|
+|Thirry Heavy Guard|3|2|Use shield bash and hold positions at choke points.|
+|Thirry Alchemist|3|1|Wields unstable concoctions (smoke, acid, fire).|
+|**Optional Reinforcement**|-|1 (round 3)|A mutated or partially “altered” soldier showing signs of Puppeteer influence.|
+
+**Total Difficulty:** Hard for 5×L7 party, but manageable with environment and tactics.
+
+---
+
+##### **Environment Features**
+
+- **Explosive Crates:** Fire/acid barrels (Dex save 15 or 2d10 damage).
+    
+- **Unstable Ceiling:** Heavy stone chunks can be dislodged (Str check 14, Dex save 13 for those under).
+    
+- **Narrow Tunnel Entrance:** One player at a time can pass, forcing movement choices.
+    
+
+---
+
+##### **Combat Flavor**
+
+At the start of combat, the Captain shouts:
+
+> “The Thirry name will not fade to dust! Seal the passage—no one passes!”
+
+Mid-fight, the **Alchemist** throws a flask that fills part of the tunnel with green mist — mildly acidic (2d4 damage per turn if standing still).
+
+When reduced to half HP, the Captain yells:
+
+> “Why… why do I remember orders that were never given…?”
+
+And when the last soldier falls, Shrieker hears Keralia again:
+
+> _“Their memories rot… as will their empire.”_
+
+---
+
+##### **Outcome**
+
+- The patrol’s **equipment bears Thirry and Silver Chain symbols mixed**, showing some covert cooperation before the split.
+    
+- One soldier clutches a **melted metallic fragment** (one more piece of the Transmutation Gauntlet).
+    
+- A letter on the Captain’s body contains:
+    
+    > “To all remaining squads — recover the relic before it crosses the chain line. No witnesses. — Commandant V. Thirry”
+    
+
+This confirms that the Thirry family knew _something_ about the box — but not what it truly contained.
+
+---
+
+#### **4. The Silver Chain Hideout (20–30 min)**
+
+_(same as before)_  
+After defeating the patrol, the path continues to the massive gate.  
+Silver Chain operatives await in silence.
+
+Theron Velamir (or his masked lieutenant) thanks them coldly, instructing:
+
+> “You have done as asked. Leave the crate. Do not step beyond this line.”
+
+If players question or insist:
+
+> “This place is not for you. What we protect is older than your gods.”
+
+**Dozens of masked Chain members emerge**, filling the space — clear intimidation to stop further exploration.
+
+---
+
+#### **5. The Exchange (10 min)**
+
+_(same as before)_  
+The box is absorbed into the ground through metallic runes.  
+Shrieker feels the transmutation aura — _“They bind what is mine.”_  
+Velamir’s chilling final line:
+
+> “You hear it, don’t you? Then you’ll understand — one day.”
+
+---
+
+#### **6. The Departure (15–20 min)**
+
+They’re escorted away, disoriented, and released somewhere near the surface.  
+Semper feels changed — quieter, uncertain.  
+Rumors suggest the **Thirry forces have lost control** of several key sectors.
+
+---
+
+#### **7. Epilogue (optional, 5–10 min)**
+
+Shrieker’s symbol pulses faintly again.
+
+> _“You did well, little echo. But they will not give me back what they took.”_  
+> Fade to black.
