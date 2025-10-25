@@ -1546,7 +1546,6 @@ This session progression builds tension as the party moves closer to uncovering 
 
 ## Sessions
 
-
 ### Session 1 -- Echoes Beneath Part I
 **Recap plus intro**
 “Last time, you took the greatest risk yet. With the streets of [[Semper]] boiling and [[Baldwin Thirry]]’s banners tightening around the city, you infiltrated the military stronghold at the heart of the regime.
@@ -1734,6 +1733,18 @@ Season Two begins in mourning, in fire, and in fear. The rebellion breathes, but
     
 - **Memory Magic**: Introduced subtly, seeds confusion and paranoia.
 
+
+Session [[Notes]]: 
+le pere de violet est dead (random soldier)=> Next bbeg
+The leader of the Silver chains revealed himself to [[Shrieker]]
+[[Shrieker]] gains two daggers => to be added to dnd beyond + dont forget to find the rest of his subclass
+The transmutation guntlet isnt done yet pieces are still lost {some prob own by the [[thirry]] familly}
+“Carry the fragment, little echo… bring it to me, though you do not yet know me.” and "bring me back my body" keralia said to [[shrieker]] 
+[[Anselmet, le Chaotique|anselmet]] go cut off from the tunel
+[[Shrieker]] asked for answers on the symbol{why he stilll has the symbol}
+
+some npcs seemed lost a bit add lost some memories 
+
 ### Session 2 -- 24 Oct Echoes Beneath Part II
 #### **1. Memory Confusion (5–10 min)**
 
@@ -1802,7 +1813,7 @@ When reduced to half HP, the Captain yells:
 
 > “Where… where are we?”
 
-And when the last soldier falls, [[Shrieker]] hears Keralia again:
+And when the last soldier falls, [[Shrieker]] hears [[Kerälia]] again:
 
 > _“Their memories rot… as will their empire.”_
 

@@ -1,9 +1,17 @@
-le pere de violet est dead (random soldier)=> Next bbeg
-The leader of the Silver chains revealed himself to to Shrieker
-Shrieker gains two daggers => to be added to dnd beyond + dont forget to find the rest of his subclass
-The transmutation guntlet isnt done yet pieces are still lost {some prob own by the thirry familly}
-“Carry the fragment, little echo… bring it to me, though you do not yet know me.” and "bring me back my body" keralia said to shrieker 
-anselmet go cut off from the tunel
-Shrieker asked for answers on the symbol{why he stilll has the symbol}
+Urilenoir picks up the fragment
 
-some npcs seemed lost a bit add lost some memories 
+shrieker regard l'amulet vois l'oeuil
+urilenoir regard vois ourobouros
+shrieker regard symbole alchimiste argent
+
+
+silver chain silhouete 
+eye crossed
+Silver chain receiving gift
+New Born infant
+
+
+gadmus gain The Whispering Lens
+Lyriel gain a 6pack of potions
+
+make magic items with each player except shrieker
