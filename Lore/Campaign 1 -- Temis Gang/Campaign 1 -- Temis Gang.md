@@ -288,7 +288,7 @@ Ce plan pour le combat final devrait offrir une expérience épique et satisfais
   
   
 
-Session Notes:
+Session [[Notes]]:
 
 Did the spell to speak with employer to invoke [[Alfred]]
 
@@ -426,7 +426,7 @@ Terminez la session alors que le groupe aperçoit les murs de [[Semper]] au loin
   
   
 
-//Notes 
+//[[Notes]] 
 
 Potions
 
@@ -555,7 +555,7 @@ Arriver a [[Semper]] 
     
 2. Effets du Chant : Les joueurs ressentent les effets résiduels du chant hypnotique de la fausse hydre lorsqu'ils enquêtent sur la maison de l'adolescent.
     
-3. Souvenirs Oubliés : Les joueurs trouvent des indices, comme des dessins ou des notes de l'adolescent, qui évoquent sa curiosité pour des endroits interdits ou dangereux.
+3. Souvenirs Oubliés : Les joueurs trouvent des indices, comme des dessins ou des [[notes]] de l'adolescent, qui évoquent sa curiosité pour des endroits interdits ou dangereux.
     
 
 ####  3. Disparition du [[Professeur de Semper]]
@@ -573,7 +573,7 @@ Arriver a [[Semper]] 
 
 1. Le Lendemain Matin : Le professeur disparaît, et personne dans la ville ne se souvient de lui ni de ses travaux.
     
-2. École Abandonnée : L'école ou le bureau du professeur semble abandonné, avec des traces de lutte ou des notes laissées à moitié terminées.
+2. École Abandonnée : L'école ou le bureau du professeur semble abandonné, avec des traces de lutte ou des [[notes]] laissées à moitié terminées.
     
 3. Indice Mystérieux : Les joueurs trouvent des documents ou des objets du professeur qui mentionnent des recherches sur des créatures mythiques ou des phénomènes inexplicables.
     
@@ -673,7 +673,7 @@ Charbon sur papier rugueux
 
 1. Dessin d’une tête de [[false hydra]]
     
-2. Dessin des entrées ou notes des entrées du réseaux de tunnels
+2. Dessin des entrées ou [[notes]] des entrées du réseaux de tunnels
     
 3. Note du professeur
     
@@ -1128,7 +1128,7 @@ The session ends with the party:
 - Staring at **strange runes flickering back to life**.
 - Hearing **something moving in the darkness ahead…**
 
-Notes 
+[[Notes]] 
 breton add necklace, salive du wyrm and scale
 mini un shield, dent du wyrm
 
@@ -1251,7 +1251,7 @@ He may offer them:
 
 
 
-###  Notes: 
+###  [[Notes]]: 
 party is in tavern singing their tales, will be look for trail dogs
 [[Cashmere]] has a 6pack of potions 
 jimmy jays has a dagger to be made (lifelink)
@@ -1273,16 +1273,16 @@ As the party leaves the church, Gunther stays behind in hope of collecting infor
     
 - The old church, dim and echoing, feels bigger now.
     
-- Gabriel watches Gunther quietly as the heavy doors shut.
+- [[Gabriel]] watches Gunther quietly as the heavy doors shut.
     
 
-**Gabriel:**
+**[[Gabriel]]:**
 
 > _“What can I do for you, my son?”_
 
 - He knows why Gunther stayed — but tests if Gunther will speak his true heart.
     
-- If Gunther tries to soften it — Gabriel gently insists on truth.
+- If Gunther tries to soften it — [[Gabriel]] gently insists on truth.
     
 - The moment sets the tone: **no lies in the dark**.
     
@@ -1291,20 +1291,20 @@ As the party leaves the church, Gunther stays behind in hope of collecting infor
 
 ### ** Descent — Preparing the Ritual**
 
-- Gabriel leads Gunther deeper: down stone steps to a **crypt chapel**, lined with skulls or black cloth banners.
+- [[Gabriel]] leads Gunther deeper: down stone steps to a **crypt chapel**, lined with skulls or black cloth banners.
     
 - An old **black-lantern** sits on a simple altar surrounded by unlit black candles.
     
 - Gunther kneels or sits on a stone slab — the **cape wraps around him**, shadows whispering.
     
-- Gabriel lights the candles — **only source of light** in the darkness.
+- [[Gabriel]] lights the candles — **only source of light** in the darkness.
     
 
 ---
 
 ### ** The Lantern — Gathering the Light**
 
-- Gabriel lifts the **black-lantern**.
+- [[Gabriel]] lifts the **black-lantern**.
     
 
 > _“Darkness is not emptiness, but comfort for the weary flame.”_
@@ -1322,7 +1322,7 @@ As the party leaves the church, Gunther stays behind in hope of collecting infor
 
 ### ** The First Attempt — Veil of Night**
 
-- Gabriel places his hand on Gunther’s head — murmurs a prayer.
+- [[Gabriel]] places his hand on Gunther’s head — murmurs a prayer.
     
 - Gunther’s mind drifts: fleeting shadows of his wife, laughter echoing, warmth just out of reach.
     
@@ -1346,7 +1346,7 @@ As the party leaves the church, Gunther stays behind in hope of collecting infor
 
 ###  ** The Priest’s Choice — The Vessel**
 
-- Gabriel breathes heavily, voice calm but strained.
+- [[Gabriel]] breathes heavily, voice calm but strained.
     
 
 > _“You stand too close to the flame to see the shade. Let me bear it for you.”_
@@ -1366,7 +1366,7 @@ As the party leaves the church, Gunther stays behind in hope of collecting infor
 
 ### ** [[Lorthtrull]]’s Message**
 
-Through Gabriel, [[Lorthtrull]] says:
+Through [[Gabriel]], [[Lorthtrull]] says:
 
 > _“You wear your promise close to your heart — let it bear your burden too.”_
 
@@ -1389,7 +1389,7 @@ Through Gabriel, [[Lorthtrull]] says:
 
 - The shadows fade — the lantern dims, its flames spent.
     
-- Gabriel slumps forward — exhausted or possibly near death.
+- [[Gabriel]] slumps forward — exhausted or possibly near death.
     
 - Gunther’s pendant is now **the anchor for his Illriger power** — and his burden.
     
@@ -1397,3 +1397,233 @@ Through Gabriel, [[Lorthtrull]] says:
 > _"As it was bound by love, now it is bound by shadow. So long as your mercy outweighs your wrath, it shall remain whole.”
 
 >“Wear this. It binds your shadow to my shade. Should you stray, it shall weigh you down. Should you guide, it shall lighten your burden.” 
+
+
+
+## Session 1 
+### Session: Songs in [[Galeside]], Shadows on the Ice
+
+#### Cast-on
+
+- **Setting:** The **Frosted Tern** (small tavern in **[[Galeside]]**). Villagers feast; music, clapping, rough-hewn tables, smoked fish, pine-resin torches.
+    
+- **Tone:** Warm celebration on the surface, but rumors and patrols swirl outside. Winter wind rattles the shutters.
+    
+
+---
+
+#### Act I — [[Galeside]] Feast (Roleplay, light skill checks)
+
+##### Box Text
+
+> The tavern roars with laughter and tankards knocking. Lanterns paint gold across fur cloaks and scarred shields. A hunched woman with white-braid hair and a dozen charms clacking at her wrists watches you from the hearth—eyes like cold embers, kind and unblinking.
+
+##### The Old Shaman (NPC)
+
+- **Name:** [[Nethra Blackveil]] (vieille chamane)
+    
+- **Demeanor:** Warm, teasing, oddly precise when she speaks of “threads” and “knots of fate.”
+    
+- **Hook:** She “dreamed of six shadows crossing pale stone” (the party crossing mountain passes); warns that **names bind**, and the one they seek “wears winter like a crown.”
+    
+
+###### Gifts: Potions (choose or roll 1d4 each; 2 per character or a shared set of 6)
+
+1. **Trail Draught (1 dose)** — For 8 hours, ignore difficult terrain from snow/ice; +2 to Survival (tracking/navigation).
+    
+2. **Wyrm-Salve (balm, 2 uses)** — Bonus action; a creature gains resistance to cold damage for 10 minutes.
+    
+3. **Tern’s Eye (vial)** — Advantage on one Investigation or Perception check tied to spotting tracks, runes, or distant signal fires.
+    
+4. **Tide-Knot Tea (thermos)** — Short rest counts as 45 minutes; one creature also ends frightened.
+    
+
+> If you want to keep perfect continuity with your note “**[[Cashmere]] has a 6pack of potions**,” you can treat Maela’s gifts as topping that up to six labeled vials.
+
+###### Reading the Party (optional personal beats)
+
+- **Gunther:** [[Nethra Blackveil]]’s gaze lingers on his **pendant** (bound to [[Lorthtrull]]’s Veil). She murmurs: “The dead follow those who walk gently. Keep your mercy.”
+    
+- **Others:** One-line fortunes foreshadowing the road (e.g., “Avoid blue fire,” “Count to three before you knock”).
+    
+
+##### Tavern Threads (pick 1–3)
+
+- **Song & Boast:** A villager asks for a tale from **[[Semper]]** ([[Porc Dansant]], “hydre mensongère” whispers). Performance/Deception (DC 13) for advantage on later rumor checks in [[Truvel]].
+Success
+    
+- **Quiet Warning:** Trapper says **[[Thirry]]** patrols have a “snow-cowl” scout who marks doors at night (chalk triangles). Insight (DC 12) reveals: they mark suspected **rebels** and **adventurers**.
+    
+- **Shaman’s Maplet:** [[Nethra Blackveil]] traces **two routes** to [[Truvel]] on a scrap: riverside road (faster, more patrols); forest edge (slower, safer). She marks a “broken watch-tower” midway where **signal fires** are sometimes seen.
+    
+
+**Outcome:** The party leaves at dawn to [[Truvel]] with potions and light local intel.
+
+---
+
+#### Act II — Two or Three Days to [[Truvel]] (Travel, events)
+
+Choose a route:
+
+##### Route A: Riverside Road (2 days, faster, riskier)
+
+- **Day 1 Morning — Signal Smoke**
+    
+    - **Scene:** A thin line of smoke from the **broken watch-tower** [[Nethra Blackveil]] marked.
+        
+    - **Choices:** Approach (Stealth/Perception DC 13).
+        
+        - **Success:** Spot 2 **lurking spies** of **[[Lothaire Thirry]]** taking [[notes]] on road traffic; the party can ambush, shadow them, or avoid.
+            
+        - **Fail:** The spies light a **flare arrow** that may draw a patrol later in the day.
+            
+- **Day 1 Evening — Frozen Footbridge**
+    
+    - A narrow ice-slick bridge over fast water. Group **Athletics/Acrobatics DC 12**; one failure triggers a light mishap (lose 1 item, or 1d6 cold damage). Using **Trail Draught** negates.
+        
+- **Day 2 Noon — Patrol on the Bend**
+    
+    - 1 sergeant, 4 soldiers.
+        
+    - **Avoid:** Group Stealth DC 14 (advantage if they scouted the spies earlier).
+        
+    - **Talk:** Persuasion/Deception DC 15; hint that “rebels are north” shifts the patrol away but sets a future clock (they’ll stir the area).
+        
+    - **Fight:** Medium encounter; loot: **orders** mentioning “**Imbrel** tribute irregularities beyond the **Wintergate Stones**.” (Lead!)
+        
+
+##### Route B: Forest Edge (3 days, slower, safer)
+
+- **Day 1 — White Stag Omen (non-combat)**
+    
+    - **Nature/Religion DC 12:** Interpreted as a **good passage** sign. Gain inspiration or +1 to the next group check.
+        
+- **Day 2 — Snow Squall**
+    
+    - Survival DC 13 to camp smart; success = arrive in [[Truvel]] less exhausted; failure = one level of exhaustion on one character (Tide-Knot Tea removes).
+        
+- **Day 3 — Abandoned Sledge**
+    
+    - Find a cracked **ice-sledge** with fish scales and **huge blue-tinged footprints** diverging into low hills (Imbrel sign). **Survival DC 14** learns the prints are **days old** and **circling**—as if **patrolling**. (Lead!)
+        
+Tom bombardien
+Razzihlk felled and died 
+Ghunter is deceifeing infos for imbrel Skirri
+
+---
+
+#### Act III — Arrival in [[Truvel]] (Urban investigation)
+
+**[[Truvel]]**: main city of the north—fishing quays, smokehouses, stone piers iced over, market arcs with salt barrels, a chilly square with a frost-scarred statue. [[Thirry]] banners hang thinly; most guards look bored, underpaid, and cold.
+
+##### Primary Goal
+
+**Find credible clues to the whereabouts of _[[Imbrel Skorri]]_** (no one in the party knows what to expect beyond the name; keep him mysterious but tangible).
+
+##### Investigation Structure (3 Clues = Convergence)
+
+Use a simple clue clock: each successful lead brings them closer to a rendezvous **outside** the city at the **Wintergate Stones**.
+
+###### Lead 1 — The Fishmongers’ Row
+
+- **Approach:** Ask about **tribute shortages** or **missing caravans**.
+    
+- **Check:** Persuasion DC 12 (advantage if they performed/earned goodwill back in [[Galeside]]).
+    
+- **Clue:** “The **Blue Lads** (a boat crew) used to carry **‘the Tithe’** north to ‘**the big friend**’ once a fortnight. Haven’t seen them in **a week**. Last they spoke of **‘starlit standing stones’** inland.”
+    
+
+###### Lead 2 — The Smoked-Eel Tavern (quiet den near the piers)
+
+- **Approach:** Bribe (2–5 gp), play cards, or promise protection from patrols.
+    
+- **Checks:** Deception/Insight DC 13 to avoid a scam.
+    
+- **Clue:** A tattered **tribute ledger** lists **“W.G. Stones — tall watcher collected at dusk; leave food, leave tools, leave steel”**. Marginal note: “**[[Bulvack]]** sightings on the eastern ridge.” (Echoes your global arc.)
+    
+
+###### Lead 3 — Dwarven Outfitter “Iron & Ice”
+
+- **Approach:** Buy climbing spikes/rope; ask about “giant problems.”
+    
+- **Check:** Investigation DC 14 or Show the **orders** from a patrol (auto-succeed).
+    
+- **Clue:** A dwarven prospector sold them **blue-scraped boulders** and “giant chalk.” He grumbles: “**He** breaks ice to keep wolves away from the **hamlet past the Stones**.”
+    
+
+###### Lead 4 — The Bell-Ward (small shrine lane)
+
+- **Approach:** Speak to a bell-ringer who does evening routes.
+    
+- **Check:** Religion/Perception DC 12.
+    
+- **Clue:** “Sometimes at night, the bells hum on their own—like **footfalls** rolling under the earth. East. Always east.”
+    
+
+> **Any 3** leads point the party to **The Wintergate Stones** at next light (half-day walk). Optional: a **[[Thirry]] spotter** tails them (Opposed Stealth vs. Perception; capture yields a **[[map]] pin**: _“Wintergate ↗”_).
+
+---
+
+#### The Wintergate Stones (Session End Hook / Next Session Start)
+
+##### Location Read
+
+> On a wind-scoured ridge stand five standing stones, each taller than a house, cross-hatched by glacial blue. The air is colder here—quiet in a way that tastes like snow. In the trampled snow, you see **massive prints** circling like a watchman’s path, and a place where **food bundles** were left and taken with care.
+
+##### What Happens Here
+
+- **At Dusk:** A **signal horn** (deep, mournful) sounds from the hills.
+    
+- **If the party waits respectfully** (or leaves tribute): a **shadow like a moving cliff** halts at the ridge line—**Imbrel** watching. The session can **end on the silhouette and the breath-cloud**, or proceed into a **parley next episode**.
+    
+- **If they set an ambush or approach aggressively:** The ground shakes; a warning **ice-crack** rolls across the ridge. He won’t fight to kill—he’s **protective** and **testing**.
+    
+
+> **Truth to reveal across the next episode:** Imbrel once fought the kingdom; now **retired**, **guarding a small hamlet** from beasts and would-be invaders. He **demands tribute** because feeding a giant and defending humans costs dearly—he chooses survival over glory.
+
+---
+
+#### Optional Scenes & Tables
+
+##### Quick Trouble Table in [[Truvel]] (roll 1d6 if pacing needs spice)
+
+1. A **pickpocket** tries for the party’s [[map]]/ledger.
+    
+2. A **patrol** performs a “papers check.”
+    
+3. A **street preacher** rails against “monsters in men’s skin” (foreshadow spies).
+    
+4. **Smuggler child** offers to lead to the “stone bells” for a coin.
+    
+5. **Storm squall** turns streets to churning slush (Con saves or lose time).
+    
+6. A **blue-eyed stray dog** follows the kindest PC (trail dog seed).
+    
+
+##### Scaling [[Notes]]
+
+- If the party is hurt from travel, reduce patrol sizes or turn a fight into a tense **document check**.
+    
+- Good roleplay in [[Galeside]] = **+1 forward** on the first social check in [[Truvel]].
+    
+- Using **Trail Draught**/Wyrm-Salve in clever ways earns **advantage** on relevant checks.
+    
+
+##### Rewards & Artifacts
+
+- **Orders/ledger pages** that literally point to **Wintergate Stones** (physical handouts if you like charcoal on rough paper).
+    
+- **Rumor currency:** future advantage when negotiating with fisherfolk/boat crews in [[Truvel]].
+    
+- Potions from Maela already listed.
+    
+
+---
+
+#### End Conditions
+
+- **Best:** Party pieces together 3+ clues and heads for **Wintergate Stones** at dusk.
+    
+- **Complication:** They’re tailed by a **[[Thirry]] spotter**; capture yields the exact ridge.
+    
+- **Cliffhanger:** Giant silhouette at sunset; low, rolling horn; **fade to black**.
